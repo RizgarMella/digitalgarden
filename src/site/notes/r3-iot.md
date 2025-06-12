@@ -1,9 +1,0 @@
----
-{"dg-publish":true,"permalink":"/r3-iot/","title":"R3-IoT"}
----
-
-
-Raised $4.3M in 2024 for satellite-enabled sensor connectivity solutions.
-
-related_to:: [[sensor-networks\|sensor-networks]]
-related_to:: [[scotland\|Scotland]]
