@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/anduril-industries/","title":"Anduril Industries"}
+---
+
+
+Raised $1.5 billion in 2024; develops advanced autonomous systems for defense operations.
+
+related_to:: [[autonomous-drones\|autonomous-drones]]
+related_to:: [[usa\|USA]]
