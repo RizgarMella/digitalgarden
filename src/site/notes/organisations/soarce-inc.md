@@ -5,5 +5,5 @@
 
 Develops seaweed-derived chemical treatments for textiles.
 
-related_to:: [[biomimicry\|biomimicry]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/biomimicry\|biomimicry]]
+related_to:: [[digests/usa\|USA]]

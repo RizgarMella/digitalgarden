@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-Portugal’s performance in the field of autonomous-drones—a key dual-use technology—has shown marked improvement over the past decade, with the nation leveraging its strategic Atlantic location, progressive regulatory environment, and a burgeoning tech ecosystem. Central to Portugal’s progress is the work of [[tekever\|Tekever]], a domestic leader in unmanned systems, which has positioned the country as a significant player in the European autonomous-drone market. However, Portugal’s ecosystem remains relatively small, with limited indigenous manufacturing capacity and a dependence on international partnerships for advanced components and scaling.
+Portugal’s performance in the field of autonomous-drones—a key dual-use technology—has shown marked improvement over the past decade, with the nation leveraging its strategic Atlantic location, progressive regulatory environment, and a burgeoning tech ecosystem. Central to Portugal’s progress is the work of [[organisations/tekever\|Tekever]], a domestic leader in unmanned systems, which has positioned the country as a significant player in the European autonomous-drone market. However, Portugal’s ecosystem remains relatively small, with limited indigenous manufacturing capacity and a dependence on international partnerships for advanced components and scaling.
 
 This report assesses Portugal’s current capabilities, identifies strengths and weaknesses, highlights notable programmes and investments, compares Portugal’s competitive standing, explores opportunities for collaboration and export, outlines key risks, and provides a five-year outlook for the nation’s trajectory in autonomous-drones.
 
@@ -13,7 +13,7 @@ This report assesses Portugal’s current capabilities, identifies strengths and
 
 ### 1. Strong Indigenous Innovation via Tekever
 
-Portugal’s flagship in the autonomous-drone sector is [[tekever\|Tekever]], which has developed a robust portfolio of unmanned aerial vehicles (UAVs) for both civilian and defence applications. Tekever’s platforms—such as the AR3 and AR5 systems—are notable for their modularity, endurance, and integration of artificial intelligence (AI) for autonomous operations. Tekever’s success in securing contracts with the European Maritime Safety Agency (EMSA), the UK Ministry of Defence, and several NATO partners demonstrates Portugal’s capacity to compete internationally.
+Portugal’s flagship in the autonomous-drone sector is [[organisations/tekever\|Tekever]], which has developed a robust portfolio of unmanned aerial vehicles (UAVs) for both civilian and defence applications. Tekever’s platforms—such as the AR3 and AR5 systems—are notable for their modularity, endurance, and integration of artificial intelligence (AI) for autonomous operations. Tekever’s success in securing contracts with the European Maritime Safety Agency (EMSA), the UK Ministry of Defence, and several NATO partners demonstrates Portugal’s capacity to compete internationally.
 
 ### 2. Regulatory Foresight and Support
 
@@ -35,7 +35,7 @@ Portuguese universities, notably Instituto Superior Técnico and the University 
 
 ### 1. Limited Scale and Industrial Base
 
-Despite the success of [[tekever\|Tekever]], Portugal’s overall industrial base for high-end drone manufacturing remains limited. The country lacks large-scale production facilities, advanced sensor manufacturing, and indigenous propulsion system development. This constrains the ability to scale production rapidly or respond to surges in domestic or export demand.
+Despite the success of [[organisations/tekever\|Tekever]], Portugal’s overall industrial base for high-end drone manufacturing remains limited. The country lacks large-scale production facilities, advanced sensor manufacturing, and indigenous propulsion system development. This constrains the ability to scale production rapidly or respond to surges in domestic or export demand.
 
 ### 2. Dependence on Foreign Components and Technology
 
@@ -79,7 +79,7 @@ Portugal has established UAV test ranges in Beja and the Azores, offering airspa
 
 ### 1. Europe
 
-Portugal, through [[tekever\|Tekever]], is recognized as one of the few EU countries with an indigenous drone OEM capable of exporting to defence and security customers. However, it lags behind France (Parrot, Thales), Germany (Quantum Systems), and Spain (Indra, GMV) in terms of scale, diversity of platforms, and vertical integration.
+Portugal, through [[organisations/tekever\|Tekever]], is recognized as one of the few EU countries with an indigenous drone OEM capable of exporting to defence and security customers. However, it lags behind France (Parrot, Thales), Germany (Quantum Systems), and Spain (Indra, GMV) in terms of scale, diversity of platforms, and vertical integration.
 
 ### 2. Global
 
@@ -151,7 +151,7 @@ Portugal can attract foreign investment through joint ventures focused on sensor
 
 ### 1. Growth Trajectory
 
-Over the next five years (2025–2030), Portugal is expected to consolidate its position as a European leader in maritime and environmental applications of autonomous-drones, driven by [[tekever\|Tekever]]’s continued innovation and successful export campaigns. The domestic ecosystem will likely expand, with increased participation in EU-funded R&D and operational programmes.
+Over the next five years (2025–2030), Portugal is expected to consolidate its position as a European leader in maritime and environmental applications of autonomous-drones, driven by [[organisations/tekever\|Tekever]]’s continued innovation and successful export campaigns. The domestic ecosystem will likely expand, with increased participation in EU-funded R&D and operational programmes.
 
 ### 2. Technological Evolution
 
@@ -178,4 +178,4 @@ Supply chain resilience, talent retention, and cybersecurity will remain ongoing
 - Develop a national strategy for dual-use technology export and supply chain security.
 
 **Conclusion:**  
-Portugal, anchored by [[tekever\|Tekever]]’s achievements, has established itself as a credible player in the autonomous-drones sector, particularly in maritime and dual-use applications. While facing structural limitations in scale and industrial depth, Portugal’s regulatory agility, strategic partnerships, and focus on niche markets provide a solid foundation for continued growth and international relevance over the next five years.
+Portugal, anchored by [[organisations/tekever\|Tekever]]’s achievements, has established itself as a credible player in the autonomous-drones sector, particularly in maritime and dual-use applications. While facing structural limitations in scale and industrial depth, Portugal’s regulatory agility, strategic partnerships, and focus on niche markets provide a solid foundation for continued growth and international relevance over the next five years.

@@ -48,17 +48,17 @@ To capitalize on the potential of composite materials in defense, a strategic in
 5. **Sustainability Initiatives**: Explore bio-based composites and recycling methods to address environmental concerns associated with traditional composites. Investing in sustainable practices will align with broader defense goals of reducing the environmental impact of military operations.
 
 By focusing on these areas, the defense sector can harness the full potential of composite materials, driving innovation and enhancing operational capabilities.
-related_to:: [[icomat\|iCOMAT]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[organisations/icomat\|iCOMAT]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]
 related_to:: [[ARRIS Composites\|ARRIS Composites]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[bcomp\|Bcomp]]
-related_to:: [[switzerland\|Switzerland]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[organisations/bcomp\|Bcomp]]
+related_to:: [[digests/switzerland\|Switzerland]]
 related_to:: [[Atomic-6 LLC\|Atomic-6 LLC]]
 related_to:: [[University of Wyoming\|University of Wyoming]]
 related_to:: [[Advanced Structures and Composites Center\|Advanced Structures and Composites Center]]
 related_to:: [[ARC Training Centre for Automated Manufacture of Advanced Composites\|ARC Training Centre for Automated Manufacture of Advanced Composites]]
-related_to:: [[australia\|Australia]]
+related_to:: [[digests/australia\|Australia]]
 related_to:: [["University of Wyoming"\|"University of Wyoming"]]
 related_to:: [["ARRIS Composites"\|"ARRIS Composites"]]
 related_to:: [["iCOMAT"\|"iCOMAT"]]

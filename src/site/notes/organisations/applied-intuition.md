@@ -5,5 +5,5 @@
 
 Achieved $6B valuation in 2024 after $250M Series E funding for autonomous vehicle software.
 
-related_to:: [[automated-design-software\|automated-design-software]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/automated-design-software\|automated-design-software]]
+related_to:: [[digests/usa\|USA]]

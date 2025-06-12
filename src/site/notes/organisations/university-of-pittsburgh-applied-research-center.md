@@ -5,5 +5,5 @@
 
 Provides research and educational support in manufacturing processes.
 
-related_to:: [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
+related_to:: [[digests/united-states\|United-States]]

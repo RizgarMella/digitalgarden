@@ -5,5 +5,5 @@
 
 Develops polyester alternatives from food waste; raised $2.3M.
 
-related_to:: [[sustainable-materials\|sustainable-materials]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/sustainable-materials\|sustainable-materials]]
+related_to:: [[digests/canada\|Canada]]

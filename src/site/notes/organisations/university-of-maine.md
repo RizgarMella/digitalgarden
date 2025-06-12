@@ -5,5 +5,5 @@
 
 Unveiled world's largest 3D printer for constructing entire houses.
 
-related_to:: [[3d-printing\|3d-printing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/3d-printing\|3d-printing]]
+related_to:: [[digests/usa\|USA]]

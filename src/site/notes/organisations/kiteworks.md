@@ -5,5 +5,5 @@
 
 Raised $456 million in August 2024 for secure content solutions.
 
-related_to:: [[cybersecurity\|cybersecurity]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/cybersecurity\|cybersecurity]]
+related_to:: [[digests/united-states\|United-States]]

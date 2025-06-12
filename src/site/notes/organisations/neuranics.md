@@ -5,5 +5,5 @@
 
 Raised $8M in seed funding for magnetic sensor technology.
 
-related_to:: [[wearable-health-tech\|wearable-health-tech]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[descriptions/wearable-health-tech\|wearable-health-tech]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]

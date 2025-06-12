@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-This report provides an in-depth assessment of Scotland’s current performance and future trajectory in the field of **sensor-networks** as a dual-use technology, with particular reference to the activities of [[r3-iot\|R3-IoT]]. As of mid-2025, Scotland demonstrates a robust ecosystem for sensor-network research, development, and early-stage commercialisation, underpinned by strong academic institutions, government support, and an emerging cluster of innovative companies. However, challenges remain in scaling, international competitiveness, and integration with global supply chains. The report analyses strengths, weaknesses, notable programmes, comparative positioning, opportunities, risks, and a five-year outlook.
+This report provides an in-depth assessment of Scotland’s current performance and future trajectory in the field of **sensor-networks** as a dual-use technology, with particular reference to the activities of [[organisations/r3-iot\|R3-IoT]]. As of mid-2025, Scotland demonstrates a robust ecosystem for sensor-network research, development, and early-stage commercialisation, underpinned by strong academic institutions, government support, and an emerging cluster of innovative companies. However, challenges remain in scaling, international competitiveness, and integration with global supply chains. The report analyses strengths, weaknesses, notable programmes, comparative positioning, opportunities, risks, and a five-year outlook.
 
 ## Strengths
 
@@ -19,7 +19,7 @@ The Scottish Government and agencies such as Scottish Enterprise and Highlands a
 
 ### Emerging Industry Leaders
 
-[[r3-iot\|R3-IoT]] exemplifies Scotland’s entrepreneurial momentum in **sensor-networks**. The company has developed satellite-enabled sensor-network platforms that address connectivity gaps in remote and maritime environments—an area of strategic importance for both civilian and defence applications. Other Scottish SMEs are active in environmental monitoring, smart infrastructure, and precision agriculture, leveraging sensor-network technologies.
+[[organisations/r3-iot\|R3-IoT]] exemplifies Scotland’s entrepreneurial momentum in **sensor-networks**. The company has developed satellite-enabled sensor-network platforms that address connectivity gaps in remote and maritime environments—an area of strategic importance for both civilian and defence applications. Other Scottish SMEs are active in environmental monitoring, smart infrastructure, and precision agriculture, leveraging sensor-network technologies.
 
 ### Dual-Use Orientation
 
@@ -33,7 +33,7 @@ The UK’s Integrated Review (2021) and Scotland’s Digital Strategy (2021–20
 
 ### Scale and Commercialisation Gaps
 
-While Scotland has a vibrant start-up and SME scene, the scale-up rate for technology companies—particularly in hardware-centric fields such as **sensor-networks**—remains limited. Few companies have achieved significant export sales or global market penetration. [[r3-iot\|R3-IoT]] is a notable exception, but the sector overall lacks large anchor firms.
+While Scotland has a vibrant start-up and SME scene, the scale-up rate for technology companies—particularly in hardware-centric fields such as **sensor-networks**—remains limited. Few companies have achieved significant export sales or global market penetration. [[organisations/r3-iot\|R3-IoT]] is a notable exception, but the sector overall lacks large anchor firms.
 
 ### Fragmented Supply Chains
 
@@ -55,7 +55,7 @@ Access to growth capital for hardware and deep-tech ventures is more limited in 
 
 ### R3-IoT
 
-[[r3-iot\|R3-IoT]] has emerged as a flagship Scottish company in the **sensor-networks** space. Its “Connected Everywhere” platform integrates terrestrial and satellite communications to enable sensor-network deployment in remote, maritime, and infrastructure-poor areas. The company has secured contracts with UK government agencies, offshore energy operators, and international partners, and has raised significant venture and grant funding since 2022.
+[[organisations/r3-iot\|R3-IoT]] has emerged as a flagship Scottish company in the **sensor-networks** space. Its “Connected Everywhere” platform integrates terrestrial and satellite communications to enable sensor-network deployment in remote, maritime, and infrastructure-poor areas. The company has secured contracts with UK government agencies, offshore energy operators, and international partners, and has raised significant venture and grant funding since 2022.
 
 ### CENSIS Innovation Centre
 
@@ -85,7 +85,7 @@ Scotland’s performance is competitive with similar-sized European regions, suc
 
 ### Global
 
-Internationally, Scotland’s sensor-network ecosystem is recognised for innovation in remote and maritime environments, but lags behind global leaders (e.g., the US, Israel, South Korea) in terms of scale, defence integration, and supply chain autonomy. Scottish companies, including [[r3-iot\|R3-IoT]], are beginning to secure international contracts but face strong competition from established US and Asian vendors.
+Internationally, Scotland’s sensor-network ecosystem is recognised for innovation in remote and maritime environments, but lags behind global leaders (e.g., the US, Israel, South Korea) in terms of scale, defence integration, and supply chain autonomy. Scottish companies, including [[organisations/r3-iot\|R3-IoT]], are beginning to secure international contracts but face strong competition from established US and Asian vendors.
 
 ## Opportunities for Collaboration / Export
 
@@ -143,7 +143,7 @@ Scotland’s **sensor-networks** sector is poised for moderate-to-strong growth 
 
 ### Industry Evolution
 
-[[r3-iot\|R3-IoT]] and peer companies are likely to consolidate their positions as leading suppliers of hybrid connectivity and sensor-network platforms, with expanded offerings for defence, maritime, and industrial markets. Mergers, acquisitions, and international partnerships are probable as the sector matures.
+[[organisations/r3-iot\|R3-IoT]] and peer companies are likely to consolidate their positions as leading suppliers of hybrid connectivity and sensor-network platforms, with expanded offerings for defence, maritime, and industrial markets. Mergers, acquisitions, and international partnerships are probable as the sector matures.
 
 ### Research and Skills
 

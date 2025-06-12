@@ -5,6 +5,6 @@
 
 Obtained $30M in June 2024 to advance passwordless authentication solutions.
 
-related_to:: [[biometric-authentication-systems\|biometric-authentication-systems]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[biometric-authentication\|biometric-authentication]]
+related_to:: [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[descriptions/biometric-authentication\|biometric-authentication]]

@@ -5,5 +5,5 @@
 
 Raised an additional $43M in funding in 2024.
 
-related_to:: [[facial-recognition\|facial-recognition]]
-related_to:: [[israel\|Israel]]
+related_to:: [[descriptions/facial-recognition\|facial-recognition]]
+related_to:: [[digests/israel\|Israel]]

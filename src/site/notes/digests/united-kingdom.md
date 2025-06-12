@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-This report provides a comprehensive assessment of the United Kingdom’s performance and trajectory in select dual-use technologies as of June 2025. The analysis focuses on the following technology domains: advanced manufacturing techniques, biometric authentication and systems, blockchain technology, composite materials, digital twin technology, edge computing, quantum key distribution, and wearable health tech. The report also considers the contributions of key organisations, including [[Cera Care\|Cera Care]], [[dexory\|Dexory]], [[Imperial College London\|Imperial College London]], [[keyless\|Keyless]], [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]], [[neuranics\|Neuranics]], [[NexGen Cloud\|NexGen Cloud]], [[Quantum Communications Hub\|Quantum Communications Hub]], and [[icomat\|iCOMAT]].
+This report provides a comprehensive assessment of the United Kingdom’s performance and trajectory in select dual-use technologies as of June 2025. The analysis focuses on the following technology domains: advanced manufacturing techniques, biometric authentication and systems, blockchain technology, composite materials, digital twin technology, edge computing, quantum key distribution, and wearable health tech. The report also considers the contributions of key organisations, including [[Cera Care\|Cera Care]], [[organisations/dexory\|Dexory]], [[Imperial College London\|Imperial College London]], [[organisations/keyless\|Keyless]], [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]], [[organisations/neuranics\|Neuranics]], [[NexGen Cloud\|NexGen Cloud]], [[Quantum Communications Hub\|Quantum Communications Hub]], and [[organisations/icomat\|iCOMAT]].
 
 The UK continues to demonstrate robust innovation capabilities, supported by a vibrant research ecosystem, active public-private partnerships, and targeted government investment. The country is particularly strong in quantum communications, advanced manufacturing, and digital health, although it faces challenges in scaling up and commercialising certain technologies. The UK’s dual-use technology base is well-positioned for international collaboration and export, but it must address skills shortages, regulatory uncertainties, and global competition to maintain its edge.
 
@@ -21,27 +21,27 @@ The UK boasts a world-class research base, with institutions such as [[Imperial 
 
 ### Advanced Manufacturing Techniques
 
-Organisations like [[icomat\|iCOMAT]] and the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]] exemplify the UK’s leadership in advanced manufacturing techniques, including additive manufacturing, automated fibre placement, and robotics. These capabilities underpin both defence and civil sectors, enabling rapid prototyping, lightweight structures, and reduced production costs.
+Organisations like [[organisations/icomat\|iCOMAT]] and the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]] exemplify the UK’s leadership in advanced manufacturing techniques, including additive manufacturing, automated fibre placement, and robotics. These capabilities underpin both defence and civil sectors, enabling rapid prototyping, lightweight structures, and reduced production costs.
 
 ### Quantum Key Distribution
 
-The [[Quantum Communications Hub\|Quantum Communications Hub]] has positioned the UK as a European leader in [[quantum-key-distribution\|quantum-key-distribution]], with successful demonstrations of secure quantum networks and ongoing pilot projects with government and industry partners. The UK’s regulatory environment and early investments have accelerated the maturation of quantum-secure communications.
+The [[Quantum Communications Hub\|Quantum Communications Hub]] has positioned the UK as a European leader in [[descriptions/quantum-key-distribution\|quantum-key-distribution]], with successful demonstrations of secure quantum networks and ongoing pilot projects with government and industry partners. The UK’s regulatory environment and early investments have accelerated the maturation of quantum-secure communications.
 
 ### Digital Health and Wearables
 
-[[Cera Care\|Cera Care]] and [[neuranics\|Neuranics]] are at the forefront of [[wearable-health-tech\|wearable-health-tech]], leveraging AI, IoT, and sensor technologies for remote monitoring and predictive healthcare. The integration of these solutions into the NHS and defence medical services highlights the dual-use potential and scalability of UK innovations.
+[[Cera Care\|Cera Care]] and [[organisations/neuranics\|Neuranics]] are at the forefront of [[descriptions/wearable-health-tech\|wearable-health-tech]], leveraging AI, IoT, and sensor technologies for remote monitoring and predictive healthcare. The integration of these solutions into the NHS and defence medical services highlights the dual-use potential and scalability of UK innovations.
 
 ### Biometric Authentication
 
-Companies like [[keyless\|Keyless]] are pioneering privacy-preserving [[biometric-authentication\|biometric-authentication]] and [[biometric-authentication-systems\|biometric-authentication-systems]] using advanced cryptography and behavioural biometrics. These technologies are increasingly adopted in financial services, border security, and secure communications.
+Companies like [[organisations/keyless\|Keyless]] are pioneering privacy-preserving [[descriptions/biometric-authentication\|biometric-authentication]] and [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]] using advanced cryptography and behavioural biometrics. These technologies are increasingly adopted in financial services, border security, and secure communications.
 
 ### Edge Computing and Cloud Infrastructure
 
-[[dexory\|Dexory]] and [[NexGen Cloud\|NexGen Cloud]] are advancing [[edge-computing\|edge-computing]] and cloud-native solutions, enabling real-time data processing for logistics, manufacturing, and defence applications. Their platforms support digital twins, autonomous systems, and secure data sharing across distributed environments.
+[[organisations/dexory\|Dexory]] and [[NexGen Cloud\|NexGen Cloud]] are advancing [[descriptions/edge-computing\|edge-computing]] and cloud-native solutions, enabling real-time data processing for logistics, manufacturing, and defence applications. Their platforms support digital twins, autonomous systems, and secure data sharing across distributed environments.
 
 ### Composite Materials
 
-The UK’s expertise in [[composite-materials\|composite-materials]] is exemplified by [[icomat\|iCOMAT]] and the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]], which supply the aerospace, automotive, and defence sectors with next-generation materials offering superior strength-to-weight ratios and durability.
+The UK’s expertise in [[descriptions/composite-materials\|composite-materials]] is exemplified by [[organisations/icomat\|iCOMAT]] and the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]], which supply the aerospace, automotive, and defence sectors with next-generation materials offering superior strength-to-weight ratios and durability.
 
 ---
 
@@ -49,7 +49,7 @@ The UK’s expertise in [[composite-materials\|composite-materials]] is exemplif
 
 ### Scaling and Commercialisation
 
-Despite strong research outputs, the UK often struggles to scale up and commercialise emerging technologies. This is particularly evident in [[blockchain-technology\|blockchain-technology]] and some [[digital-twin-technology\|digital-twin-technology]] applications, where pilot projects have not consistently transitioned to large-scale deployments.
+Despite strong research outputs, the UK often struggles to scale up and commercialise emerging technologies. This is particularly evident in [[descriptions/blockchain-technology\|blockchain-technology]] and some [[descriptions/digital-twin-technology\|digital-twin-technology]] applications, where pilot projects have not consistently transitioned to large-scale deployments.
 
 ### Skills Shortages
 
@@ -61,7 +61,7 @@ The UK’s innovation landscape, while vibrant, is sometimes fragmented, with ov
 
 ### Regulatory and Standards Uncertainty
 
-Rapid technological change has outpaced the development of regulatory frameworks and standards, particularly in areas such as [[biometric-authentication-systems\|biometric-authentication-systems]] and [[blockchain-technology\|blockchain-technology]]. This creates uncertainty for investors and slows adoption in sensitive sectors like defence and healthcare.
+Rapid technological change has outpaced the development of regulatory frameworks and standards, particularly in areas such as [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]] and [[descriptions/blockchain-technology\|blockchain-technology]]. This creates uncertainty for investors and slows adoption in sensitive sectors like defence and healthcare.
 
 ### Funding Gaps for Scale-Ups
 
@@ -73,21 +73,21 @@ While early-stage funding is relatively accessible, there is a notable gap in gr
 
 ### Government Initiatives
 
-- **National Quantum Technologies Programme**: The UK government has committed over £1 billion to quantum research, with the [[Quantum Communications Hub\|Quantum Communications Hub]] playing a central role in [[quantum-key-distribution\|quantum-key-distribution]] and secure communications.
-- **Made Smarter**: This programme supports the adoption of [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]] and digitalisation in UK industry, with the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]] and [[icomat\|iCOMAT]] as key partners.
-- **Digital Security by Design**: Backed by UKRI, this initiative funds research into secure hardware and software, relevant to [[edge-computing\|edge-computing]], [[blockchain-technology\|blockchain-technology]], and [[biometric-authentication\|biometric-authentication]].
+- **National Quantum Technologies Programme**: The UK government has committed over £1 billion to quantum research, with the [[Quantum Communications Hub\|Quantum Communications Hub]] playing a central role in [[descriptions/quantum-key-distribution\|quantum-key-distribution]] and secure communications.
+- **Made Smarter**: This programme supports the adoption of [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]] and digitalisation in UK industry, with the [[Manufacturing Engineering Centre\|Manufacturing Engineering Centre]] and [[organisations/icomat\|iCOMAT]] as key partners.
+- **Digital Security by Design**: Backed by UKRI, this initiative funds research into secure hardware and software, relevant to [[descriptions/edge-computing\|edge-computing]], [[descriptions/blockchain-technology\|blockchain-technology]], and [[descriptions/biometric-authentication\|biometric-authentication]].
 
 ### Industry-Led Projects
 
-- **Cera Care’s AI Health Platform**: [[Cera Care\|Cera Care]] has scaled its AI-driven [[wearable-health-tech\|wearable-health-tech]] platform across the NHS and private care providers, integrating predictive analytics for patient monitoring.
-- **Dexory’s Autonomous Logistics**: [[dexory\|Dexory]] has deployed edge-enabled robotics and digital twins in logistics hubs, improving efficiency and resilience for both commercial and military supply chains.
-- **Keyless’ Privacy-Preserving Biometrics**: [[keyless\|Keyless]] has secured major contracts with UK financial institutions and border agencies for its next-generation [[biometric-authentication-systems\|biometric-authentication-systems]].
+- **Cera Care’s AI Health Platform**: [[Cera Care\|Cera Care]] has scaled its AI-driven [[descriptions/wearable-health-tech\|wearable-health-tech]] platform across the NHS and private care providers, integrating predictive analytics for patient monitoring.
+- **Dexory’s Autonomous Logistics**: [[organisations/dexory\|Dexory]] has deployed edge-enabled robotics and digital twins in logistics hubs, improving efficiency and resilience for both commercial and military supply chains.
+- **Keyless’ Privacy-Preserving Biometrics**: [[organisations/keyless\|Keyless]] has secured major contracts with UK financial institutions and border agencies for its next-generation [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]].
 - **NexGen Cloud’s Sovereign Cloud**: [[NexGen Cloud\|NexGen Cloud]] is building sovereign, high-performance cloud infrastructure for critical national applications, supporting both defence and civil sectors.
 
 ### Academic-Industry Collaborations
 
-- **Imperial College London’s Digital Twin Research**: [[Imperial College London\|Imperial College London]] leads multi-institutional projects on [[digital-twin-technology\|digital-twin-technology]] for infrastructure, healthcare, and defence.
-- **iCOMAT’s Composite Manufacturing**: [[icomat\|iCOMAT]] collaborates with the UK MoD and aerospace primes to develop and industrialise advanced [[composite-materials\|composite-materials]] for next-generation platforms.
+- **Imperial College London’s Digital Twin Research**: [[Imperial College London\|Imperial College London]] leads multi-institutional projects on [[descriptions/digital-twin-technology\|digital-twin-technology]] for infrastructure, healthcare, and defence.
+- **iCOMAT’s Composite Manufacturing**: [[organisations/icomat\|iCOMAT]] collaborates with the UK MoD and aerospace primes to develop and industrialise advanced [[descriptions/composite-materials\|composite-materials]] for next-generation platforms.
 
 ---
 
@@ -95,19 +95,19 @@ While early-stage funding is relatively accessible, there is a notable gap in gr
 
 ### United States
 
-The US remains the global leader in most dual-use technologies, with greater scale, deeper capital markets, and strong integration between defence and commercial sectors. However, the UK is competitive in [[quantum-key-distribution\|quantum-key-distribution]], [[composite-materials\|composite-materials]], and digital health, often serving as a key partner or supplier to US programmes.
+The US remains the global leader in most dual-use technologies, with greater scale, deeper capital markets, and strong integration between defence and commercial sectors. However, the UK is competitive in [[descriptions/quantum-key-distribution\|quantum-key-distribution]], [[descriptions/composite-materials\|composite-materials]], and digital health, often serving as a key partner or supplier to US programmes.
 
 ### European Union
 
-The UK’s innovation ecosystem is on par with leading EU countries like Germany and France, especially in [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]] and [[wearable-health-tech\|wearable-health-tech]]. However, Brexit-related barriers have complicated collaboration and market access in some areas.
+The UK’s innovation ecosystem is on par with leading EU countries like Germany and France, especially in [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]] and [[descriptions/wearable-health-tech\|wearable-health-tech]]. However, Brexit-related barriers have complicated collaboration and market access in some areas.
 
 ### China
 
-China is rapidly advancing in [[blockchain-technology\|blockchain-technology]], AI, and quantum communications, supported by large-scale state investment. The UK’s open innovation model and regulatory frameworks provide advantages in trust and interoperability, but scale remains a challenge.
+China is rapidly advancing in [[descriptions/blockchain-technology\|blockchain-technology]], AI, and quantum communications, supported by large-scale state investment. The UK’s open innovation model and regulatory frameworks provide advantages in trust and interoperability, but scale remains a challenge.
 
 ### Israel and Singapore
 
-These countries excel in [[biometric-authentication\|biometric-authentication]], cyber security, and defence innovation. The UK’s strengths in privacy-preserving biometrics and digital health are competitive, but further investment is needed to match the agility and focus of these smaller innovation hubs.
+These countries excel in [[descriptions/biometric-authentication\|biometric-authentication]], cyber security, and defence innovation. The UK’s strengths in privacy-preserving biometrics and digital health are competitive, but further investment is needed to match the agility and focus of these smaller innovation hubs.
 
 ---
 
@@ -116,19 +116,19 @@ These countries excel in [[biometric-authentication\|biometric-authentication]],
 ### International Partnerships
 
 - **Five Eyes and NATO**: The UK’s trusted status and technological strengths make it a key partner for secure communications, digital health, and advanced manufacturing projects within Five Eyes and NATO frameworks.
-- **Transatlantic Quantum Collaboration**: Joint R&D in [[quantum-key-distribution\|quantum-key-distribution]] and secure communications with the US and Canada.
-- **EU Horizon Europe**: Despite Brexit, the UK continues to participate in select EU research programmes, particularly in [[composite-materials\|composite-materials]], [[digital-twin-technology\|digital-twin-technology]], and health tech.
+- **Transatlantic Quantum Collaboration**: Joint R&D in [[descriptions/quantum-key-distribution\|quantum-key-distribution]] and secure communications with the US and Canada.
+- **EU Horizon Europe**: Despite Brexit, the UK continues to participate in select EU research programmes, particularly in [[descriptions/composite-materials\|composite-materials]], [[descriptions/digital-twin-technology\|digital-twin-technology]], and health tech.
 
 ### Export Markets
 
-- **Asia-Pacific**: Growing demand for [[wearable-health-tech\|wearable-health-tech]], [[biometric-authentication-systems\|biometric-authentication-systems]], and [[edge-computing\|edge-computing]] in healthcare and smart cities.
+- **Asia-Pacific**: Growing demand for [[descriptions/wearable-health-tech\|wearable-health-tech]], [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]], and [[descriptions/edge-computing\|edge-computing]] in healthcare and smart cities.
 - **Middle East**: Opportunities for exporting advanced manufacturing solutions and secure communications technologies for defence and critical infrastructure.
 - **Africa and Latin America**: Emerging markets for digital health platforms and blockchain-based identity solutions.
 
 ### Academic and Industry Networks
 
 - **Global Research Consortia**: Participation in international consortia on AI, quantum, and digital twins, leveraging the UK’s research base for collaborative innovation.
-- **Standardisation Bodies**: Leading roles in international standards for [[biometric-authentication\|biometric-authentication]], [[blockchain-technology\|blockchain-technology]], and [[wearable-health-tech\|wearable-health-tech]].
+- **Standardisation Bodies**: Leading roles in international standards for [[descriptions/biometric-authentication\|biometric-authentication]], [[descriptions/blockchain-technology\|blockchain-technology]], and [[descriptions/wearable-health-tech\|wearable-health-tech]].
 
 ---
 
@@ -145,7 +145,7 @@ The dual-use nature of these technologies increases the risk of IP theft and una
 
 ### Regulatory and Ethical Challenges
 
-Rapid innovation in [[biometric-authentication-systems\|biometric-authentication-systems]], AI, and [[wearable-health-tech\|wearable-health-tech]] raises ethical and privacy concerns, potentially undermining public trust and market adoption.
+Rapid innovation in [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]], AI, and [[descriptions/wearable-health-tech\|wearable-health-tech]] raises ethical and privacy concerns, potentially undermining public trust and market adoption.
 
 **Mitigation:**  
 - Develop clear, adaptive regulatory frameworks in consultation with industry and civil society.
@@ -176,7 +176,7 @@ The shortage of skilled professionals in quantum, AI, and advanced manufacturing
 
 ### Technology Trajectory
 
-Over the next five years, the UK is expected to consolidate its leadership in [[quantum-key-distribution\|quantum-key-distribution]], [[composite-materials\|composite-materials]], and digital health. Significant progress is anticipated in the commercial deployment of [[digital-twin-technology\|digital-twin-technology]], edge-enabled systems, and privacy-preserving [[biometric-authentication-systems\|biometric-authentication-systems]]. The maturation of [[blockchain-technology\|blockchain-technology]] and sovereign cloud infrastructure will further enhance resilience and trust in critical systems.
+Over the next five years, the UK is expected to consolidate its leadership in [[descriptions/quantum-key-distribution\|quantum-key-distribution]], [[descriptions/composite-materials\|composite-materials]], and digital health. Significant progress is anticipated in the commercial deployment of [[descriptions/digital-twin-technology\|digital-twin-technology]], edge-enabled systems, and privacy-preserving [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]]. The maturation of [[descriptions/blockchain-technology\|blockchain-technology]] and sovereign cloud infrastructure will further enhance resilience and trust in critical systems.
 
 ### Defence and Security Applications
 

@@ -5,6 +5,6 @@
 
 Raised $50M in Series C to advance AI-powered digital twin technology for clinical trials.
 
-related_to:: [[digital-twin-technology\|digital-twin-technology]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[digital-twins\|digital-twins]]
+related_to:: [[descriptions/digital-twin-technology\|digital-twin-technology]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[descriptions/digital-twins\|digital-twins]]

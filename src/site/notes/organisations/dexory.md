@@ -5,5 +5,5 @@
 
 Raised $19M to expand its digital twin warehouse replica technology globally.
 
-related_to:: [[digital-twin-technology\|digital-twin-technology]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[descriptions/digital-twin-technology\|digital-twin-technology]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]

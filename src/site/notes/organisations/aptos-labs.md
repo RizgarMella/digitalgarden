@@ -5,7 +5,7 @@
 
 Raised $400 million by 2024 for blockchain development and partnerships.
 
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[blockchain\|blockchain]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[descriptions/blockchain\|blockchain]]
+related_to:: [[digests/usa\|USA]]

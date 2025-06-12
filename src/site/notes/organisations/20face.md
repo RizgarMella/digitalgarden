@@ -5,6 +5,6 @@
 
 Secured €1.3M in August 2024 for privacy-proof facial recognition technology.
 
-related_to:: [[biometric-authentication-systems\|biometric-authentication-systems]]
-related_to:: [[netherlands\|Netherlands]]
-related_to:: [[facial-recognition\|facial-recognition]]
+related_to:: [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]]
+related_to:: [[digests/netherlands\|Netherlands]]
+related_to:: [[descriptions/facial-recognition\|facial-recognition]]

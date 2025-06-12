@@ -3,8 +3,8 @@
 ---
 
 
-related_to:: [[internet-of-things\|internet-of-things]]
-related_to:: [[smart-materials\|smart-materials]]
+related_to:: [[descriptions/internet-of-things\|internet-of-things]]
+related_to:: [[descriptions/smart-materials\|smart-materials]]
 
 ## Overview
 Sensors are devices that detect and respond to physical stimuli from the environment, converting these stimuli into signals that can be measured and analyzed. They play a critical role in various applications, from industrial automation to consumer electronics, and are increasingly integral to the Internet of Things (IoT). Sensors can be classified based on the type of data they collect, including temperature, pressure, motion, light, and chemical composition. The evolution of sensor technology has been driven by advancements in materials science, microelectronics, and data processing, leading to smaller, more efficient, and more accurate devices.
@@ -58,20 +58,20 @@ To capitalize on the advancements in sensor technology, a strategic investment p
 5. **Training and Integration:** Develop training programs for military personnel on the use and integration of advanced sensor systems into existing operations, ensuring seamless adoption and maximum operational benefit.
 
 6. **Long-term Strategic Planning:** Establish a long-term strategic plan for sensor technology investments, aligning with broader defence objectives and anticipating future operational needs.
-related_to:: [[sonair\|Sonair]]
-related_to:: [[norway\|Norway]]
-related_to:: [[pixxel\|Pixxel]]
-related_to:: [[india\|India]]
+related_to:: [[organisations/sonair\|Sonair]]
+related_to:: [[digests/norway\|Norway]]
+related_to:: [[organisations/pixxel\|Pixxel]]
+related_to:: [[digests/india\|India]]
 related_to:: [[Quantum Innovations\|Quantum Innovations]]
-related_to:: [[poland\|Poland]]
+related_to:: [[digests/poland\|Poland]]
 related_to:: [[Omnitron Sensors\|Omnitron Sensors]]
-related_to:: [[usa\|USA]]
-related_to:: [[bitsensing\|bitsensing]]
-related_to:: [[south-korea\|South-Korea]]
-related_to:: [[uhnder\|Uhnder]]
-related_to:: [[sensibel\|sensiBel]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/bitsensing\|bitsensing]]
+related_to:: [[digests/south-korea\|South-Korea]]
+related_to:: [[organisations/uhnder\|Uhnder]]
+related_to:: [[organisations/sensibel\|sensiBel]]
 related_to:: [[Nearfield Instruments\|Nearfield Instruments]]
-related_to:: [[netherlands\|Netherlands]]
+related_to:: [[digests/netherlands\|Netherlands]]
 related_to:: [["bitsensing"\|"bitsensing"]]
 related_to:: [["Pixxel"\|"Pixxel"]]
 related_to:: [["Uhnder"\|"Uhnder"]]

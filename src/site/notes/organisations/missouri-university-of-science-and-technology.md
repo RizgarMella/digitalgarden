@@ -5,5 +5,5 @@
 
 Acquired a large-format metal 3D printer to aid local manufacturers.
 
-related_to:: [[3d-printing-for-manufacturing\|3d-printing-for-manufacturing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/3d-printing-for-manufacturing\|3d-printing-for-manufacturing]]
+related_to:: [[digests/usa\|USA]]

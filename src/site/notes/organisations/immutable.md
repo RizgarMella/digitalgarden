@@ -5,5 +5,5 @@
 
 Raised $200 million; develops blockchain games and NFTs.
 
-related_to:: [[blockchain\|blockchain]]
-related_to:: [[australia\|Australia]]
+related_to:: [[descriptions/blockchain\|blockchain]]
+related_to:: [[digests/australia\|Australia]]

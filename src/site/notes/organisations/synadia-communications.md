@@ -5,5 +5,5 @@
 
 Secured $25M Series B to accelerate NATS.io for edge AI.
 
-related_to:: [[edge-computing\|edge-computing]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/edge-computing\|edge-computing]]
+related_to:: [[digests/united-states\|United-States]]

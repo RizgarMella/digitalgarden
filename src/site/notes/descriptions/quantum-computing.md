@@ -41,14 +41,14 @@ To capitalize on the advancements in quantum computing, a structured investment 
 5. **Establishing a Quantum Task Force:** Form a dedicated team within the defence sector to oversee quantum initiatives, ensuring alignment with strategic objectives and fostering collaboration across agencies.
 
 By implementing this investment plan, defence organizations can position themselves at the forefront of quantum technology, ensuring readiness for the challenges and opportunities it presents.
-related_to:: [[psiquantum\|PsiQuantum]]
-related_to:: [[usa\|USA]]
+related_to:: [[organisations/psiquantum\|PsiQuantum]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[QuEra Computing\|QuEra Computing]]
 related_to:: [[Atom Computing\|Atom Computing]]
-related_to:: [[ionq\|IonQ]]
+related_to:: [[organisations/ionq\|IonQ]]
 related_to:: [[Rigetti Computing\|Rigetti Computing]]
 related_to:: [[Institute for Quantum Computing\|Institute for Quantum Computing]]
-related_to:: [[canada\|Canada]]
+related_to:: [[digests/canada\|Canada]]
 related_to:: [[Georgia Tech Quantum Institute\|Georgia Tech Quantum Institute]]
 related_to:: [[USC-Lockheed Martin Quantum Computing Center\|USC-Lockheed Martin Quantum Computing Center]]
 related_to:: [["PsiQuantum"\|"PsiQuantum"]]

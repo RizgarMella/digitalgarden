@@ -3,10 +3,10 @@
 ---
 
 
-related_to:: [[3d-printing\|3d-printing]]
-related_to:: [[composite-materials\|composite-materials]]
-related_to:: [[digital-twin-technology\|digital-twin-technology]]
-related_to:: [[sensors\|sensors]]
+related_to:: [[descriptions/3d-printing\|3d-printing]]
+related_to:: [[descriptions/composite-materials\|composite-materials]]
+related_to:: [[descriptions/digital-twin-technology\|digital-twin-technology]]
+related_to:: [[descriptions/sensors\|sensors]]
 
 ## Overview
 Smart materials are advanced materials engineered to respond dynamically to external stimuli, such as changes in temperature, pressure, electric or magnetic fields, and moisture. These materials can alter their properties in real-time, enabling a wide range of applications across various sectors, including defence, aerospace, automotive, and healthcare. The primary categories of smart materials include piezoelectric materials, shape memory alloys, thermochromic materials, and electroactive polymers, among others.
@@ -46,18 +46,18 @@ To capitalize on the potential of smart materials, a structured investment plan 
 4. **Collaborative Development:** Foster collaboration between defence contractors and material scientists to co-develop tailored smart material solutions for specific military needs.
 
 By strategically investing in smart materials, the defence sector can enhance its technological capabilities and maintain a competitive edge in modern warfare.
-related_to:: [[gdi\|GDI]]
-related_to:: [[usa\|USA]]
+related_to:: [[organisations/gdi\|GDI]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[Bloom Biorenewables\|Bloom Biorenewables]]
-related_to:: [[switzerland\|Switzerland]]
-related_to:: [[morphotonics\|Morphotonics]]
-related_to:: [[netherlands\|Netherlands]]
-related_to:: [[lyten\|Lyten]]
+related_to:: [[digests/switzerland\|Switzerland]]
+related_to:: [[organisations/morphotonics\|Morphotonics]]
+related_to:: [[digests/netherlands\|Netherlands]]
+related_to:: [[organisations/lyten\|Lyten]]
 related_to:: [[Rice Advanced Materials Institute\|Rice Advanced Materials Institute]]
 related_to:: [[FAMU-FSU College of Engineering\|FAMU-FSU College of Engineering]]
 related_to:: [[University of Texas at Dallas\|University of Texas at Dallas]]
-related_to:: [[cetemmsa\|Cetemmsa]]
-related_to:: [[spain\|Spain]]
+related_to:: [[organisations/cetemmsa\|Cetemmsa]]
+related_to:: [[digests/spain\|Spain]]
 related_to:: [["University of Texas at Dallas"\|"University of Texas at Dallas"]]
 related_to:: [["Rice Advanced Materials Institute"\|"Rice Advanced Materials Institute"]]
 related_to:: [["Lyten"\|"Lyten"]]

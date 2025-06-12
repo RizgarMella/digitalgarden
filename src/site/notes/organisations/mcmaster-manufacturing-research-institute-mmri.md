@@ -5,5 +5,5 @@
 
 Major facility affiliated with McMaster University, known for quality services.
 
-related_to:: [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
+related_to:: [[digests/canada\|Canada]]

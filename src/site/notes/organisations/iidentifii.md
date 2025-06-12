@@ -5,5 +5,5 @@
 
 Secured $15M in September 2022 to expand face biometric authentication across Africa.
 
-related_to:: [[biometric-authentication\|biometric-authentication]]
-related_to:: [[south-africa\|South-Africa]]
+related_to:: [[descriptions/biometric-authentication\|biometric-authentication]]
+related_to:: [[digests/south-africa\|South-Africa]]

@@ -5,5 +5,5 @@
 
 Raised €11M in September 2024 for AR surgical solutions.
 
-related_to:: [[augmented-reality\|augmented-reality]]
-related_to:: [[france\|France]]
+related_to:: [[descriptions/augmented-reality\|augmented-reality]]
+related_to:: [[digests/france\|France]]

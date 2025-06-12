@@ -5,5 +5,5 @@
 
 Received $7.7M in 2019 for immersive gaming research.
 
-related_to:: [[augmented-reality\|augmented-reality]]
-related_to:: [[new-zealand\|New-Zealand]]
+related_to:: [[descriptions/augmented-reality\|augmented-reality]]
+related_to:: [[digests/new-zealand\|New-Zealand]]

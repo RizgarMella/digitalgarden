@@ -54,16 +54,16 @@ To enhance cybersecurity capabilities, defense organizations should consider a m
 4. **Collaboration and Information Sharing**: Establishing partnerships with other defense organizations and private sector entities to share threat intelligence and best practices. Collaborative efforts can enhance overall cybersecurity posture and resilience.
 
 5. **Continuous Assessment and Improvement**: Implementing a framework for continuous assessment of cybersecurity measures, ensuring that solutions remain effective against evolving threats. Regular audits and updates to security protocols will be essential for maintaining operational integrity.
-related_to:: [[socket\|Socket]]
-related_to:: [[usa\|USA]]
+related_to:: [[organisations/socket\|Socket]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[Entro Security\|Entro Security]]
-related_to:: [[israel\|Israel]]
+related_to:: [[digests/israel\|Israel]]
 related_to:: [[Reality Defender\|Reality Defender]]
-related_to:: [[pentera\|Pentera]]
+related_to:: [[organisations/pentera\|Pentera]]
 related_to:: [[Carnegie Mellon CyLab\|Carnegie Mellon CyLab]]
 related_to:: [[Georgia Tech School of Cybersecurity and Privacy\|Georgia Tech School of Cybersecurity and Privacy]]
 related_to:: [[San Diego State University\|San Diego State University]]
-related_to:: [[hopae\|Hopae]]
+related_to:: [[organisations/hopae\|Hopae]]
 related_to:: [["Georgia Tech School of Cybersecurity and Privacy"\|"Georgia Tech School of Cybersecurity and Privacy"]]
 related_to:: [["San Diego State University"\|"San Diego State University"]]
 related_to:: [["Carnegie Mellon CyLab"\|"Carnegie Mellon CyLab"]]

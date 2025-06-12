@@ -11,8 +11,8 @@ related_to:: [[Talon Cyber Security\|Talon Cyber Security]]
 related_to:: [[Quantinuum\|Quantinuum]]
 related_to:: [[Vectra AI\|Vectra AI]]
 
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[quantum-key-distribution\|quantum-key-distribution]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[descriptions/quantum-key-distribution\|quantum-key-distribution]]
 
 ## Overview
 Cybersecurity has emerged as a critical focus area for both public and private sectors, driven by the increasing frequency and sophistication of cyber threats. As digital transformation accelerates across industries, the need to protect sensitive data, secure communication channels, and maintain operational integrity has never been more paramount. Cybersecurity encompasses a range of practices, technologies, and processes designed to safeguard systems, networks, and data from cyber attacks, unauthorized access, and damage.
@@ -58,19 +58,19 @@ To strengthen cybersecurity capabilities, the defense sector should consider the
 5. **Continuous Threat Intelligence Sharing:** Invest in platforms that facilitate real-time threat intelligence sharing among defense agencies and allied nations, fostering collaboration and collective security efforts.
 
 By prioritizing these investment areas, the defense sector can enhance its cybersecurity capabilities, ensuring resilience against evolving cyber threats and safeguarding national security.
-related_to:: [[wiz\|Wiz]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[i-tracing\|I-Tracing]]
-related_to:: [[france\|France]]
-related_to:: [[kiteworks\|Kiteworks]]
-related_to:: [[cyera\|Cyera]]
-related_to:: [[armis\|Armis]]
-related_to:: [[israel\|Israel]]
-related_to:: [[socket\|Socket]]
+related_to:: [[organisations/wiz\|Wiz]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[organisations/i-tracing\|I-Tracing]]
+related_to:: [[digests/france\|France]]
+related_to:: [[organisations/kiteworks\|Kiteworks]]
+related_to:: [[organisations/cyera\|Cyera]]
+related_to:: [[organisations/armis\|Armis]]
+related_to:: [[digests/israel\|Israel]]
+related_to:: [[organisations/socket\|Socket]]
 related_to:: [[Reality Defender\|Reality Defender]]
 related_to:: [[Entro Security\|Entro Security]]
 related_to:: [["Cyera"\|"Cyera"]]
-related_to:: [[usa\|usa]]
+related_to:: [[digests/usa\|usa]]
 related_to:: [["Wiz"\|"Wiz"]]
 related_to:: [["Reality Defender"\|"Reality Defender"]]
 related_to:: [["Socket"\|"Socket"]]

@@ -3,7 +3,7 @@
 ---
 
 
-related_to:: [[3d-printing\|3d-printing]]
+related_to:: [[descriptions/3d-printing\|3d-printing]]
 
 ## Overview
 Additive manufacturing (AM), commonly known as 3D printing, is a transformative technology that fabricates objects layer by layer from digital models. This process contrasts with traditional subtractive manufacturing methods, which involve cutting away material to create a part. AM encompasses various techniques, including Fused Deposition Modeling (FDM), Stereolithography (SLA), and Selective Laser Sintering (SLS), each suitable for different materials and applications.
@@ -58,16 +58,16 @@ To capitalize on the potential of additive manufacturing in defence, a strategic
 
 By strategically investing in these areas, defence organizations can harness the full potential of additive manufacturing, driving innovation and operational effectiveness in an increasingly complex global landscape.
 related_to:: [[University of Louisville\|University of Louisville]]
-related_to:: [[usa\|USA]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[University of North Texas\|University of North Texas]]
 related_to:: [[University of Illinois Urbana-Champaign\|University of Illinois Urbana-Champaign]]
 related_to:: [[New Mexico State University\|New Mexico State University]]
 related_to:: [[Virginia Tech\|Virginia Tech]]
-related_to:: [[canvas\|Canvas]]
+related_to:: [[organisations/canvas\|Canvas]]
 related_to:: [[Aspect Biosystems\|Aspect Biosystems]]
-related_to:: [[canada\|Canada]]
-related_to:: [[neomodulus\|Neomodulus]]
-related_to:: [[china\|China]]
+related_to:: [[digests/canada\|Canada]]
+related_to:: [[organisations/neomodulus\|Neomodulus]]
+related_to:: [[digests/china\|China]]
 related_to:: [["University of Illinois Urbana-Champaign"\|"University of Illinois Urbana-Champaign"]]
 related_to:: [["New Mexico State University"\|"New Mexico State University"]]
 related_to:: [["Virginia Tech"\|"Virginia Tech"]]

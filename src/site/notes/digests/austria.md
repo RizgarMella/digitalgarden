@@ -5,9 +5,9 @@
 
 ## Executive Summary
 
-Austria’s position in dual-use technologies, specifically in **augmented-reality** and **quantum-key-distribution**, is characterized by focused innovation, niche expertise, and increasing international engagement. The presence of organizations such as [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]] has enabled Austria to carve out a distinct role in the European innovation landscape. While Austria’s market size and defense budget are relatively modest compared to larger European states, its research-driven ecosystem and targeted investments have fostered notable advancements in both fields.
+Austria’s position in dual-use technologies, specifically in **augmented-reality** and **quantum-key-distribution**, is characterized by focused innovation, niche expertise, and increasing international engagement. The presence of organizations such as [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]] has enabled Austria to carve out a distinct role in the European innovation landscape. While Austria’s market size and defense budget are relatively modest compared to larger European states, its research-driven ecosystem and targeted investments have fostered notable advancements in both fields.
 
-In **augmented-reality**, Austria leverages its strengths in optics, software engineering, and human-machine interface design. [[somareality\|SOMAREALITY]] exemplifies the country’s capacity for developing advanced AR solutions with both civilian and defense applications. In **quantum-key-distribution**, [[Quantum Industries GmbH\|Quantum Industries GmbH]] is at the forefront, translating Austria’s strong academic tradition in quantum physics into commercial and security-oriented applications.
+In **augmented-reality**, Austria leverages its strengths in optics, software engineering, and human-machine interface design. [[organisations/somareality\|SOMAREALITY]] exemplifies the country’s capacity for developing advanced AR solutions with both civilian and defense applications. In **quantum-key-distribution**, [[Quantum Industries GmbH\|Quantum Industries GmbH]] is at the forefront, translating Austria’s strong academic tradition in quantum physics into commercial and security-oriented applications.
 
 Despite these strengths, Austria faces challenges related to scale, limited domestic demand, and dependency on broader EU frameworks for funding and market access. However, its agility, collaborative culture, and alignment with EU priorities position it well for continued growth. Over the next five years, Austria’s trajectory will likely be shaped by its ability to deepen international partnerships, scale up commercialization, and navigate evolving regulatory and security landscapes.
 
@@ -17,18 +17,18 @@ Despite these strengths, Austria faces challenges related to scale, limited dome
 
 ### Research Excellence and Academic Foundations
 
-Austria’s universities and research institutes have long-standing reputations in physics, computer science, and engineering. The University of Vienna and the Austrian Institute of Technology are recognized for their contributions to quantum information science and AR-related research. This robust academic base provides a steady pipeline of talent and fosters a culture of innovation that benefits both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]].
+Austria’s universities and research institutes have long-standing reputations in physics, computer science, and engineering. The University of Vienna and the Austrian Institute of Technology are recognized for their contributions to quantum information science and AR-related research. This robust academic base provides a steady pipeline of talent and fosters a culture of innovation that benefits both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]].
 
 ### Niche Specialization
 
 Both organizations have developed specialized expertise:
 
 - **[[Quantum Industries GmbH\|Quantum Industries GmbH]]** is a leader in quantum communication protocols, with a particular focus on **quantum-key-distribution** (QKD) systems. Its products are recognized for their reliability and integration with existing fiber-optic infrastructure.
-- **[[somareality\|SOMAREALITY]]** excels in immersive AR solutions, particularly for training, simulation, and maintenance scenarios. Its platforms are noted for high-fidelity visualization and intuitive user interfaces, tailored for both industrial and defense contexts.
+- **[[organisations/somareality\|SOMAREALITY]]** excels in immersive AR solutions, particularly for training, simulation, and maintenance scenarios. Its platforms are noted for high-fidelity visualization and intuitive user interfaces, tailored for both industrial and defense contexts.
 
 ### Integration into European Innovation Networks
 
-Austria is an active participant in EU research and innovation programs (e.g., Horizon Europe, Digital Europe), which has enabled access to funding, partnerships, and early adoption opportunities. Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]] are involved in multinational consortia, enhancing their visibility and influence.
+Austria is an active participant in EU research and innovation programs (e.g., Horizon Europe, Digital Europe), which has enabled access to funding, partnerships, and early adoption opportunities. Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]] are involved in multinational consortia, enhancing their visibility and influence.
 
 ### Dual-Use Mindset
 
@@ -44,7 +44,7 @@ Austria’s relatively small defense budget constrains the scale of domestic pro
 
 ### Scale and Commercialization Challenges
 
-While Austria excels at research and prototyping, scaling innovations to mass production and global commercialization remains a challenge. Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]] face hurdles in attracting late-stage investment, expanding manufacturing capacity, and establishing robust international sales channels.
+While Austria excels at research and prototyping, scaling innovations to mass production and global commercialization remains a challenge. Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]] face hurdles in attracting late-stage investment, expanding manufacturing capacity, and establishing robust international sales channels.
 
 ### Regulatory and Procurement Complexity
 
@@ -66,9 +66,9 @@ Although Austria produces highly skilled graduates, competition from larger mark
 
 ### SOMAREALITY
 
-- **AR Defense Training Platform:** [[somareality\|SOMAREALITY]] has developed an AR-based training suite for the Austrian Armed Forces, enabling realistic simulation of battlefield scenarios, equipment handling, and crisis response. The platform has received positive reviews for its adaptability and cost-effectiveness.
+- **AR Defense Training Platform:** [[organisations/somareality\|SOMAREALITY]] has developed an AR-based training suite for the Austrian Armed Forces, enabling realistic simulation of battlefield scenarios, equipment handling, and crisis response. The platform has received positive reviews for its adaptability and cost-effectiveness.
 - **Industrial AR Applications:** The company is engaged in partnerships with leading Austrian manufacturing firms (e.g., Voestalpine) to deploy AR for maintenance, quality assurance, and remote assistance.
-- **EU Defence Fund Projects:** [[somareality\|SOMAREALITY]] is part of a cross-border consortium developing AR solutions for joint EU military exercises, focusing on interoperability and secure data integration.
+- **EU Defence Fund Projects:** [[organisations/somareality\|SOMAREALITY]] is part of a cross-border consortium developing AR solutions for joint EU military exercises, focusing on interoperability and secure data integration.
 
 ### National and Regional Investments
 
@@ -81,9 +81,9 @@ Although Austria produces highly skilled graduates, competition from larger mark
 
 ### Augmented-Reality
 
-- **Germany and France:** Both countries have larger defense budgets and more established AR defense integrators (e.g., Rheinmetall, Thales). However, [[somareality\|SOMAREALITY]]’s agility and specialization in high-fidelity, user-centric AR platforms allow it to compete effectively in niche applications, particularly for training and simulation.
+- **Germany and France:** Both countries have larger defense budgets and more established AR defense integrators (e.g., Rheinmetall, Thales). However, [[organisations/somareality\|SOMAREALITY]]’s agility and specialization in high-fidelity, user-centric AR platforms allow it to compete effectively in niche applications, particularly for training and simulation.
 - **Nordic Countries:** Sweden and Finland are strong in AR for industrial and defense uses, but Austria’s offerings are competitive in terms of customization and integration with legacy systems.
-- **United States and Israel:** These countries dominate the global AR defense market, but their solutions are often less tailored to EU-specific operational and regulatory requirements, giving [[somareality\|SOMAREALITY]] an advantage in European procurement.
+- **United States and Israel:** These countries dominate the global AR defense market, but their solutions are often less tailored to EU-specific operational and regulatory requirements, giving [[organisations/somareality\|SOMAREALITY]] an advantage in European procurement.
 
 ### Quantum-Key-Distribution
 
@@ -100,7 +100,7 @@ Although Austria produces highly skilled graduates, competition from larger mark
 Austria’s alignment with EU research and defense priorities creates significant opportunities for collaboration:
 
 - **Cross-border QKD Networks:** Expansion of QKD pilots to neighboring countries (Germany, Czech Republic, Hungary) via EU-funded projects, positioning [[Quantum Industries GmbH\|Quantum Industries GmbH]] as a key technology provider.
-- **Joint AR Training Platforms:** Collaboration with EU and NATO partners on interoperable AR training and simulation environments, leveraging [[somareality\|SOMAREALITY]]’s expertise.
+- **Joint AR Training Platforms:** Collaboration with EU and NATO partners on interoperable AR training and simulation environments, leveraging [[organisations/somareality\|SOMAREALITY]]’s expertise.
 
 ### Civilian Markets
 
@@ -137,10 +137,10 @@ Austria’s alignment with EU research and defense priorities creates significan
 
 Austria is well positioned to consolidate and expand its role in dual-use technologies, particularly in **augmented-reality** and **quantum-key-distribution**. Over the next five years, the following trends are anticipated:
 
-- **Increased Commercialization:** Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]] are expected to transition from pilot projects to broader commercial deployments, especially within the EU.
+- **Increased Commercialization:** Both [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]] are expected to transition from pilot projects to broader commercial deployments, especially within the EU.
 - **Standardization and Interoperability:** Austria will play an active role in shaping EU standards for QKD and AR, enhancing the exportability and adoption of its solutions.
 - **Deepened International Collaboration:** Participation in multinational R&D and procurement consortia will become more prominent, with Austria serving as a bridge between Central Europe and broader EU initiatives.
 - **Enhanced Security Posture:** Adoption of QKD and AR solutions will contribute to the resilience of Austrian and European critical infrastructure, aligning with emerging regulatory and security imperatives.
 - **Talent Development:** Continued investment in education and industry-academia partnerships will help mitigate talent risks and sustain innovation momentum.
 
-Overall, Austria’s trajectory in dual-use technologies is positive, with the potential to become a recognized leader in select niches of the European defense and security innovation ecosystem. The agility and expertise of [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[somareality\|SOMAREALITY]] will be central to realizing this potential, provided that challenges related to scale, funding, and market access are effectively managed.
+Overall, Austria’s trajectory in dual-use technologies is positive, with the potential to become a recognized leader in select niches of the European defense and security innovation ecosystem. The agility and expertise of [[Quantum Industries GmbH\|Quantum Industries GmbH]] and [[organisations/somareality\|SOMAREALITY]] will be central to realizing this potential, provided that challenges related to scale, funding, and market access are effectively managed.

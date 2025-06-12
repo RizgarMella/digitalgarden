@@ -5,5 +5,5 @@
 
 Initiated START program to train students in advanced 3D printing.
 
-related_to:: [[3d-printing-for-manufacturing\|3d-printing-for-manufacturing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/3d-printing-for-manufacturing\|3d-printing-for-manufacturing]]
+related_to:: [[digests/usa\|USA]]

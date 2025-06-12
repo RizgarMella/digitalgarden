@@ -5,5 +5,5 @@
 
 Raised $24M in Series D to enhance microscale 3D printing platforms.
 
-related_to:: [[3d-printing\|3d-printing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/3d-printing\|3d-printing]]
+related_to:: [[digests/usa\|USA]]

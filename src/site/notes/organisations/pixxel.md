@@ -5,5 +5,5 @@
 
 Secured $24M in Series B extension for hyperspectral imaging satellites.
 
-related_to:: [[sensors\|sensors]]
-related_to:: [[india\|India]]
+related_to:: [[descriptions/sensors\|sensors]]
+related_to:: [[digests/india\|India]]

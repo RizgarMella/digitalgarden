@@ -10,8 +10,8 @@ related_to:: [[National University of Singapore\|National University of Singapor
 related_to:: [[University of Utah\|University of Utah]]
 related_to:: [[IO Research\|IO Research]]
 
-related_to:: [[cybersecurity\|cybersecurity]]
-related_to:: [[internet-of-things\|internet-of-things]]
+related_to:: [[descriptions/cybersecurity\|cybersecurity]]
+related_to:: [[descriptions/internet-of-things\|internet-of-things]]
 
 ## Overview
 Blockchain technology is a decentralized digital ledger system that enables secure and transparent record-keeping across a network of computers. Originally developed as the underlying technology for cryptocurrencies like Bitcoin, blockchain has evolved into a versatile tool with applications across various sectors, including finance, supply chain management, healthcare, and more recently, defense and security. The core principle of blockchain is its ability to maintain a tamper-proof record of transactions, which is achieved through cryptographic hashing and consensus mechanisms. Each block in the chain contains a list of transactions, a timestamp, and a reference to the previous block, creating an immutable chain of data.
@@ -49,17 +49,17 @@ To capitalize on the potential of blockchain technology in defense, a strategic 
 4. **Training and Education:** Develop training programs for defense personnel to understand blockchain technology and its applications, ensuring that the workforce is equipped to leverage these innovations effectively.
 
 By focusing on these strategic areas, defense organizations can position themselves at the forefront of blockchain technology, enhancing their operational capabilities and resilience against emerging threats.
-related_to:: [[plasma\|Plasma]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[auradine\|Auradine]]
-related_to:: [[avalanche\|Avalanche]]
-related_to:: [[securitize\|Securitize]]
+related_to:: [[organisations/plasma\|Plasma]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[organisations/auradine\|Auradine]]
+related_to:: [[organisations/avalanche\|Avalanche]]
+related_to:: [[organisations/securitize\|Securitize]]
 related_to:: [[Aptos Labs\|Aptos Labs]]
 related_to:: [[Redbelly Network\|Redbelly Network]]
-related_to:: [[australia\|Australia]]
+related_to:: [[digests/australia\|Australia]]
 related_to:: [[Imperial College London\|Imperial College London]]
-related_to:: [[united-kingdom\|United-Kingdom]]
-related_to:: [[singapore\|Singapore]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]
+related_to:: [[digests/singapore\|Singapore]]
 related_to:: [["National University of Singapore"\|"National University of Singapore"]]
 related_to:: [["Imperial College London"\|"Imperial College London"]]
 related_to:: [["Securitize"\|"Securitize"]]

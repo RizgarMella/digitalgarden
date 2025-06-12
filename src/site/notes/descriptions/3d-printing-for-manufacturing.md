@@ -3,9 +3,9 @@
 ---
 
 
-related_to:: [[additive-manufacturing\|additive-manufacturing]]
-related_to:: [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
-related_to:: [[automated-design-software\|automated-design-software]]
+related_to:: [[descriptions/additive-manufacturing\|additive-manufacturing]]
+related_to:: [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
+related_to:: [[descriptions/automated-design-software\|automated-design-software]]
 
 ## Overview
 3D printing, also known as additive manufacturing, has emerged as a transformative technology in the manufacturing sector, enabling the creation of complex geometries and customized products with unprecedented efficiency. This process involves the layer-by-layer addition of material to fabricate objects from digital models, allowing for significant design freedom that traditional manufacturing methods cannot achieve. The materials used in 3D printing range from plastics and metals to ceramics and composites, broadening the scope of applications across various industries.
@@ -53,17 +53,17 @@ To capitalize on the potential of 3D printing in defence manufacturing, a strate
 5. **Infrastructure Development**: Consider the establishment of dedicated facilities for 3D printing within military bases, enabling on-site production capabilities that enhance operational readiness.
 
 By pursuing these investment strategies, the defence sector can harness the transformative power of 3D printing, ensuring it remains at the forefront of innovation and operational effectiveness.
-related_to:: [[firestorm\|Firestorm]]
-related_to:: [[usa\|USA]]
-related_to:: [[metafold\|Metafold]]
-related_to:: [[canada\|Canada]]
-related_to:: [[femtherapeutics\|FemTherapeutics]]
+related_to:: [[organisations/firestorm\|Firestorm]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/metafold\|Metafold]]
+related_to:: [[digests/canada\|Canada]]
+related_to:: [[organisations/femtherapeutics\|FemTherapeutics]]
 related_to:: [[University of Illinois Urbana-Champaign\|University of Illinois Urbana-Champaign]]
 related_to:: [[Missouri University of Science and Technology\|Missouri University of Science and Technology]]
 related_to:: [[Virginia Tech\|Virginia Tech]]
 related_to:: [[University of Massachusetts Lowell\|University of Massachusetts Lowell]]
 related_to:: [[Luyten 3D\|Luyten 3D]]
-related_to:: [[australia\|Australia]]
+related_to:: [[digests/australia\|Australia]]
 related_to:: [["University of Illinois Urbana-Champaign"\|"University of Illinois Urbana-Champaign"]]
 related_to:: [["FemTherapeutics"\|"FemTherapeutics"]]
 related_to:: [["Luyten 3D"\|"Luyten 3D"]]

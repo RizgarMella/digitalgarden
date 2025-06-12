@@ -5,5 +5,5 @@
 
 Secured $3.8M in November 2024 for advanced composite solutions.
 
-related_to:: [[composite-materials\|composite-materials]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/composite-materials\|composite-materials]]
+related_to:: [[digests/united-states\|United-States]]

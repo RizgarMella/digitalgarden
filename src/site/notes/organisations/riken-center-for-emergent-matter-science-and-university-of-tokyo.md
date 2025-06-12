@@ -5,5 +5,5 @@
 
 Developed plastic that dissolves in seawater within hours, addressing ocean pollution.
 
-related_to:: [[biodegradable-plastics\|biodegradable-plastics]]
-related_to:: [[japan\|Japan]]
+related_to:: [[descriptions/biodegradable-plastics\|biodegradable-plastics]]
+related_to:: [[digests/japan\|Japan]]

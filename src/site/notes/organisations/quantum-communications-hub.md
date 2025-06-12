@@ -5,5 +5,5 @@
 
 Established in 2015, focuses on QKD and UK's first quantum network development.
 
-related_to:: [[quantum-key-distribution\|quantum-key-distribution]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[descriptions/quantum-key-distribution\|quantum-key-distribution]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]

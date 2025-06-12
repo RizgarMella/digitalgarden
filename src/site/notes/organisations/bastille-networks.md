@@ -5,5 +5,5 @@
 
 Raised $44M in 2024 for wireless threat intelligence services.
 
-related_to:: [[sensor-networks\|sensor-networks]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/sensor-networks\|sensor-networks]]
+related_to:: [[digests/usa\|USA]]

@@ -5,5 +5,5 @@
 
 Raised $24M in Series B. Offers device observability platform for reliable IoT devices.
 
-related_to:: [[internet-of-things\|internet-of-things]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/internet-of-things\|internet-of-things]]
+related_to:: [[digests/usa\|USA]]

@@ -5,5 +5,5 @@
 
 Received NSF CAREER Award in 2023 for smart materials research.
 
-related_to:: [[smart-materials\|smart-materials]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/smart-materials\|smart-materials]]
+related_to:: [[digests/usa\|USA]]

@@ -3,7 +3,7 @@
 ---
 
 
-related_to:: [[artificial-intelligence\|artificial-intelligence]]
+related_to:: [[descriptions/artificial-intelligence\|artificial-intelligence]]
 
 ## Overview
 Augmented Reality (AR) is a technology that overlays digital information—such as images, sounds, and other data—onto the real world, enhancing the user's perception and interaction with their environment. Unlike Virtual Reality (VR), which immerses users in a fully synthetic environment, AR integrates virtual elements into the physical world, allowing for a blended experience. This technology has gained traction across various sectors, including gaming, education, healthcare, and notably, defense.
@@ -55,21 +55,21 @@ To capitalize on the potential of AR in defense, a strategic investment plan sho
 5. **Long-term Funding for Innovation:** Establish a dedicated fund for ongoing innovation in AR, focusing on emerging technologies such as AI and machine learning that can enhance AR capabilities further.
 
 By strategically investing in these areas, defense organizations can harness the transformative power of AR, enhancing their operational capabilities and maintaining a technological edge in an increasingly complex battlefield.
-related_to:: [[varjo\|Varjo]]
-related_to:: [[finland\|Finland]]
-related_to:: [[rokid\|Rokid]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[somareality\|SOMAREALITY]]
-related_to:: [[austria\|Austria]]
-related_to:: [[mawari\|Mawari]]
-related_to:: [[japan\|Japan]]
-related_to:: [[surgar\|SURGAR]]
-related_to:: [[france\|France]]
+related_to:: [[organisations/varjo\|Varjo]]
+related_to:: [[digests/finland\|Finland]]
+related_to:: [[organisations/rokid\|Rokid]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[organisations/somareality\|SOMAREALITY]]
+related_to:: [[digests/austria\|Austria]]
+related_to:: [[organisations/mawari\|Mawari]]
+related_to:: [[digests/japan\|Japan]]
+related_to:: [[organisations/surgar\|SURGAR]]
+related_to:: [[digests/france\|France]]
 related_to:: [[University of Southern California\|University of Southern California]]
 related_to:: [[German University of Digital Science\|German University of Digital Science]]
-related_to:: [[germany\|Germany]]
+related_to:: [[digests/germany\|Germany]]
 related_to:: [[HIT Lab NZ\|HIT Lab NZ]]
-related_to:: [[new-zealand\|New-Zealand]]
+related_to:: [[digests/new-zealand\|New-Zealand]]
 related_to:: [["SOMAREALITY"\|"SOMAREALITY"]]
 related_to:: [["Rokid"\|"Rokid"]]
 related_to:: [["HIT Lab NZ"\|"HIT Lab NZ"]]

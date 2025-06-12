@@ -5,5 +5,5 @@
 
 Provides advanced computing resources and services for research across the U.S.
 
-related_to:: [[cloud-computing\|cloud-computing]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/cloud-computing\|cloud-computing]]
+related_to:: [[digests/united-states\|United-States]]

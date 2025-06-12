@@ -9,7 +9,7 @@
 
 This report provides a comprehensive assessment of Canada’s current performance and future trajectory (as of June 2025) in a suite of dual-use technologies, with a focus on the contributions of leading Canadian organisations. The analysis covers the following technology areas: 3d-printing-for-manufacturing, additive-manufacturing, advanced-manufacturing-techniques, artificial-intelligence, automated-design-software, biodegradable-plastics, biomimicry, machine-learning, predictive-maintenance, quantum-computing, quantum-key-distribution, sensor-networks, smart-sensors, and sustainable-materials.
 
-Canada’s ecosystem, anchored by a blend of globally recognized research institutes (e.g., [[Institute for Quantum Computing\|Institute for Quantum Computing]], [[Vector Institute\|Vector Institute]], [[Carleton University\|Carleton University]], [[University of Waterloo\|University of Waterloo]]), innovative startups (e.g., [[cohere\|Cohere]], [[Aspect Biosystems\|Aspect Biosystems]], [[nanoprecise\|Nanoprecise]], [[Quantum Bridge\|Quantum Bridge]]), and applied research centres (e.g., [[McMaster Manufacturing Research Institute (MMRI)\|McMaster Manufacturing Research Institute (MMRI)]]), is making notable contributions to both civilian and defence-relevant applications. The nation’s strengths lie in foundational research, AI and quantum science, and the development of sustainable and advanced manufacturing solutions. However, challenges persist in scaling, commercialization, and integration with defence procurement cycles.
+Canada’s ecosystem, anchored by a blend of globally recognized research institutes (e.g., [[Institute for Quantum Computing\|Institute for Quantum Computing]], [[Vector Institute\|Vector Institute]], [[Carleton University\|Carleton University]], [[University of Waterloo\|University of Waterloo]]), innovative startups (e.g., [[organisations/cohere\|Cohere]], [[Aspect Biosystems\|Aspect Biosystems]], [[organisations/nanoprecise\|Nanoprecise]], [[Quantum Bridge\|Quantum Bridge]]), and applied research centres (e.g., [[McMaster Manufacturing Research Institute (MMRI)\|McMaster Manufacturing Research Institute (MMRI)]]), is making notable contributions to both civilian and defence-relevant applications. The nation’s strengths lie in foundational research, AI and quantum science, and the development of sustainable and advanced manufacturing solutions. However, challenges persist in scaling, commercialization, and integration with defence procurement cycles.
 
 ## Strengths
 
@@ -17,18 +17,18 @@ Canada’s ecosystem, anchored by a blend of globally recognized research instit
 
 Canada continues to punch above its weight in fundamental and applied research, particularly in artificial-intelligence, quantum-computing, and advanced-manufacturing-techniques. Institutions such as the [[Vector Institute\|Vector Institute]], [[Institute for Quantum Computing\|Institute for Quantum Computing]], [[Carleton University\|Carleton University]], and the [[University of Waterloo\|University of Waterloo]] have established themselves as global leaders, attracting top-tier talent and international collaboration.
 
-- **Artificial Intelligence and Machine Learning:** The [[Vector Institute\|Vector Institute]] and startups like [[cohere\|Cohere]] and [[Augmenta.ai\|Augmenta.ai]] are at the forefront of artificial-intelligence and machine-learning, driving advances in natural language processing, generative AI, and AI-driven design.
+- **Artificial Intelligence and Machine Learning:** The [[Vector Institute\|Vector Institute]] and startups like [[organisations/cohere\|Cohere]] and [[Augmenta.ai\|Augmenta.ai]] are at the forefront of artificial-intelligence and machine-learning, driving advances in natural language processing, generative AI, and AI-driven design.
 - **Quantum Technologies:** The [[Institute for Quantum Computing\|Institute for Quantum Computing]] and [[Quantum Bridge\|Quantum Bridge]] are developing quantum-computing and quantum-key-distribution technologies, with a focus on secure communications and next-generation computational capabilities.
-- **Advanced Manufacturing:** The [[McMaster Manufacturing Research Institute (MMRI)\|McMaster Manufacturing Research Institute (MMRI)]] and companies like [[metafold\|Metafold]] are pioneering additive-manufacturing and 3d-printing-for-manufacturing, enabling rapid prototyping and complex component fabrication.
-- **Sustainable Materials and Biotech:** Organisations such as [[ALT TEX\|ALT TEX]], [[Cellulotech Inc.\|Cellulotech Inc.]], and [[femtherapeutics\|FemTherapeutics]] are innovating in biodegradable-plastics, biomimicry, and sustainable-materials, aligning with global sustainability goals and offering dual-use potential for military logistics and medical applications.
+- **Advanced Manufacturing:** The [[McMaster Manufacturing Research Institute (MMRI)\|McMaster Manufacturing Research Institute (MMRI)]] and companies like [[organisations/metafold\|Metafold]] are pioneering additive-manufacturing and 3d-printing-for-manufacturing, enabling rapid prototyping and complex component fabrication.
+- **Sustainable Materials and Biotech:** Organisations such as [[ALT TEX\|ALT TEX]], [[Cellulotech Inc.\|Cellulotech Inc.]], and [[organisations/femtherapeutics\|FemTherapeutics]] are innovating in biodegradable-plastics, biomimicry, and sustainable-materials, aligning with global sustainability goals and offering dual-use potential for military logistics and medical applications.
 
 ### Robust Startup Ecosystem and Industry-Academia Collaboration
 
 A vibrant startup ecosystem is supported by strong linkages between academia, industry, and government. This is exemplified by:
 
-- [[cohere\|Cohere]]’s rapid commercialization of AI models.
+- [[organisations/cohere\|Cohere]]’s rapid commercialization of AI models.
 - [[Aspect Biosystems\|Aspect Biosystems]]’s breakthroughs in tissue engineering and biomimicry.
-- [[sensorup\|SensorUp]] and [[nanoprecise\|Nanoprecise]]’s deployment of sensor-networks and smart-sensors for predictive-maintenance and industrial monitoring.
+- [[organisations/sensorup\|SensorUp]] and [[organisations/nanoprecise\|Nanoprecise]]’s deployment of sensor-networks and smart-sensors for predictive-maintenance and industrial monitoring.
 
 ### Government Support and Strategic Investments
 
@@ -67,10 +67,10 @@ While Canada attracts and trains top talent, retention is a challenge, especiall
 
 ### Corporate and Startup Investments
 
-- [[cohere\|Cohere]]: Secured Series D funding to expand AI model commercialization, including dual-use applications in intelligence and logistics.
+- [[organisations/cohere\|Cohere]]: Secured Series D funding to expand AI model commercialization, including dual-use applications in intelligence and logistics.
 - [[Quantum Bridge\|Quantum Bridge]]: Partnered with Canadian defence agencies to pilot quantum-key-distribution networks.
-- [[sensorup\|SensorUp]] and [[nanoprecise\|Nanoprecise]]: Deployed sensor-networks and smart-sensors for predictive-maintenance in critical infrastructure and defence platforms.
-- [[ALT TEX\|ALT TEX]], [[Cellulotech Inc.\|Cellulotech Inc.]], [[femtherapeutics\|FemTherapeutics]]: Attracted investment for scale-up of biodegradable-plastics and sustainable-materials, with potential applications in field logistics and medical support.
+- [[organisations/sensorup\|SensorUp]] and [[organisations/nanoprecise\|Nanoprecise]]: Deployed sensor-networks and smart-sensors for predictive-maintenance in critical infrastructure and defence platforms.
+- [[ALT TEX\|ALT TEX]], [[Cellulotech Inc.\|Cellulotech Inc.]], [[organisations/femtherapeutics\|FemTherapeutics]]: Attracted investment for scale-up of biodegradable-plastics and sustainable-materials, with potential applications in field logistics and medical support.
 
 ## Competitive Comparison
 
@@ -96,12 +96,12 @@ Canada is globally recognized for foundational research, especially in artificia
 
 - **Five Eyes and NATO:** Canada’s trusted status enables collaboration in secure quantum communications, AI-enabled intelligence, and advanced-manufacturing for allied defence supply chains.
 - **Academic Partnerships:** Joint research with US, UK, and EU institutions in quantum-computing, AI, and sustainable-materials.
-- **Export of Dual-Use Technologies:** Canadian startups (e.g., [[cohere\|Cohere]], [[Quantum Bridge\|Quantum Bridge]], [[sensorup\|SensorUp]]) are well-positioned to export AI, quantum-key-distribution, and sensor-networks solutions to allied markets.
+- **Export of Dual-Use Technologies:** Canadian startups (e.g., [[organisations/cohere\|Cohere]], [[Quantum Bridge\|Quantum Bridge]], [[organisations/sensorup\|SensorUp]]) are well-positioned to export AI, quantum-key-distribution, and sensor-networks solutions to allied markets.
 
 ### Industrial Partnerships
 
 - **Integration with Multinational Primes:** Opportunities exist to supply advanced-manufacturing components, smart-sensors, and sustainable-materials to global aerospace and defence primes.
-- **Biotech and Medical Exports:** Companies like [[Aspect Biosystems\|Aspect Biosystems]] and [[femtherapeutics\|FemTherapeutics]] can export biomimicry and biodegradable-plastics innovations for military medical and logistics applications.
+- **Biotech and Medical Exports:** Companies like [[Aspect Biosystems\|Aspect Biosystems]] and [[organisations/femtherapeutics\|FemTherapeutics]] can export biomimicry and biodegradable-plastics innovations for military medical and logistics applications.
 
 ## Risks & Mitigation
 

@@ -5,8 +5,8 @@
 
 Offers a comprehensive Master of Information and Data Science program.
 
-related_to:: [[data-analytics\|data-analytics]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[machine-learning\|machine-learning]]
-related_to:: [[usa\|USA]]
-related_to:: [[sensor-networks\|sensor-networks]]
+related_to:: [[descriptions/data-analytics\|data-analytics]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[descriptions/machine-learning\|machine-learning]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[descriptions/sensor-networks\|sensor-networks]]

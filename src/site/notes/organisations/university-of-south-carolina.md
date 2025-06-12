@@ -5,5 +5,5 @@
 
 Hosts the Center for Predictive Maintenance supporting U.S. Army Aviation.
 
-related_to:: [[predictive-maintenance\|predictive-maintenance]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/predictive-maintenance\|predictive-maintenance]]
+related_to:: [[digests/usa\|USA]]

@@ -5,9 +5,9 @@
 
 ## Executive Summary
 
-This report provides a comprehensive assessment of South Korea’s current performance and future trajectory in the field of sensors, with a particular focus on dual-use applications relevant to both civilian and defence domains. The analysis is current as of June 2025, and places special emphasis on the role of South Korean organisations such as [[bitsensing\|bitsensing]]. It evaluates the nation’s strengths and weaknesses, notable programmes and investments, competitive positioning, opportunities for collaboration and export, as well as risks and mitigation strategies. The report concludes with a five-year outlook, projecting South Korea’s likely trajectory in the global sensor technology landscape.
+This report provides a comprehensive assessment of South Korea’s current performance and future trajectory in the field of sensors, with a particular focus on dual-use applications relevant to both civilian and defence domains. The analysis is current as of June 2025, and places special emphasis on the role of South Korean organisations such as [[organisations/bitsensing\|bitsensing]]. It evaluates the nation’s strengths and weaknesses, notable programmes and investments, competitive positioning, opportunities for collaboration and export, as well as risks and mitigation strategies. The report concludes with a five-year outlook, projecting South Korea’s likely trajectory in the global sensor technology landscape.
 
-South Korea has emerged as a significant player in the global sensors market, leveraging its advanced manufacturing base, robust R&D ecosystem, and strong government support for strategic technologies. Organisations like [[bitsensing\|bitsensing]] exemplify the country’s innovative capacity, particularly in radar and IoT sensor solutions with dual-use potential. Despite these strengths, South Korea faces challenges including dependency on imported sensor components, talent shortages, and intensifying competition from global leaders. Nevertheless, the nation is well-positioned to expand its influence through targeted investments, international collaborations, and a focus on emerging sensor applications in security, mobility, and smart infrastructure.
+South Korea has emerged as a significant player in the global sensors market, leveraging its advanced manufacturing base, robust R&D ecosystem, and strong government support for strategic technologies. Organisations like [[organisations/bitsensing\|bitsensing]] exemplify the country’s innovative capacity, particularly in radar and IoT sensor solutions with dual-use potential. Despite these strengths, South Korea faces challenges including dependency on imported sensor components, talent shortages, and intensifying competition from global leaders. Nevertheless, the nation is well-positioned to expand its influence through targeted investments, international collaborations, and a focus on emerging sensor applications in security, mobility, and smart infrastructure.
 
 ## Strengths
 
@@ -21,7 +21,7 @@ The South Korean government has identified sensors as a critical enabling techno
 
 ### Innovative Organisations
 
-Organisations like [[bitsensing\|bitsensing]] illustrate South Korea’s capacity for innovation in the sensor domain. [[bitsensing\|bitsensing]] has developed advanced radar sensors for automotive, industrial, and security applications, with a strong emphasis on miniaturisation, low power consumption, and AI integration. The company’s products are increasingly adopted in both civilian and defence sectors, demonstrating the viability of dual-use sensor solutions.
+Organisations like [[organisations/bitsensing\|bitsensing]] illustrate South Korea’s capacity for innovation in the sensor domain. [[organisations/bitsensing\|bitsensing]] has developed advanced radar sensors for automotive, industrial, and security applications, with a strong emphasis on miniaturisation, low power consumption, and AI integration. The company’s products are increasingly adopted in both civilian and defence sectors, demonstrating the viability of dual-use sensor solutions.
 
 ### Integration with Emerging Technologies
 
@@ -43,7 +43,7 @@ The rapid growth of the sensor industry has outpaced the availability of skilled
 
 ### Limited Indigenous IP in High-End Sensors
 
-While organisations like [[bitsensing\|bitsensing]] have made notable advances, South Korea lags behind global leaders in the development of certain high-end sensor technologies, such as quantum sensors, advanced photonics, and next-generation imaging arrays. The country’s patent portfolio in these areas is less robust compared to the US, Japan, and Germany.
+While organisations like [[organisations/bitsensing\|bitsensing]] have made notable advances, South Korea lags behind global leaders in the development of certain high-end sensor technologies, such as quantum sensors, advanced photonics, and next-generation imaging arrays. The country’s patent portfolio in these areas is less robust compared to the US, Japan, and Germany.
 
 ### Fragmented Ecosystem
 
@@ -65,7 +65,7 @@ The Korean government’s Smart City programme integrates sensor networks for tr
 
 ### Automotive and Mobility Investments
 
-South Korea’s automotive sector, led by Hyundai and Kia, is investing heavily in sensors for advanced driver assistance systems (ADAS), autonomous vehicles, and electric mobility. [[bitsensing\|bitsensing]] is a key contributor, providing radar sensors that are being integrated into next-generation vehicles for both domestic and export markets.
+South Korea’s automotive sector, led by Hyundai and Kia, is investing heavily in sensors for advanced driver assistance systems (ADAS), autonomous vehicles, and electric mobility. [[organisations/bitsensing\|bitsensing]] is a key contributor, providing radar sensors that are being integrated into next-generation vehicles for both domestic and export markets.
 
 ### International Collaborations
 
@@ -73,7 +73,7 @@ South Korea has established R&D partnerships with leading global institutions an
 
 ### Venture Capital and Start-up Ecosystem
 
-The South Korean start-up ecosystem, supported by venture capital and government grants, has seen a surge in sensor-focused companies. [[bitsensing\|bitsensing]] has benefited from this environment, securing funding for product development and market expansion.
+The South Korean start-up ecosystem, supported by venture capital and government grants, has seen a surge in sensor-focused companies. [[organisations/bitsensing\|bitsensing]] has benefited from this environment, securing funding for product development and market expansion.
 
 ## Competitive Comparison
 
@@ -97,7 +97,7 @@ European countries, particularly Germany and France, excel in industrial and aut
 
 ### Defence and Security Partnerships
 
-South Korea’s advanced sensor technologies, exemplified by [[bitsensing\|bitsensing]], are well-suited for integration into allied defence systems, particularly for surveillance, border security, and autonomous platforms. There are opportunities for joint development and co-production with partners in the US, Europe, and Southeast Asia.
+South Korea’s advanced sensor technologies, exemplified by [[organisations/bitsensing\|bitsensing]], are well-suited for integration into allied defence systems, particularly for surveillance, border security, and autonomous platforms. There are opportunities for joint development and co-production with partners in the US, Europe, and Southeast Asia.
 
 ### Smart Cities and Infrastructure
 
@@ -149,7 +149,7 @@ South Korean firms can leverage technology transfer agreements to localise senso
 
 ## Outlook (5-year)
 
-Over the next five years, South Korea is poised to consolidate its position as a global leader in dual-use sensor technologies, particularly in automotive, smart infrastructure, and security applications. Organisations like [[bitsensing\|bitsensing]] will continue to drive innovation, leveraging advances in AI, connectivity, and miniaturisation. The government’s sustained investment in defence innovation and smart city initiatives will provide a strong foundation for growth.
+Over the next five years, South Korea is poised to consolidate its position as a global leader in dual-use sensor technologies, particularly in automotive, smart infrastructure, and security applications. Organisations like [[organisations/bitsensing\|bitsensing]] will continue to drive innovation, leveraging advances in AI, connectivity, and miniaturisation. The government’s sustained investment in defence innovation and smart city initiatives will provide a strong foundation for growth.
 
 However, to fully realise its potential, South Korea must address persistent challenges, including supply chain dependencies, talent shortages, and the need for greater indigenous innovation in high-end sensors. Strategic international collaborations, targeted R&D investments, and a focus on export-oriented growth will be critical to maintaining competitiveness.
 

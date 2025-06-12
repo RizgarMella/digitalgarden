@@ -5,5 +5,5 @@
 
 Public-private partnership focusing on robotics and manufacturing innovations.
 
-related_to:: [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
+related_to:: [[digests/united-states\|United-States]]

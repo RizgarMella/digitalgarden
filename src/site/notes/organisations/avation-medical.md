@@ -5,5 +5,5 @@
 
 Raised $22M for wearable neuromodulation technology.
 
-related_to:: [[wearable-health-tech\|wearable-health-tech]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/wearable-health-tech\|wearable-health-tech]]
+related_to:: [[digests/united-states\|United-States]]

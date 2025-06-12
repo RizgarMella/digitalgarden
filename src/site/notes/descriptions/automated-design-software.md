@@ -51,13 +51,13 @@ To capitalize on the potential of automated design software in the defence secto
 4. **Acquisition of Startups:** Consider acquiring or partnering with startups that are at the forefront of automated design technology. This strategy can provide access to cutting-edge innovations and enhance the defence sector's overall capabilities.
 
 5. **Long-term Strategy:** Develop a long-term strategy for integrating automated design software into all phases of defence procurement, from concept development to production and maintenance. This comprehensive approach will ensure that the benefits of automation are fully realized across the defence landscape.
-related_to:: [[rescale\|Rescale]]
-related_to:: [[usa\|USA]]
+related_to:: [[organisations/rescale\|Rescale]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[Augmenta.ai\|Augmenta.ai]]
-related_to:: [[canada\|Canada]]
-related_to:: [[vizcom\|Vizcom]]
-related_to:: [[autify\|Autify]]
-related_to:: [[japan\|Japan]]
+related_to:: [[digests/canada\|Canada]]
+related_to:: [[organisations/vizcom\|Vizcom]]
+related_to:: [[organisations/autify\|Autify]]
+related_to:: [[digests/japan\|Japan]]
 related_to:: [[University of Pennsylvania\|University of Pennsylvania]]
 related_to:: [[Carnegie Mellon University\|Carnegie Mellon University]]
 related_to:: [[University of California, Santa Cruz\|University of California, Santa Cruz]]

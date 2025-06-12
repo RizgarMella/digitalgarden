@@ -5,6 +5,6 @@
 
 Focuses on automated manufacturing techniques for advanced composite materials.
 
-related_to:: [[advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
-related_to:: [[australia\|Australia]]
-related_to:: [[composite-materials\|composite-materials]]
+related_to:: [[descriptions/advanced-manufacturing-techniques\|advanced-manufacturing-techniques]]
+related_to:: [[digests/australia\|Australia]]
+related_to:: [[descriptions/composite-materials\|composite-materials]]

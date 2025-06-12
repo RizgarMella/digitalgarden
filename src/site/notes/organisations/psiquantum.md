@@ -5,5 +5,5 @@
 
 Raised $750 million in March 2025; developing fault-tolerant quantum computers.
 
-related_to:: [[quantum-computing\|quantum-computing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/quantum-computing\|quantum-computing]]
+related_to:: [[digests/usa\|USA]]

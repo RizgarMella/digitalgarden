@@ -5,5 +5,5 @@
 
 Secured $15M in early 2025 for plant-based alternatives to petrochemical products.
 
-related_to:: [[smart-materials\|smart-materials]]
-related_to:: [[switzerland\|Switzerland]]
+related_to:: [[descriptions/smart-materials\|smart-materials]]
+related_to:: [[digests/switzerland\|Switzerland]]

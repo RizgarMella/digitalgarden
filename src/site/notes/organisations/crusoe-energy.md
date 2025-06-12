@@ -5,5 +5,5 @@
 
 Raised $500 million in late 2024, valuing the company at $3 billion.
 
-related_to:: [[cloud-computing\|cloud-computing]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/cloud-computing\|cloud-computing]]
+related_to:: [[digests/united-states\|United-States]]

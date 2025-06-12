@@ -8,11 +8,11 @@
 
 ## Executive Summary
 
-Taiwan is emerging as a significant player in the development and deployment of dual-use technologies, particularly in the fields of [[digital-twin-technology\|digital-twin-technology]], [[digital-twins\|digital-twins]], and the [[internet-of-things\|internet-of-things]]. With its advanced semiconductor industry, robust manufacturing base, and a growing ecosystem of technology firms—including prominent organisations such as [[metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]]—Taiwan is leveraging its strengths to address both civilian and defence needs. The government’s strategic investments, public-private partnerships, and international collaborations have positioned Taiwan as a regional leader in these domains.
+Taiwan is emerging as a significant player in the development and deployment of dual-use technologies, particularly in the fields of [[descriptions/digital-twin-technology\|digital-twin-technology]], [[descriptions/digital-twins\|digital-twins]], and the [[descriptions/internet-of-things\|internet-of-things]]. With its advanced semiconductor industry, robust manufacturing base, and a growing ecosystem of technology firms—including prominent organisations such as [[organisations/metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]]—Taiwan is leveraging its strengths to address both civilian and defence needs. The government’s strategic investments, public-private partnerships, and international collaborations have positioned Taiwan as a regional leader in these domains.
 
 However, the island faces notable challenges. These include talent shortages, cybersecurity vulnerabilities, and the persistent threat of geopolitical instability. Despite these weaknesses, Taiwan’s trajectory remains positive, with a growing focus on indigenous innovation, export opportunities, and the integration of emerging technologies into both industrial and military applications.
 
-This report provides a comprehensive assessment of Taiwan’s current performance and future outlook in dual-use digital twin and IoT technologies, with a focus on the roles of [[metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]], and the broader ecosystem.
+This report provides a comprehensive assessment of Taiwan’s current performance and future outlook in dual-use digital twin and IoT technologies, with a focus on the roles of [[organisations/metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]], and the broader ecosystem.
 
 ---
 
@@ -20,11 +20,11 @@ This report provides a comprehensive assessment of Taiwan’s current performanc
 
 ### Advanced Industrial Base
 
-Taiwan’s global leadership in semiconductor manufacturing—anchored by companies such as TSMC—provides a critical foundation for the development and deployment of [[digital-twin-technology\|digital-twin-technology]] and the [[internet-of-things\|internet-of-things]]. The availability of cutting-edge chips and sensors enables the rapid prototyping and scaling of IoT devices and digital twin solutions.
+Taiwan’s global leadership in semiconductor manufacturing—anchored by companies such as TSMC—provides a critical foundation for the development and deployment of [[descriptions/digital-twin-technology\|digital-twin-technology]] and the [[descriptions/internet-of-things\|internet-of-things]]. The availability of cutting-edge chips and sensors enables the rapid prototyping and scaling of IoT devices and digital twin solutions.
 
 ### Innovation Ecosystem
 
-Organisations like [[metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]] exemplify Taiwan’s vibrant innovation ecosystem. [[metai\|MetAI]] is at the forefront of integrating AI-driven analytics with digital twin platforms, enabling real-time simulation and predictive maintenance for both civilian and defence applications. [[TXOne Networks\|TXOne Networks]], a leader in industrial cybersecurity, provides essential protection for IoT infrastructure and digital twin environments, addressing one of the most critical vulnerabilities in dual-use technology deployment.
+Organisations like [[organisations/metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]] exemplify Taiwan’s vibrant innovation ecosystem. [[organisations/metai\|MetAI]] is at the forefront of integrating AI-driven analytics with digital twin platforms, enabling real-time simulation and predictive maintenance for both civilian and defence applications. [[TXOne Networks\|TXOne Networks]], a leader in industrial cybersecurity, provides essential protection for IoT infrastructure and digital twin environments, addressing one of the most critical vulnerabilities in dual-use technology deployment.
 
 ### Government Support
 
@@ -32,7 +32,7 @@ The Taiwanese government has prioritized digital transformation and smart manufa
 
 ### Integration of Dual-Use Technologies
 
-Taiwan’s defence sector is increasingly integrating [[digital-twin-technology\|digital-twin-technology]] and [[internet-of-things\|internet-of-things]] solutions into command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR) systems, logistics, and maintenance. This integration enhances operational readiness, asset management, and situational awareness.
+Taiwan’s defence sector is increasingly integrating [[descriptions/digital-twin-technology\|digital-twin-technology]] and [[descriptions/internet-of-things\|internet-of-things]] solutions into command, control, communications, computers, intelligence, surveillance, and reconnaissance (C4ISR) systems, logistics, and maintenance. This integration enhances operational readiness, asset management, and situational awareness.
 
 ### International Collaboration
 
@@ -44,7 +44,7 @@ Taiwan maintains active partnerships with leading technology nations, including 
 
 ### Talent Shortages
 
-Despite its technological prowess, Taiwan faces a shortage of high-skilled professionals in data science, AI, and cybersecurity. This talent gap is particularly acute in the fields of [[digital-twin-technology\|digital-twin-technology]] and advanced IoT, where competition from global tech giants and domestic demographic trends exacerbate recruitment and retention challenges.
+Despite its technological prowess, Taiwan faces a shortage of high-skilled professionals in data science, AI, and cybersecurity. This talent gap is particularly acute in the fields of [[descriptions/digital-twin-technology\|digital-twin-technology]] and advanced IoT, where competition from global tech giants and domestic demographic trends exacerbate recruitment and retention challenges.
 
 ### Cybersecurity Vulnerabilities
 
@@ -52,7 +52,7 @@ The proliferation of IoT devices and the increasing complexity of digital twin e
 
 ### Fragmented Standards
 
-The rapid development of [[digital-twins\|digital-twins]] and IoT platforms has led to a fragmented landscape of standards and protocols. This fragmentation hampers interoperability, complicates integration across different systems, and increases the risk of vendor lock-in.
+The rapid development of [[descriptions/digital-twins\|digital-twins]] and IoT platforms has led to a fragmented landscape of standards and protocols. This fragmentation hampers interoperability, complicates integration across different systems, and increases the risk of vendor lock-in.
 
 ### Geopolitical Risks
 
@@ -68,12 +68,12 @@ While Taiwan’s commercial sector is robust, the domestic market for defence-sp
 
 ### Government Initiatives
 
-- **Smart Taiwan 2030:** This flagship initiative includes dedicated funding for the development of [[digital-twin-technology\|digital-twin-technology]] and IoT solutions, with a focus on smart manufacturing, critical infrastructure, and defence applications.
+- **Smart Taiwan 2030:** This flagship initiative includes dedicated funding for the development of [[descriptions/digital-twin-technology\|digital-twin-technology]] and IoT solutions, with a focus on smart manufacturing, critical infrastructure, and defence applications.
 - **National Defence Technology Development Plan:** The Ministry of National Defence has earmarked significant resources for the integration of digital twins into C4ISR, logistics, and predictive maintenance of military assets.
 
 ### Industry-Led Programmes
 
-- **[[metai\|MetAI]] Digital Twin Platform:** [[metai\|MetAI]] has developed a comprehensive platform that integrates AI, real-time sensor data, and simulation tools for both industrial and military applications. Recent deployments include digital twins for naval vessel maintenance and smart factory automation.
+- **[[organisations/metai\|MetAI]] Digital Twin Platform:** [[organisations/metai\|MetAI]] has developed a comprehensive platform that integrates AI, real-time sensor data, and simulation tools for both industrial and military applications. Recent deployments include digital twins for naval vessel maintenance and smart factory automation.
 - **[[TXOne Networks\|TXOne Networks]] Industrial IoT Security Suite:** [[TXOne Networks\|TXOne Networks]] offers a suite of cybersecurity solutions tailored for IoT and digital twin environments, including anomaly detection, secure device onboarding, and network segmentation. These solutions are deployed across critical infrastructure and defence facilities.
 
 ### Academic and Research Collaborations
@@ -84,7 +84,7 @@ While Taiwan’s commercial sector is robust, the domestic market for defence-sp
 ### Venture Capital and Startup Ecosystem
 
 - **Increased Investment:** Taiwanese venture capital firms have increased funding for startups developing dual-use digital twin and IoT solutions, with a focus on AI integration, edge computing, and secure connectivity.
-- **Incubators and Accelerators:** Government-backed incubators support early-stage companies in prototyping and scaling dual-use technologies, often in collaboration with established players like [[metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]].
+- **Incubators and Accelerators:** Government-backed incubators support early-stage companies in prototyping and scaling dual-use technologies, often in collaboration with established players like [[organisations/metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]].
 
 ---
 
@@ -102,7 +102,7 @@ While Taiwan’s commercial sector is robust, the domestic market for defence-sp
 
 ### Unique Value Propositions
 
-- **Hardware-Software Synergy:** Taiwan’s ability to integrate advanced semiconductors with AI-driven digital twin platforms is a distinctive strength, exemplified by organisations like [[metai\|MetAI]].
+- **Hardware-Software Synergy:** Taiwan’s ability to integrate advanced semiconductors with AI-driven digital twin platforms is a distinctive strength, exemplified by organisations like [[organisations/metai\|MetAI]].
 - **Cybersecurity Focus:** The expertise of [[TXOne Networks\|TXOne Networks]] in securing industrial IoT environments is increasingly recognized internationally, providing Taiwan with a competitive niche in the global market.
 
 ---
@@ -182,11 +182,11 @@ While Taiwan’s commercial sector is robust, the domestic market for defence-sp
 
 ### Technology Trajectory
 
-Over the next five years, Taiwan is poised to consolidate its leadership in the integration of [[digital-twin-technology\|digital-twin-technology]], [[digital-twins\|digital-twins]], and the [[internet-of-things\|internet-of-things]] for dual-use applications. The convergence of AI, advanced semiconductors, and secure connectivity will drive the development of increasingly sophisticated digital twin platforms, with applications spanning smart manufacturing, critical infrastructure, and defence.
+Over the next five years, Taiwan is poised to consolidate its leadership in the integration of [[descriptions/digital-twin-technology\|digital-twin-technology]], [[descriptions/digital-twins\|digital-twins]], and the [[descriptions/internet-of-things\|internet-of-things]] for dual-use applications. The convergence of AI, advanced semiconductors, and secure connectivity will drive the development of increasingly sophisticated digital twin platforms, with applications spanning smart manufacturing, critical infrastructure, and defence.
 
 ### Organisational Evolution
 
-[[metai\|MetAI]] is expected to expand its role as a leading provider of AI-driven digital twin solutions, with increased penetration into defence and export markets. [[TXOne Networks\|TXOne Networks]] will likely continue to set benchmarks in industrial IoT cybersecurity, both domestically and internationally.
+[[organisations/metai\|MetAI]] is expected to expand its role as a leading provider of AI-driven digital twin solutions, with increased penetration into defence and export markets. [[TXOne Networks\|TXOne Networks]] will likely continue to set benchmarks in industrial IoT cybersecurity, both domestically and internationally.
 
 ### Market Expansion
 
@@ -202,4 +202,4 @@ Geopolitical risks will remain a persistent challenge, but ongoing investments i
 
 ### Conclusion
 
-Taiwan’s performance in dual-use digital twin and IoT technologies is robust and improving. By leveraging its strengths in semiconductors, innovation, and cybersecurity—exemplified by organisations like [[metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]]—Taiwan is well positioned to remain a regional leader and a valuable partner in the global technology ecosystem. Continued attention to talent development, cybersecurity, and international collaboration will be essential to sustaining this trajectory over the next five years.
+Taiwan’s performance in dual-use digital twin and IoT technologies is robust and improving. By leveraging its strengths in semiconductors, innovation, and cybersecurity—exemplified by organisations like [[organisations/metai\|MetAI]] and [[TXOne Networks\|TXOne Networks]]—Taiwan is well positioned to remain a regional leader and a valuable partner in the global technology ecosystem. Continued attention to talent development, cybersecurity, and international collaboration will be essential to sustaining this trajectory over the next five years.

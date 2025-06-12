@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-This report provides a comprehensive assessment of the United Kingdom’s current performance and future trajectory in the dual-use technology domains of **biodegradable-plastics** and **sustainable-materials** as of June 2025. Special attention is given to the roles of the organisations [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]], both of which are at the forefront of innovation in these fields.
+This report provides a comprehensive assessment of the United Kingdom’s current performance and future trajectory in the dual-use technology domains of **biodegradable-plastics** and **sustainable-materials** as of June 2025. Special attention is given to the roles of the organisations [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]], both of which are at the forefront of innovation in these fields.
 
 The UK has demonstrated clear strengths in research, policy support, and early-stage commercialisation, particularly through a strong university base and a growing ecosystem of innovative SMEs. However, challenges remain in scaling up production, integrating supply chains, and translating R&D advances into global market share. The dual-use nature of these technologies—serving both civilian and defence applications—offers significant opportunities for cross-sectoral innovation, export, and collaboration.
 
@@ -17,7 +17,7 @@ The report details the UK’s position relative to global competitors, analyses 
 
 ### 1. Robust Research and Innovation Ecosystem
 
-The UK boasts a world-class research base, with leading universities and research institutes specializing in [[biodegradable-plastics\|biodegradable-plastics]] and [[sustainable-materials\|sustainable-materials]]. The presence of organisations like [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]]—both spinouts from UK academic environments—demonstrates the effectiveness of the UK’s innovation pipeline from lab to market.
+The UK boasts a world-class research base, with leading universities and research institutes specializing in [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/sustainable-materials\|sustainable-materials]]. The presence of organisations like [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]]—both spinouts from UK academic environments—demonstrates the effectiveness of the UK’s innovation pipeline from lab to market.
 
 - **Academic Leadership**: Universities such as Cambridge, Imperial College London, and the University of Bath have pioneered research in polymer science, green chemistry, and materials engineering.
 - **Start-up and SME Activity**: A vibrant start-up scene, supported by government and private venture funding, has enabled rapid prototyping and commercialisation.
@@ -31,10 +31,10 @@ The UK government has implemented policies to drive the adoption of sustainable 
 
 ### 3. Early Commercialisation and Demonstration
 
-Both [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]] have successfully demonstrated their products at commercial scale:
+Both [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]] have successfully demonstrated their products at commercial scale:
 
-- [[adaptavate\|Adaptavate]]’s Breathaboard, a biodegradable and carbon-negative building board, is being trialled in both civilian and MOD infrastructure projects.
-- [[polymateria\|Polymateria]]’s time-controlled biodegradable plastics are in pilot use with UK defence logistics and several major UK retailers.
+- [[organisations/adaptavate\|Adaptavate]]’s Breathaboard, a biodegradable and carbon-negative building board, is being trialled in both civilian and MOD infrastructure projects.
+- [[organisations/polymateria\|Polymateria]]’s time-controlled biodegradable plastics are in pilot use with UK defence logistics and several major UK retailers.
 
 ### 4. Dual-Use Potential
 
@@ -77,7 +77,7 @@ While early-stage funding is robust, there is a notable gap in late-stage and sc
 ### 1. Government Initiatives
 
 - **UKRI Sustainable Plastics Challenge**: A £60 million programme supporting R&D and demonstration projects in biodegradable and sustainable plastics.
-- **Defence Science and Technology Laboratory (DSTL) Green Materials Programme**: Invests in dual-use materials for MOD applications, including trials with [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]].
+- **Defence Science and Technology Laboratory (DSTL) Green Materials Programme**: Invests in dual-use materials for MOD applications, including trials with [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]].
 
 ### 2. Private Sector Activity
 
@@ -134,11 +134,11 @@ While early-stage funding is robust, there is a notable gap in late-stage and sc
 ### 3. Research and Innovation
 
 - **Joint Ventures**: Opportunities for UK firms to establish joint ventures with US and EU companies for technology transfer and market access.
-- **Standards Development**: Leadership in international standards bodies (ISO, ASTM) to shape global norms for [[biodegradable-plastics\|biodegradable-plastics]] and [[sustainable-materials\|sustainable-materials]].
+- **Standards Development**: Leadership in international standards bodies (ISO, ASTM) to shape global norms for [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/sustainable-materials\|sustainable-materials]].
 
 ### 4. Technology Licensing
 
-- **IP Licensing**: UK-developed technologies (e.g., [[polymateria\|Polymateria]]’s time-controlled degradation additives) can be licensed to global manufacturers.
+- **IP Licensing**: UK-developed technologies (e.g., [[organisations/polymateria\|Polymateria]]’s time-controlled degradation additives) can be licensed to global manufacturers.
 
 ---
 
@@ -179,11 +179,11 @@ While early-stage funding is robust, there is a notable gap in late-stage and sc
 
 ### 1. Market Growth
 
-The global market for [[biodegradable-plastics\|biodegradable-plastics]] and [[sustainable-materials\|sustainable-materials]] is projected to grow at a CAGR of 12–15% through 2030, driven by regulatory mandates, consumer demand, and corporate sustainability commitments. The dual-use segment—serving both civilian and defence applications—is expected to outpace the broader market due to rising requirements for sustainable procurement in defence and infrastructure.
+The global market for [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/sustainable-materials\|sustainable-materials]] is projected to grow at a CAGR of 12–15% through 2030, driven by regulatory mandates, consumer demand, and corporate sustainability commitments. The dual-use segment—serving both civilian and defence applications—is expected to outpace the broader market due to rising requirements for sustainable procurement in defence and infrastructure.
 
 ### 2. UK Trajectory
 
-- **Short-Term (2025–2027)**: Continued growth in R&D and pilot deployments, with increased MOD procurement of sustainable materials. [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]] are likely to expand their domestic market share and begin to secure export contracts.
+- **Short-Term (2025–2027)**: Continued growth in R&D and pilot deployments, with increased MOD procurement of sustainable materials. [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]] are likely to expand their domestic market share and begin to secure export contracts.
 - **Medium-Term (2027–2030)**: If scale-up challenges are addressed, the UK could emerge as a leading exporter of high-value, niche sustainable materials. Greater integration of civilian and defence supply chains will enhance resilience and innovation.
 
 ### 3. Key Enablers
@@ -200,4 +200,4 @@ The global market for [[biodegradable-plastics\|biodegradable-plastics]] and [[s
 
 ### 5. Conclusion
 
-The UK is well-positioned to lead in the development and application of [[biodegradable-plastics\|biodegradable-plastics]] and [[sustainable-materials\|sustainable-materials]], particularly in dual-use contexts. Organisations like [[adaptavate\|Adaptavate]] and [[polymateria\|Polymateria]] exemplify the UK’s strengths in innovation and early commercialisation. However, realising the full potential of these technologies will require concerted efforts to address scale-up, investment, and regulatory challenges. With strategic focus, the UK can secure a competitive and resilient position in this critical sector over the next five years.
+The UK is well-positioned to lead in the development and application of [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/sustainable-materials\|sustainable-materials]], particularly in dual-use contexts. Organisations like [[organisations/adaptavate\|Adaptavate]] and [[organisations/polymateria\|Polymateria]] exemplify the UK’s strengths in innovation and early commercialisation. However, realising the full potential of these technologies will require concerted efforts to address scale-up, investment, and regulatory challenges. With strategic focus, the UK can secure a competitive and resilient position in this critical sector over the next five years.

@@ -5,5 +5,5 @@
 
 Secured $10M in November 2024 to provide biometric authentication in India.
 
-related_to:: [[biometric-authentication\|biometric-authentication]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/biometric-authentication\|biometric-authentication]]
+related_to:: [[digests/united-states\|United-States]]

@@ -5,5 +5,5 @@
 
 Leading $7M project to develop automated additive manufacturing.
 
-related_to:: [[additive-manufacturing\|additive-manufacturing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/additive-manufacturing\|additive-manufacturing]]
+related_to:: [[digests/usa\|USA]]

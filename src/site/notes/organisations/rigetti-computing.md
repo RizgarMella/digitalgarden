@@ -5,5 +5,5 @@
 
 Pioneer in superconducting quantum computing; raised $190 million in 2022.
 
-related_to:: [[quantum-computing\|quantum-computing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/quantum-computing\|quantum-computing]]
+related_to:: [[digests/usa\|USA]]

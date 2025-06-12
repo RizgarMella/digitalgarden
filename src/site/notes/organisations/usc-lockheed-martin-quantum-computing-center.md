@@ -5,5 +5,5 @@
 
 Joint research facility between USC and Lockheed Martin; operates D-Wave quantum system.
 
-related_to:: [[quantum-computing\|quantum-computing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/quantum-computing\|quantum-computing]]
+related_to:: [[digests/usa\|USA]]

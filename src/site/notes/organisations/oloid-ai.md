@@ -5,5 +5,5 @@
 
 Raised $6M in October 2024 to modernize security for frontline workers.
 
-related_to:: [[biometric-authentication-systems\|biometric-authentication-systems]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/biometric-authentication-systems\|biometric-authentication-systems]]
+related_to:: [[digests/united-states\|United-States]]

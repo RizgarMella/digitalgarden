@@ -51,12 +51,12 @@ To capitalize on the potential of AI-powered cybersecurity, defense organization
 
 By strategically investing in these areas, defense organizations can enhance their cybersecurity posture, ensuring resilience against the ever-evolving landscape of cyber threats.
 related_to:: [[Virtue AI\|Virtue AI]]
-related_to:: [[usa\|USA]]
-related_to:: [[reliaquest\|ReliaQuest]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/reliaquest\|ReliaQuest]]
 related_to:: [[Cyclops Security\|Cyclops Security]]
-related_to:: [[israel\|Israel]]
-related_to:: [[pentera\|Pentera]]
-related_to:: [[wiz\|Wiz]]
+related_to:: [[digests/israel\|Israel]]
+related_to:: [[organisations/pentera\|Pentera]]
+related_to:: [[organisations/wiz\|Wiz]]
 related_to:: [[ACTION Institute\|ACTION Institute]]
 related_to:: [[Jericho Security\|Jericho Security]]
 related_to:: [[SurePath AI\|SurePath AI]]

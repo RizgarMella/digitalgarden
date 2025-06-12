@@ -5,9 +5,9 @@
 
 ## Executive Summary
 
-This report provides an in-depth assessment of South Africa’s current performance and trajectory in the field of **biometric-authentication** as a dual-use technology, with a particular focus on the role of the domestic organisation [[iidentifii\|iiDENTIFii]]. As of mid-2025, South Africa has established itself as a regional leader in biometric-authentication, leveraging both its vibrant fintech sector and growing government interest in secure identity management. The country’s capabilities are shaped by a combination of private sector innovation, public sector adoption, and a unique socio-economic context that drives demand for secure, scalable, and inclusive authentication solutions.
+This report provides an in-depth assessment of South Africa’s current performance and trajectory in the field of **biometric-authentication** as a dual-use technology, with a particular focus on the role of the domestic organisation [[organisations/iidentifii\|iiDENTIFii]]. As of mid-2025, South Africa has established itself as a regional leader in biometric-authentication, leveraging both its vibrant fintech sector and growing government interest in secure identity management. The country’s capabilities are shaped by a combination of private sector innovation, public sector adoption, and a unique socio-economic context that drives demand for secure, scalable, and inclusive authentication solutions.
 
-South Africa’s strengths include a robust technological ecosystem, a track record of public-private partnerships, and the emergence of innovative companies such as [[iidentifii\|iiDENTIFii]]. However, challenges persist in the form of regulatory uncertainty, infrastructure gaps, and concerns around data privacy and cybersecurity. Notable programmes and investments have positioned South Africa as a testbed for biometric solutions, but international competition and domestic constraints could limit future growth.
+South Africa’s strengths include a robust technological ecosystem, a track record of public-private partnerships, and the emergence of innovative companies such as [[organisations/iidentifii\|iiDENTIFii]]. However, challenges persist in the form of regulatory uncertainty, infrastructure gaps, and concerns around data privacy and cybersecurity. Notable programmes and investments have positioned South Africa as a testbed for biometric solutions, but international competition and domestic constraints could limit future growth.
 
 Looking forward, South Africa’s trajectory in biometric-authentication will depend on its ability to address these weaknesses, leverage its strengths, and navigate a dynamic global landscape. The next five years will be critical in determining whether South Africa can maintain its regional leadership and expand its influence globally.
 
@@ -17,7 +17,7 @@ Looking forward, South Africa’s trajectory in biometric-authentication will de
 
 ### 1. Vibrant Innovation Ecosystem
 
-South Africa boasts a dynamic technology sector, particularly in financial services and digital identity, which provides fertile ground for the development and deployment of **biometric-authentication** solutions. The presence of organisations such as [[iidentifii\|iiDENTIFii]]—a pioneer in remote biometric authentication—demonstrates the country’s capacity for homegrown innovation.
+South Africa boasts a dynamic technology sector, particularly in financial services and digital identity, which provides fertile ground for the development and deployment of **biometric-authentication** solutions. The presence of organisations such as [[organisations/iidentifii\|iiDENTIFii]]—a pioneer in remote biometric authentication—demonstrates the country’s capacity for homegrown innovation.
 
 ### 2. Public-Private Partnerships
 
@@ -33,7 +33,7 @@ Compared to other Sub-Saharan African countries, South Africa has more advanced 
 
 ### 5. Export Potential
 
-South African companies, notably [[iidentifii\|iiDENTIFii]], have begun exporting biometric-authentication solutions to other African markets and beyond. Their experience in addressing local challenges—such as unreliable connectivity and diverse biometric profiles—gives them a competitive edge in similar environments globally.
+South African companies, notably [[organisations/iidentifii\|iiDENTIFii]], have begun exporting biometric-authentication solutions to other African markets and beyond. Their experience in addressing local challenges—such as unreliable connectivity and diverse biometric profiles—gives them a competitive edge in similar environments globally.
 
 ---
 
@@ -65,7 +65,7 @@ The South African market for biometric-authentication is fragmented, with multip
 
 ### 1. iiDENTIFii’s Remote Biometric Authentication Platform
 
-[[iidentifii\|iiDENTIFii]] has emerged as a flagship South African company in biometric-authentication, offering remote identity verification solutions that leverage facial recognition, liveness detection, and anti-spoofing technologies. Their platform is used by major banks, telecoms, and government agencies for secure onboarding and transaction authentication.
+[[organisations/iidentifii\|iiDENTIFii]] has emerged as a flagship South African company in biometric-authentication, offering remote identity verification solutions that leverage facial recognition, liveness detection, and anti-spoofing technologies. Their platform is used by major banks, telecoms, and government agencies for secure onboarding and transaction authentication.
 
 ### 2. National Digital Identity Initiatives
 
@@ -77,7 +77,7 @@ South Africa’s major banks and fintechs have invested heavily in biometric-aut
 
 ### 4. International Collaboration
 
-South African organisations, including [[iidentifii\|iiDENTIFii]], have participated in international pilots and standards-setting bodies related to biometric-authentication. These collaborations facilitate technology transfer, access to best practices, and alignment with global standards.
+South African organisations, including [[organisations/iidentifii\|iiDENTIFii]], have participated in international pilots and standards-setting bodies related to biometric-authentication. These collaborations facilitate technology transfer, access to best practices, and alignment with global standards.
 
 ### 5. Academic and Research Investments
 
@@ -110,7 +110,7 @@ Globally, South Africa lags behind leading markets such as the United States, Eu
 
 ### 1. Intra-African Expansion
 
-South African firms, led by [[iidentifii\|iiDENTIFii]], are well-positioned to expand into other African markets facing similar challenges in identity verification and financial inclusion. Collaborations with regional banks, telecoms, and governments could drive scale and impact.
+South African firms, led by [[organisations/iidentifii\|iiDENTIFii]], are well-positioned to expand into other African markets facing similar challenges in identity verification and financial inclusion. Collaborations with regional banks, telecoms, and governments could drive scale and impact.
 
 ### 2. Public Sector Partnerships
 
@@ -172,7 +172,7 @@ Over the next five years, South Africa is expected to consolidate its position a
 
 ### 2. Technological Advancements
 
-Advances in AI, machine learning, and edge computing will enable more accurate, secure, and user-friendly biometric-authentication solutions. South African companies such as [[iidentifii\|iiDENTIFii]] are likely to remain at the forefront of innovation, particularly in remote and mobile authentication.
+Advances in AI, machine learning, and edge computing will enable more accurate, secure, and user-friendly biometric-authentication solutions. South African companies such as [[organisations/iidentifii\|iiDENTIFii]] are likely to remain at the forefront of innovation, particularly in remote and mobile authentication.
 
 ### 3. Regulatory Evolution
 
@@ -197,4 +197,4 @@ The dual-use nature of biometric-authentication will see increased adoption in d
 ---
 
 **Conclusion:**  
-South Africa’s performance in **biometric-authentication** is characterised by innovation, adaptability, and a growing export footprint. While challenges remain, particularly in regulation, infrastructure, and skills, the country is well-positioned to shape the future of biometric-authentication both regionally and globally. Organisations such as [[iidentifii\|iiDENTIFii]] exemplify the potential for South African technology to address pressing challenges in identity verification, financial inclusion, and security, provided that risks are managed and opportunities for collaboration are seized. The next five years will be pivotal in cementing South Africa’s role as a leader in this critical dual-use technology.
+South Africa’s performance in **biometric-authentication** is characterised by innovation, adaptability, and a growing export footprint. While challenges remain, particularly in regulation, infrastructure, and skills, the country is well-positioned to shape the future of biometric-authentication both regionally and globally. Organisations such as [[organisations/iidentifii\|iiDENTIFii]] exemplify the potential for South African technology to address pressing challenges in identity verification, financial inclusion, and security, provided that risks are managed and opportunities for collaboration are seized. The next five years will be pivotal in cementing South Africa’s role as a leader in this critical dual-use technology.

@@ -5,5 +5,5 @@
 
 Raised $450 million; develops Ethereum-based blockchain software.
 
-related_to:: [[blockchain\|blockchain]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/blockchain\|blockchain]]
+related_to:: [[digests/usa\|USA]]

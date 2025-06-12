@@ -5,5 +5,5 @@
 
 Launched IOTA Infrastructures Lab in 2024 for blockchain research.
 
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]

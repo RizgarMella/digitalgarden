@@ -3,9 +3,9 @@
 ---
 
 
-related_to:: [[cybersecurity\|cybersecurity]]
-related_to:: [[machine-learning\|machine-learning]]
-related_to:: [[robotics\|robotics]]
+related_to:: [[descriptions/cybersecurity\|cybersecurity]]
+related_to:: [[descriptions/machine-learning\|machine-learning]]
+related_to:: [[descriptions/robotics\|robotics]]
 
 ## Overview
 Autonomous drones, also known as unmanned aerial vehicles (UAVs), represent a significant leap in aviation technology, particularly in their ability to operate without direct human control. These systems leverage advanced algorithms, machine learning, and sensor fusion to navigate and perform tasks in complex environments. The evolution of autonomous drones has been driven by advancements in robotics, artificial intelligence, and miniaturization of components, allowing for greater capabilities in surveillance, reconnaissance, and combat operations.
@@ -52,14 +52,14 @@ To capitalize on the potential of autonomous drones, a strategic investment plan
 
 5. **Acquisition of Next-Gen Platforms**: Prioritize the acquisition of next-generation autonomous drones that offer advanced capabilities, ensuring that military forces remain at the forefront of aerial warfare innovation.
 related_to:: [[Quantum Systems\|Quantum Systems]]
-related_to:: [[germany\|Germany]]
-related_to:: [[tekever\|Tekever]]
-related_to:: [[portugal\|Portugal]]
-related_to:: [[pterodynamics\|PteroDynamics]]
-related_to:: [[usa\|USA]]
+related_to:: [[digests/germany\|Germany]]
+related_to:: [[organisations/tekever\|Tekever]]
+related_to:: [[digests/portugal\|Portugal]]
+related_to:: [[organisations/pterodynamics\|PteroDynamics]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[Shield AI\|Shield AI]]
 related_to:: [[Tective Robotics\|Tective Robotics]]
-related_to:: [[netherlands\|Netherlands]]
+related_to:: [[digests/netherlands\|Netherlands]]
 related_to:: [[Anduril Industries\|Anduril Industries]]
 related_to:: [[Georgia Institute of Technology\|Georgia Institute of Technology]]
 related_to:: [[Stanford University\|Stanford University]]

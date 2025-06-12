@@ -5,5 +5,5 @@
 
 Raised $30M in Series C to expand warehouse automation solutions.
 
-related_to:: [[smart-manufacturing\|smart-manufacturing]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/smart-manufacturing\|smart-manufacturing]]
+related_to:: [[digests/usa\|USA]]

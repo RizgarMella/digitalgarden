@@ -5,5 +5,5 @@
 
 Researches sensor network technologies for IoT applications.
 
-related_to:: [[sensor-networks\|sensor-networks]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/sensor-networks\|sensor-networks]]
+related_to:: [[digests/canada\|Canada]]

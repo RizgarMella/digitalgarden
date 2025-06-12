@@ -5,5 +5,5 @@
 
 Focuses on bioengineering solutions inspired by nature.
 
-related_to:: [[biomimicry\|biomimicry]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/biomimicry\|biomimicry]]
+related_to:: [[digests/usa\|USA]]

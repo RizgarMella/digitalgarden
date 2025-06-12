@@ -5,5 +5,5 @@
 
 Established in 2020, focusing on interdisciplinary cybersecurity education and research.
 
-related_to:: [[cybersecurity-solutions\|cybersecurity-solutions]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/cybersecurity-solutions\|cybersecurity-solutions]]
+related_to:: [[digests/usa\|USA]]

@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-This report provides a comprehensive assessment of Finland’s current performance and trajectory in two strategically significant dual-use technologies: [[augmented-reality\|augmented-reality]] and [[wearable-health-tech\|wearable-health-tech]]. The analysis focuses on the roles of two leading Finnish organisations: [[varjo\|Varjo]], a pioneer in high-fidelity augmented and virtual reality solutions, and [[Ōura\|Ōura]], a global leader in wearable health technology. As of June 2025, Finland is positioned as a niche innovator in both domains, leveraging its robust innovation ecosystem, strong public-private partnerships, and a reputation for technological excellence. However, the nation faces challenges in scaling, international competition, and regulatory harmonisation. This report evaluates Finland’s strengths and weaknesses, notable programmes and investments, comparison with global competitors, opportunities for collaboration and export, risks, and a five-year outlook.
+This report provides a comprehensive assessment of Finland’s current performance and trajectory in two strategically significant dual-use technologies: [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/wearable-health-tech\|wearable-health-tech]]. The analysis focuses on the roles of two leading Finnish organisations: [[organisations/varjo\|Varjo]], a pioneer in high-fidelity augmented and virtual reality solutions, and [[Ōura\|Ōura]], a global leader in wearable health technology. As of June 2025, Finland is positioned as a niche innovator in both domains, leveraging its robust innovation ecosystem, strong public-private partnerships, and a reputation for technological excellence. However, the nation faces challenges in scaling, international competition, and regulatory harmonisation. This report evaluates Finland’s strengths and weaknesses, notable programmes and investments, comparison with global competitors, opportunities for collaboration and export, risks, and a five-year outlook.
 
 ## Strengths
 
@@ -15,8 +15,8 @@ Finland boasts a highly developed research and development (R&D) ecosystem, unde
 
 ### Leading Organisations
 
-- **[[varjo\|Varjo]]**: Varjo has established itself as a global leader in professional-grade [[augmented-reality\|augmented-reality]] and virtual reality (VR) headsets. Its products, known for industry-leading visual fidelity and precision, are used in aviation training, defence simulation, and industrial design. Varjo’s focus on enterprise and government markets, including NATO-aligned militaries, positions it as a key player in dual-use applications.
-- **[[Ōura\|Ōura]]**: Ōura’s smart ring is a market leader in [[wearable-health-tech\|wearable-health-tech]], offering advanced biometric monitoring (e.g., sleep, heart rate, body temperature) with a strong reputation for accuracy and privacy. The company has expanded into defence and first responder markets, providing solutions for fatigue management and health monitoring.
+- **[[organisations/varjo\|Varjo]]**: Varjo has established itself as a global leader in professional-grade [[descriptions/augmented-reality\|augmented-reality]] and virtual reality (VR) headsets. Its products, known for industry-leading visual fidelity and precision, are used in aviation training, defence simulation, and industrial design. Varjo’s focus on enterprise and government markets, including NATO-aligned militaries, positions it as a key player in dual-use applications.
+- **[[Ōura\|Ōura]]**: Ōura’s smart ring is a market leader in [[descriptions/wearable-health-tech\|wearable-health-tech]], offering advanced biometric monitoring (e.g., sleep, heart rate, body temperature) with a strong reputation for accuracy and privacy. The company has expanded into defence and first responder markets, providing solutions for fatigue management and health monitoring.
 
 ### Digital Infrastructure and Data Security
 
@@ -30,7 +30,7 @@ Finland consistently ranks high in education and digital skills, producing a ste
 
 ### Scale and Market Size
 
-Finland’s domestic market is limited in size, constraining the ability of companies like [[varjo\|Varjo]] and [[Ōura\|Ōura]] to achieve economies of scale without rapid internationalisation. This poses challenges in competing with larger US, Chinese, and EU firms with greater access to capital and customers.
+Finland’s domestic market is limited in size, constraining the ability of companies like [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]] to achieve economies of scale without rapid internationalisation. This poses challenges in competing with larger US, Chinese, and EU firms with greater access to capital and customers.
 
 ### Funding Gaps for Scale-Up
 
@@ -46,23 +46,23 @@ Finland’s defence procurement budget, while growing, remains modest compared t
 
 ### Talent Retention
 
-The global demand for skilled professionals in [[augmented-reality\|augmented-reality]] and [[wearable-health-tech\|wearable-health-tech]] has led to increased competition for talent. Finnish firms face challenges in retaining top talent, especially as international tech giants expand their presence in the region.
+The global demand for skilled professionals in [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/wearable-health-tech\|wearable-health-tech]] has led to increased competition for talent. Finnish firms face challenges in retaining top talent, especially as international tech giants expand their presence in the region.
 
 ## Notable Programmes & Investments
 
 ### Government Initiatives
 
-- **Business Finland Dual-Use Technology Programme (2023–2028):** Provides grants and advisory services for companies developing technologies with both civilian and defence applications, including [[augmented-reality\|augmented-reality]] and [[wearable-health-tech\|wearable-health-tech]].
-- **Defence Forces Innovation Partnership:** The Finnish Defence Forces (FDF) have partnered with domestic firms to pilot AR-based training and health monitoring systems for soldiers, leveraging products from [[varjo\|Varjo]] and [[Ōura\|Ōura]].
+- **Business Finland Dual-Use Technology Programme (2023–2028):** Provides grants and advisory services for companies developing technologies with both civilian and defence applications, including [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/wearable-health-tech\|wearable-health-tech]].
+- **Defence Forces Innovation Partnership:** The Finnish Defence Forces (FDF) have partnered with domestic firms to pilot AR-based training and health monitoring systems for soldiers, leveraging products from [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]].
 
 ### Industry-Led Projects
 
-- **Varjo’s Defence Simulation Suite:** In 2024, [[varjo\|Varjo]] launched a dedicated simulation suite for military and civil aviation training, integrating AR/VR with real-time data analytics. The suite is being evaluated by the FDF and several NATO air forces.
+- **Varjo’s Defence Simulation Suite:** In 2024, [[organisations/varjo\|Varjo]] launched a dedicated simulation suite for military and civil aviation training, integrating AR/VR with real-time data analytics. The suite is being evaluated by the FDF and several NATO air forces.
 - **Ōura’s First Responder Health Platform:** [[Ōura\|Ōura]] has adapted its wearable platform for use by emergency services, integrating stress and fatigue monitoring into command dashboards. Pilots are ongoing with the Finnish Border Guard and fire services.
 
 ### International Collaborations
 
-- **NATO Innovation Fund:** Both [[varjo\|Varjo]] and [[Ōura\|Ōura]] have received funding and technical support through NATO’s innovation initiatives, facilitating cross-border R&D and interoperability testing.
+- **NATO Innovation Fund:** Both [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]] have received funding and technical support through NATO’s innovation initiatives, facilitating cross-border R&D and interoperability testing.
 - **EU Horizon Europe Projects:** Finnish consortia, including these organisations, participate in EU-funded projects focusing on secure AR/VR for critical infrastructure and AI-driven health monitoring.
 
 ### Academic Partnerships
@@ -74,7 +74,7 @@ The global demand for skilled professionals in [[augmented-reality\|augmented-re
 ### Augmented-Reality
 
 - **Global Leaders:** US-based Microsoft (HoloLens), Magic Leap, and Apple (Vision Pro) dominate the AR hardware market, with significant resources and established defence contracts.
-- **Varjo’s Niche:** [[varjo\|Varjo]] differentiates itself through superior visual fidelity and a focus on professional/defence markets. Its headsets are favoured for high-stakes simulation and design, but the company lacks the scale and ecosystem breadth of US giants.
+- **Varjo’s Niche:** [[organisations/varjo\|Varjo]] differentiates itself through superior visual fidelity and a focus on professional/defence markets. Its headsets are favoured for high-stakes simulation and design, but the company lacks the scale and ecosystem breadth of US giants.
 - **Regional Peers:** Sweden’s Saab and France’s Thales are investing in AR for defence, but few EU firms match Varjo’s technical quality.
 
 ### Wearable-Health-Tech
@@ -91,13 +91,13 @@ Finland’s dual-use technology sector is highly innovative and agile, with a st
 
 ### Defence and Security
 
-- **NATO and EU Militaries:** Both [[varjo\|Varjo]] and [[Ōura\|Ōura]] are well-positioned to supply NATO and EU armed forces seeking advanced AR-based training and health monitoring solutions. Interoperability with allied systems is a key selling point.
+- **NATO and EU Militaries:** Both [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]] are well-positioned to supply NATO and EU armed forces seeking advanced AR-based training and health monitoring solutions. Interoperability with allied systems is a key selling point.
 - **Homeland Security and Civil Protection:** There is strong export potential for AR/VR training systems and wearable health monitoring platforms for border security, police, and emergency services across Europe, Asia-Pacific, and North America.
 
 ### Healthcare and Industrial Sectors
 
 - **Hospitals and Telemedicine:** [[Ōura\|Ōura]]’s platform can be integrated into remote patient monitoring and chronic disease management, especially in markets with ageing populations.
-- **Industrial Training:** [[varjo\|Varjo]]’s AR/VR solutions are in demand for high-risk industrial training (e.g., energy, manufacturing, aviation) where safety and realism are paramount.
+- **Industrial Training:** [[organisations/varjo\|Varjo]]’s AR/VR solutions are in demand for high-risk industrial training (e.g., energy, manufacturing, aviation) where safety and realism are paramount.
 
 ### Research and Innovation
 
@@ -135,7 +135,7 @@ Finland’s dual-use technology sector is highly innovative and agile, with a st
 
 ### Market Trajectory
 
-Over the next five years (2025–2030), Finland is expected to maintain its position as a global innovator in [[augmented-reality\|augmented-reality]] and [[wearable-health-tech\|wearable-health-tech]], with [[varjo\|Varjo]] and [[Ōura\|Ōura]] at the forefront. The dual-use nature of these technologies will drive continued demand from both defence and civilian sectors.
+Over the next five years (2025–2030), Finland is expected to maintain its position as a global innovator in [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/wearable-health-tech\|wearable-health-tech]], with [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]] at the forefront. The dual-use nature of these technologies will drive continued demand from both defence and civilian sectors.
 
 - **Augmented-Reality:** The global AR market is projected to grow at a CAGR of 25–30%, with increasing adoption in defence, aviation, and industrial training. Varjo’s focus on high-fidelity, secure, and interoperable systems aligns with NATO and EU priorities. Continued R&D investment and strategic partnerships will be essential for maintaining competitiveness.
 - **Wearable-Health-Tech:** The wearable health tech market is expected to expand rapidly, driven by telemedicine, preventive health, and workforce wellness. Ōura’s reputation for privacy and accuracy positions it well for both consumer and professional markets, but ongoing innovation and regulatory compliance will be critical.
@@ -160,4 +160,4 @@ The Finnish government is likely to sustain or increase support for dual-use tec
 
 ### Conclusion
 
-Finland’s dual-use technology sector, exemplified by [[varjo\|Varjo]] and [[Ōura\|Ōura]], is well-positioned for continued innovation and export growth in [[augmented-reality\|augmented-reality]] and [[wearable-health-tech\|wearable-health-tech]]. While facing challenges in scale, competition, and regulation, the nation’s strengths in R&D, digital infrastructure, and trusted innovation provide a solid foundation. With sustained investment, strategic partnerships, and a focus on quality and privacy, Finland can maintain and enhance its role as a key player in the global dual-use technology landscape over the next five years.
+Finland’s dual-use technology sector, exemplified by [[organisations/varjo\|Varjo]] and [[Ōura\|Ōura]], is well-positioned for continued innovation and export growth in [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/wearable-health-tech\|wearable-health-tech]]. While facing challenges in scale, competition, and regulation, the nation’s strengths in R&D, digital infrastructure, and trusted innovation provide a solid foundation. With sustained investment, strategic partnerships, and a focus on quality and privacy, Finland can maintain and enhance its role as a key player in the global dual-use technology landscape over the next five years.

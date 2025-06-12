@@ -5,5 +5,5 @@
 
 Developed biodegradable plastics from food waste using bacteria, reducing environmental impact.
 
-related_to:: [[biodegradable-plastics\|biodegradable-plastics]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/biodegradable-plastics\|biodegradable-plastics]]
+related_to:: [[digests/canada\|Canada]]

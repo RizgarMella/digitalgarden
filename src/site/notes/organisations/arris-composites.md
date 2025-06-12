@@ -5,5 +5,5 @@
 
 Secured $34M in April 2024 for fiber-reinforced composites at scale.
 
-related_to:: [[composite-materials\|composite-materials]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/composite-materials\|composite-materials]]
+related_to:: [[digests/united-states\|United-States]]

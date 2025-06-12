@@ -5,5 +5,5 @@
 
 Secured $5.2M seed funding to govern generative AI in enterprises.
 
-related_to:: [[ai-powered-cybersecurity\|ai-powered-cybersecurity]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/ai-powered-cybersecurity\|ai-powered-cybersecurity]]
+related_to:: [[digests/usa\|USA]]

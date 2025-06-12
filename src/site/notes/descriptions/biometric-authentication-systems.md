@@ -11,8 +11,8 @@ related_to:: [[IDEMIA\|IDEMIA]]
 related_to:: [[Transmit Security\|Transmit Security]]
 related_to:: [[Simprints\|Simprints]]
 
-related_to:: [[blockchain\|blockchain]]
-related_to:: [[facial-recognition\|facial-recognition]]
+related_to:: [[descriptions/blockchain\|blockchain]]
+related_to:: [[descriptions/facial-recognition\|facial-recognition]]
 
 ## Overview
 Biometric authentication systems leverage unique biological traits to verify identities, offering a robust alternative to traditional password-based security measures. These systems utilize various biometric modalities, including fingerprints, facial recognition, iris scans, voice recognition, and even behavioral biometrics such as typing patterns. The rise of biometric authentication is driven by the increasing need for secure access control in both civilian and military applications, as well as the rapid advancement of sensor technologies and machine learning algorithms.
@@ -64,17 +64,17 @@ To capitalize on the potential of biometric authentication systems, a strategic 
 5. **Policy and Governance**: Establish clear policies and governance frameworks for the ethical use of biometric data. This includes addressing privacy concerns, data protection, and compliance with legal regulations to build trust and acceptance among users.
 
 By strategically investing in these areas, defence organizations can enhance their security posture, improve operational efficiency, and stay ahead of emerging threats in an increasingly complex security landscape.
-related_to:: [[keyless\|Keyless]]
-related_to:: [[united-kingdom\|United-Kingdom]]
+related_to:: [[organisations/keyless\|Keyless]]
+related_to:: [[digests/united-kingdom\|United-Kingdom]]
 related_to:: [[Illuma Labs\|Illuma Labs]]
-related_to:: [[united-states\|United-States]]
-related_to:: [[hypr\|HYPR]]
+related_to:: [[digests/united-states\|United-States]]
+related_to:: [[organisations/hypr\|HYPR]]
 related_to:: [[Oloid AI\|Oloid AI]]
-related_to:: [[20face\|20face]]
-related_to:: [[netherlands\|Netherlands]]
+related_to:: [[organisations/20face\|20face]]
+related_to:: [[digests/netherlands\|Netherlands]]
 related_to:: [[One Footprint\|One Footprint]]
-related_to:: [[otpless\|OTPless]]
-related_to:: [[india\|India]]
+related_to:: [[organisations/otpless\|OTPless]]
+related_to:: [[digests/india\|India]]
 related_to:: [[DAPPLE SECURITY\|DAPPLE SECURITY]]
 related_to:: [["Oloid AI"\|"Oloid AI"]]
 related_to:: [["Keyless"\|"Keyless"]]

@@ -3,12 +3,12 @@
 ---
 
 
-related_to:: [[augmented-reality\|augmented-reality]]
-related_to:: [[data-analytics\|data-analytics]]
-related_to:: [[internet-of-things\|internet-of-things]]
+related_to:: [[descriptions/augmented-reality\|augmented-reality]]
+related_to:: [[descriptions/data-analytics\|data-analytics]]
+related_to:: [[descriptions/internet-of-things\|internet-of-things]]
 related_to:: [[internet-of-things-(IoT)\|internet-of-things-(IoT)]]
-related_to:: [[machine-learning\|machine-learning]]
-related_to:: [[robotics\|robotics]]
+related_to:: [[descriptions/machine-learning\|machine-learning]]
+related_to:: [[descriptions/robotics\|robotics]]
 
 ## Overview
 Artificial Intelligence (AI) refers to the simulation of human intelligence in machines programmed to think and learn like humans. This technology encompasses a variety of subfields, including machine learning, natural language processing, robotics, and computer vision. AI systems can analyze vast amounts of data, recognize patterns, and make decisions with minimal human intervention, making them invaluable across numerous sectors, including defence.
@@ -47,18 +47,18 @@ To fully leverage AI's potential in defence, a strategic investment plan should 
 
 By prioritizing these areas, defence organizations can ensure they remain at the forefront of AI innovation, enhancing their operational capabilities and maintaining a strategic advantage.
 related_to:: [[Mistral AI\|Mistral AI]]
-related_to:: [[france\|France]]
-related_to:: [[cohere\|Cohere]]
-related_to:: [[canada\|Canada]]
-related_to:: [[anthropic\|Anthropic]]
-related_to:: [[usa\|USA]]
+related_to:: [[digests/france\|France]]
+related_to:: [[organisations/cohere\|Cohere]]
+related_to:: [[digests/canada\|Canada]]
+related_to:: [[organisations/anthropic\|Anthropic]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[Zhipu AI\|Zhipu AI]]
-related_to:: [[china\|China]]
+related_to:: [[digests/china\|China]]
 related_to:: [[Poolside AI\|Poolside AI]]
-related_to:: [[cyera\|Cyera]]
+related_to:: [[organisations/cyera\|Cyera]]
 related_to:: [[Figure AI\|Figure AI]]
 related_to:: [[Sarvam AI\|Sarvam AI]]
-related_to:: [[india\|India]]
+related_to:: [[digests/india\|India]]
 related_to:: [["Anthropic"\|"Anthropic"]]
 related_to:: [["Sarvam AI"\|"Sarvam AI"]]
 related_to:: [["Cyera"\|"Cyera"]]

@@ -5,5 +5,5 @@
 
 NSF-funded institute researching AI-powered cybersecurity.
 
-related_to:: [[ai-powered-cybersecurity\|ai-powered-cybersecurity]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/ai-powered-cybersecurity\|ai-powered-cybersecurity]]
+related_to:: [[digests/usa\|USA]]

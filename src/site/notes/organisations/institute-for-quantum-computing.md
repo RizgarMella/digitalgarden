@@ -5,5 +5,5 @@
 
 Affiliated with University of Waterloo; multidisciplinary quantum research since 2002.
 
-related_to:: [[quantum-computing\|quantum-computing]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/quantum-computing\|quantum-computing]]
+related_to:: [[digests/canada\|Canada]]

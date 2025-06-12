@@ -3,9 +3,9 @@
 ---
 
 
-related_to:: [[additive-manufacturing\|additive-manufacturing]]
-related_to:: [[smart-manufacturing\|smart-manufacturing]]
-related_to:: [[smart-materials\|smart-materials]]
+related_to:: [[descriptions/additive-manufacturing\|additive-manufacturing]]
+related_to:: [[descriptions/smart-manufacturing\|smart-manufacturing]]
+related_to:: [[descriptions/smart-materials\|smart-materials]]
 
 ## Overview
 3D printing, also known as additive manufacturing, is a transformative technology that creates three-dimensional objects by layering materials based on digital models. This process has evolved significantly since its inception in the 1980s, transitioning from prototyping to full-scale production across various industries, including aerospace, automotive, healthcare, and consumer goods. The core principle of 3D printing involves the additive approach, where material is deposited layer by layer, contrasting with traditional subtractive manufacturing methods that involve cutting away material from a solid block.
@@ -45,17 +45,17 @@ Second, partnerships with leading technology firms and research institutions sho
 Third, investment in training and workforce development is essential to ensure that personnel are equipped with the necessary skills to operate and maintain advanced 3D printing systems. This includes creating educational programs that focus on design for additive manufacturing, materials science, and operational integration.
 
 Finally, exploring acquisition opportunities for existing 3D printing companies or technologies can provide immediate access to cutting-edge capabilities. This approach can enhance the defence sector's ability to implement 3D printing solutions quickly and effectively, ensuring that military operations can leverage the benefits of this transformative technology.
-related_to:: [[ziknes\|Ziknes]]
-related_to:: [[spain\|Spain]]
+related_to:: [[organisations/ziknes\|Ziknes]]
+related_to:: [[digests/spain\|Spain]]
 related_to:: [[University of Maine\|University of Maine]]
-related_to:: [[usa\|USA]]
-related_to:: [[ricoh\|Ricoh]]
-related_to:: [[japan\|Japan]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/ricoh\|Ricoh]]
+related_to:: [[digests/japan\|Japan]]
 related_to:: [[9T Labs\|9T Labs]]
-related_to:: [[switzerland\|Switzerland]]
+related_to:: [[digests/switzerland\|Switzerland]]
 related_to:: [[Zeda Inc.\|Zeda Inc.]]
 related_to:: [[Fortius Metals\|Fortius Metals]]
-related_to:: [[3deo\|3DEO]]
+related_to:: [[organisations/3deo\|3DEO]]
 related_to:: [[Boston Micro Fabrication\|Boston Micro Fabrication]]
 related_to:: [["Fortius Metals"\|"Fortius Metals"]]
 related_to:: [["3DEO"\|"3DEO"]]

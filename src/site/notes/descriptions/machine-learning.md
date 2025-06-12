@@ -3,10 +3,10 @@
 ---
 
 
-related_to:: [[artificial-intelligence\|artificial-intelligence]]
-related_to:: [[data-analytics\|data-analytics]]
-related_to:: [[predictive-maintenance\|predictive-maintenance]]
-related_to:: [[smart-sensors\|smart-sensors]]
+related_to:: [[descriptions/artificial-intelligence\|artificial-intelligence]]
+related_to:: [[descriptions/data-analytics\|data-analytics]]
+related_to:: [[descriptions/predictive-maintenance\|predictive-maintenance]]
+related_to:: [[descriptions/smart-sensors\|smart-sensors]]
 
 ## Overview
 Machine learning (ML) is a subset of artificial intelligence (AI) that focuses on the development of algorithms that allow computers to learn from and make predictions based on data. Unlike traditional programming, where explicit instructions are provided, ML systems improve their performance as they are exposed to more data over time. This capability has transformed various sectors, including healthcare, finance, and transportation, by enabling predictive analytics, automation, and enhanced decision-making.
@@ -54,19 +54,19 @@ To harness the full potential of machine learning in defence, a strategic invest
 5. **Ethical and Regulatory Frameworks:** Develop guidelines to address ethical considerations and ensure compliance with regulations related to the use of AI and ML in defence operations.
 
 By following this investment plan, defence organizations can position themselves at the forefront of machine learning innovation, enhancing their operational capabilities and maintaining a strategic advantage.
-related_to:: [[anthropic\|Anthropic]]
-related_to:: [[usa\|USA]]
-related_to:: [[mindsdb\|MindsDB]]
+related_to:: [[organisations/anthropic\|Anthropic]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/mindsdb\|MindsDB]]
 related_to:: [[Massachusetts Institute of Technology (MIT)\|Massachusetts Institute of Technology (MIT)]]
 related_to:: [[Carnegie Mellon University (CMU)\|Carnegie Mellon University (CMU)]]
 related_to:: [[University of California, Berkeley\|University of California, Berkeley]]
 related_to:: [[Vector Institute\|Vector Institute]]
-related_to:: [[canada\|Canada]]
+related_to:: [[digests/canada\|Canada]]
 related_to:: [[Australian Institute for Machine Learning (AIML)\|Australian Institute for Machine Learning (AIML)]]
-related_to:: [[australia\|Australia]]
+related_to:: [[digests/australia\|Australia]]
 related_to:: [[Stanford University\|Stanford University]]
 related_to:: [["Massachusetts Institute of Technology (MIT)"\|"Massachusetts Institute of Technology (MIT)"]]
-related_to:: [[united-states\|united-states]]
+related_to:: [[digests/united-states\|united-states]]
 related_to:: [["Anthropic"\|"Anthropic"]]
 related_to:: [["University of California, Berkeley"\|"University of California, Berkeley"]]
 related_to:: [["Vector Institute"\|"Vector Institute"]]

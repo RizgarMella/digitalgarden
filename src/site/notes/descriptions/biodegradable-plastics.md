@@ -3,8 +3,8 @@
 ---
 
 
-related_to:: [[biomimicry\|biomimicry]]
-related_to:: [[sustainable-materials\|sustainable-materials]]
+related_to:: [[descriptions/biomimicry\|biomimicry]]
+related_to:: [[descriptions/sustainable-materials\|sustainable-materials]]
 
 ## Overview
 Biodegradable plastics are a class of materials designed to decompose through natural processes, offering a promising alternative to traditional petroleum-based plastics that persist in the environment for hundreds of years. These materials can be derived from renewable sources, such as corn starch or sugarcane, or can be engineered from synthetic polymers that possess biodegradable characteristics. The primary goal of biodegradable plastics is to reduce plastic waste and its detrimental impacts on ecosystems, wildlife, and human health.
@@ -43,19 +43,19 @@ To capitalize on the potential of biodegradable plastics, a strategic investment
 
 5. **Investment in Startups**: Identify and invest in startups focused on innovative biodegradable materials, fostering a pipeline of new technologies that can enhance military capabilities while promoting sustainability.
 related_to:: [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]]
-related_to:: [[japan\|Japan]]
+related_to:: [[digests/japan\|Japan]]
 related_to:: [[Virginia Tech\|Virginia Tech]]
-related_to:: [[usa\|USA]]
+related_to:: [[digests/usa\|USA]]
 related_to:: [[University of Waterloo\|University of Waterloo]]
-related_to:: [[canada\|Canada]]
+related_to:: [[digests/canada\|Canada]]
 related_to:: [[University of Copenhagen\|University of Copenhagen]]
-related_to:: [[denmark\|Denmark]]
+related_to:: [[digests/denmark\|Denmark]]
 related_to:: [[University of Georgia\|University of Georgia]]
 related_to:: [[University of Akron\|University of Akron]]
-related_to:: [[cleanhub\|CleanHub]]
-related_to:: [[germany\|Germany]]
-related_to:: [[polymateria\|Polymateria]]
-related_to:: [[uk\|UK]]
+related_to:: [[organisations/cleanhub\|CleanHub]]
+related_to:: [[digests/germany\|Germany]]
+related_to:: [[organisations/polymateria\|Polymateria]]
+related_to:: [[digests/uk\|UK]]
 related_to:: [["University of Copenhagen"\|"University of Copenhagen"]]
 related_to:: [["Virginia Tech"\|"Virginia Tech"]]
 related_to:: [["University of Akron"\|"University of Akron"]]

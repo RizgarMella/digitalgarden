@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Japan continues to demonstrate significant capabilities in critical dual-use technologies, leveraging its advanced industrial base, robust R&D ecosystem, and a tradition of public-private collaboration. This report assesses Japan’s current performance and trajectory in six dual-use technologies—3d-printing, augmented-reality, automated-design-software, biodegradable-plastics, biomimicry, and edge-computing—with a focus on the contributions and activities of key organisations: [[AZUL Energy Inc.\|AZUL Energy Inc.]], [[autify\|Autify]], [[edgecortix\|EdgeCortix]], [[mawari\|Mawari]], [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]], and [[ricoh\|Ricoh]].
+Japan continues to demonstrate significant capabilities in critical dual-use technologies, leveraging its advanced industrial base, robust R&D ecosystem, and a tradition of public-private collaboration. This report assesses Japan’s current performance and trajectory in six dual-use technologies—3d-printing, augmented-reality, automated-design-software, biodegradable-plastics, biomimicry, and edge-computing—with a focus on the contributions and activities of key organisations: [[AZUL Energy Inc.\|AZUL Energy Inc.]], [[organisations/autify\|Autify]], [[organisations/edgecortix\|EdgeCortix]], [[organisations/mawari\|Mawari]], [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]], and [[organisations/ricoh\|Ricoh]].
 
 Japan’s strengths lie in materials science, precision engineering, and the integration of AI and automation into manufacturing and design. However, challenges remain, including a relatively conservative regulatory environment, talent shortages in certain digital domains, and competition from the US, China, and South Korea. Notable government and private sector investments are accelerating progress, especially in edge-computing and sustainable materials.
 
@@ -19,15 +19,15 @@ Over the next five years, Japan is expected to consolidate its position as a glo
 
 ### Advanced Materials Science and Engineering
 
-Japan’s historical excellence in materials science underpins its leadership in [[biodegradable-plastics\|biodegradable-plastics]] and [[biomimicry\|biomimicry]]. The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] continue to pioneer research in advanced polymers, nanomaterials, and bio-inspired materials, with applications ranging from medical devices to aerospace components. Japanese firms, such as [[ricoh\|Ricoh]], are integrating these materials into commercial and industrial products, reinforcing Japan’s reputation for quality and reliability.
+Japan’s historical excellence in materials science underpins its leadership in [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/biomimicry\|biomimicry]]. The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] continue to pioneer research in advanced polymers, nanomaterials, and bio-inspired materials, with applications ranging from medical devices to aerospace components. Japanese firms, such as [[organisations/ricoh\|Ricoh]], are integrating these materials into commercial and industrial products, reinforcing Japan’s reputation for quality and reliability.
 
 ### Integration of AI and Automation
 
-Japanese organisations such as [[autify\|Autify]] and [[edgecortix\|EdgeCortix]] are at the forefront of integrating artificial intelligence (AI) into [[automated-design-software\|automated-design-software]] and [[edge-computing\|edge-computing]] solutions. [[autify\|Autify]]’s automated testing platforms and [[edgecortix\|EdgeCortix]]’s AI accelerators for edge devices exemplify Japan’s ability to bridge software and hardware innovation, with direct implications for both civilian and defense applications.
+Japanese organisations such as [[organisations/autify\|Autify]] and [[organisations/edgecortix\|EdgeCortix]] are at the forefront of integrating artificial intelligence (AI) into [[descriptions/automated-design-software\|automated-design-software]] and [[descriptions/edge-computing\|edge-computing]] solutions. [[organisations/autify\|Autify]]’s automated testing platforms and [[organisations/edgecortix\|EdgeCortix]]’s AI accelerators for edge devices exemplify Japan’s ability to bridge software and hardware innovation, with direct implications for both civilian and defense applications.
 
 ### Precision Manufacturing and 3D Printing
 
-Japan’s manufacturing sector is renowned for its precision and quality control, which translates effectively into [[3d-printing\|3d-printing]]. Companies like [[ricoh\|Ricoh]] have invested heavily in additive manufacturing for prototyping, aerospace, and healthcare, leveraging their expertise in imaging and materials. The ability to produce high-quality, complex parts rapidly is a significant dual-use asset.
+Japan’s manufacturing sector is renowned for its precision and quality control, which translates effectively into [[descriptions/3d-printing\|3d-printing]]. Companies like [[organisations/ricoh\|Ricoh]] have invested heavily in additive manufacturing for prototyping, aerospace, and healthcare, leveraging their expertise in imaging and materials. The ability to produce high-quality, complex parts rapidly is a significant dual-use asset.
 
 ### Robust Innovation Ecosystem
 
@@ -35,7 +35,7 @@ The collaboration between academia, government, and industry is a hallmark of Ja
 
 ### Sustainability Leadership
 
-With global pressure for environmental responsibility, Japan’s focus on [[biodegradable-plastics\|biodegradable-plastics]] and sustainable manufacturing methods positions it as a leader in green dual-use technologies. [[AZUL Energy Inc.\|AZUL Energy Inc.]] is notable for its work on sustainable energy storage materials, which have applications across civilian and defense sectors.
+With global pressure for environmental responsibility, Japan’s focus on [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and sustainable manufacturing methods positions it as a leader in green dual-use technologies. [[AZUL Energy Inc.\|AZUL Energy Inc.]] is notable for its work on sustainable energy storage materials, which have applications across civilian and defense sectors.
 
 ---
 
@@ -43,11 +43,11 @@ With global pressure for environmental responsibility, Japan’s focus on [[biod
 
 ### Regulatory and Cultural Conservatism
 
-Japan’s regulatory environment, while stable, is often conservative and slow to adapt to disruptive technologies. This can delay the deployment of innovations in areas such as [[augmented-reality\|augmented-reality]] and [[automated-design-software\|automated-design-software]], especially when compared to more agile ecosystems in the US or China.
+Japan’s regulatory environment, while stable, is often conservative and slow to adapt to disruptive technologies. This can delay the deployment of innovations in areas such as [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/automated-design-software\|automated-design-software]], especially when compared to more agile ecosystems in the US or China.
 
 ### Digital Talent Shortages
 
-Despite progress, Japan faces a shortage of advanced digital talent, particularly in software engineering, AI, and cybersecurity. This talent gap can slow the development and integration of cutting-edge [[edge-computing\|edge-computing]] and [[augmented-reality\|augmented-reality]] solutions.
+Despite progress, Japan faces a shortage of advanced digital talent, particularly in software engineering, AI, and cybersecurity. This talent gap can slow the development and integration of cutting-edge [[descriptions/edge-computing\|edge-computing]] and [[descriptions/augmented-reality\|augmented-reality]] solutions.
 
 ### Fragmentation and Scale
 
@@ -59,7 +59,7 @@ Japan’s strict export controls and sensitivity around dual-use technologies ca
 
 ### Aging Infrastructure
 
-Some segments of Japan’s manufacturing and R&D infrastructure are aging, which can limit the adoption of the latest [[3d-printing\|3d-printing]] and [[edge-computing\|edge-computing]] technologies at scale. Upgrading legacy systems remains a challenge for both public and private sectors.
+Some segments of Japan’s manufacturing and R&D infrastructure are aging, which can limit the adoption of the latest [[descriptions/3d-printing\|3d-printing]] and [[descriptions/edge-computing\|edge-computing]] technologies at scale. Upgrading legacy systems remains a challenge for both public and private sectors.
 
 ---
 
@@ -67,7 +67,7 @@ Some segments of Japan’s manufacturing and R&D infrastructure are aging, which
 
 ### Government-Led Initiatives
 
-The Japanese government has prioritized dual-use technology development through the Moonshot R&D Program and the Cross-ministerial Strategic Innovation Promotion Program (SIP). These initiatives fund projects in [[3d-printing\|3d-printing]], [[biodegradable-plastics\|biodegradable-plastics]], and AI-driven [[automated-design-software\|automated-design-software]], with a focus on both economic growth and national security.
+The Japanese government has prioritized dual-use technology development through the Moonshot R&D Program and the Cross-ministerial Strategic Innovation Promotion Program (SIP). These initiatives fund projects in [[descriptions/3d-printing\|3d-printing]], [[descriptions/biodegradable-plastics\|biodegradable-plastics]], and AI-driven [[descriptions/automated-design-software\|automated-design-software]], with a focus on both economic growth and national security.
 
 ### AZUL Energy Inc.
 
@@ -75,23 +75,23 @@ The Japanese government has prioritized dual-use technology development through 
 
 ### Autify
 
-[[autify\|Autify]] provides AI-driven [[automated-design-software\|automated-design-software]] for software testing and quality assurance. Their solutions are increasingly adopted by Japanese defense contractors and manufacturing firms to accelerate product development cycles and improve reliability.
+[[organisations/autify\|Autify]] provides AI-driven [[descriptions/automated-design-software\|automated-design-software]] for software testing and quality assurance. Their solutions are increasingly adopted by Japanese defense contractors and manufacturing firms to accelerate product development cycles and improve reliability.
 
 ### EdgeCortix
 
-[[edgecortix\|EdgeCortix]] specializes in AI accelerators and software for [[edge-computing\|edge-computing]]. Their “DYNAX” platform enables real-time AI inference on low-power devices, with dual-use applications in surveillance, robotics, and autonomous systems. The company has secured significant venture funding and government contracts.
+[[organisations/edgecortix\|EdgeCortix]] specializes in AI accelerators and software for [[descriptions/edge-computing\|edge-computing]]. Their “DYNAX” platform enables real-time AI inference on low-power devices, with dual-use applications in surveillance, robotics, and autonomous systems. The company has secured significant venture funding and government contracts.
 
 ### Mawari
 
-[[mawari\|Mawari]] is a pioneer in cloud-based [[augmented-reality\|augmented-reality]] content delivery. Their platform enables high-fidelity AR experiences on lightweight devices, with applications in training, maintenance, and simulation for both civilian and defense users.
+[[organisations/mawari\|Mawari]] is a pioneer in cloud-based [[descriptions/augmented-reality\|augmented-reality]] content delivery. Their platform enables high-fidelity AR experiences on lightweight devices, with applications in training, maintenance, and simulation for both civilian and defense users.
 
 ### RIKEN Center for Emergent Matter Science and University of Tokyo
 
-The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] lead national research in [[biomimicry\|biomimicry]], [[biodegradable-plastics\|biodegradable-plastics]], and advanced materials. Their work is frequently commercialized through partnerships with industry, supporting both economic and security objectives.
+The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] lead national research in [[descriptions/biomimicry\|biomimicry]], [[descriptions/biodegradable-plastics\|biodegradable-plastics]], and advanced materials. Their work is frequently commercialized through partnerships with industry, supporting both economic and security objectives.
 
 ### Ricoh
 
-[[ricoh\|Ricoh]] is leveraging its expertise in imaging and materials to advance [[3d-printing\|3d-printing]] and sustainable materials. The company’s additive manufacturing solutions are used in aerospace, healthcare, and automotive sectors, with a growing focus on defense applications.
+[[organisations/ricoh\|Ricoh]] is leveraging its expertise in imaging and materials to advance [[descriptions/3d-printing\|3d-printing]] and sustainable materials. The company’s additive manufacturing solutions are used in aerospace, healthcare, and automotive sectors, with a growing focus on defense applications.
 
 ---
 
@@ -99,19 +99,19 @@ The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Ce
 
 ### United States
 
-The US leads in software-centric dual-use technologies, particularly [[automated-design-software\|automated-design-software]], [[augmented-reality\|augmented-reality]], and [[edge-computing\|edge-computing]]. American firms benefit from a larger talent pool, greater risk tolerance, and more agile regulatory frameworks. However, Japan’s strengths in materials science and precision manufacturing provide a competitive edge in [[3d-printing\|3d-printing]], [[biodegradable-plastics\|biodegradable-plastics]], and [[biomimicry\|biomimicry]].
+The US leads in software-centric dual-use technologies, particularly [[descriptions/automated-design-software\|automated-design-software]], [[descriptions/augmented-reality\|augmented-reality]], and [[descriptions/edge-computing\|edge-computing]]. American firms benefit from a larger talent pool, greater risk tolerance, and more agile regulatory frameworks. However, Japan’s strengths in materials science and precision manufacturing provide a competitive edge in [[descriptions/3d-printing\|3d-printing]], [[descriptions/biodegradable-plastics\|biodegradable-plastics]], and [[descriptions/biomimicry\|biomimicry]].
 
 ### China
 
-China is rapidly advancing in all six technology areas, supported by massive state investment and a willingness to deploy at scale. Chinese firms are particularly aggressive in [[3d-printing\|3d-printing]], [[edge-computing\|edge-computing]], and [[augmented-reality\|augmented-reality]]. Japan maintains a quality and reliability advantage, but risks being outpaced in speed and scale of deployment.
+China is rapidly advancing in all six technology areas, supported by massive state investment and a willingness to deploy at scale. Chinese firms are particularly aggressive in [[descriptions/3d-printing\|3d-printing]], [[descriptions/edge-computing\|edge-computing]], and [[descriptions/augmented-reality\|augmented-reality]]. Japan maintains a quality and reliability advantage, but risks being outpaced in speed and scale of deployment.
 
 ### South Korea
 
-South Korea is a strong competitor in [[edge-computing\|edge-computing]] and [[automated-design-software\|automated-design-software]], leveraging its advanced semiconductor and electronics industries. Japan retains an edge in materials and sustainable technologies but faces increasing competition in digital domains.
+South Korea is a strong competitor in [[descriptions/edge-computing\|edge-computing]] and [[descriptions/automated-design-software\|automated-design-software]], leveraging its advanced semiconductor and electronics industries. Japan retains an edge in materials and sustainable technologies but faces increasing competition in digital domains.
 
 ### Europe
 
-European countries, particularly Germany and France, are leaders in [[biodegradable-plastics\|biodegradable-plastics]], [[biomimicry\|biomimicry]], and [[3d-printing\|3d-printing]]. Japan’s innovation ecosystem is comparable, but European firms benefit from strong EU-level coordination and market integration.
+European countries, particularly Germany and France, are leaders in [[descriptions/biodegradable-plastics\|biodegradable-plastics]], [[descriptions/biomimicry\|biomimicry]], and [[descriptions/3d-printing\|3d-printing]]. Japan’s innovation ecosystem is comparable, but European firms benefit from strong EU-level coordination and market integration.
 
 ---
 
@@ -119,23 +119,23 @@ European countries, particularly Germany and France, are leaders in [[biodegrada
 
 ### Indo-Pacific Partnerships
 
-Japan can deepen collaboration with Australia, India, and ASEAN countries in [[3d-printing\|3d-printing]], [[edge-computing\|edge-computing]], and [[biodegradable-plastics\|biodegradable-plastics]]. These markets value Japanese quality and are seeking alternatives to Chinese and Western suppliers, especially for defense and critical infrastructure.
+Japan can deepen collaboration with Australia, India, and ASEAN countries in [[descriptions/3d-printing\|3d-printing]], [[descriptions/edge-computing\|edge-computing]], and [[descriptions/biodegradable-plastics\|biodegradable-plastics]]. These markets value Japanese quality and are seeking alternatives to Chinese and Western suppliers, especially for defense and critical infrastructure.
 
 ### US-Japan Defense Tech Collaboration
 
-The US-Japan alliance provides a platform for joint development of [[automated-design-software\|automated-design-software]], [[edge-computing\|edge-computing]], and [[augmented-reality\|augmented-reality]] for military applications. Japanese firms can contribute advanced materials and manufacturing, while benefiting from US software and systems integration expertise.
+The US-Japan alliance provides a platform for joint development of [[descriptions/automated-design-software\|automated-design-software]], [[descriptions/edge-computing\|edge-computing]], and [[descriptions/augmented-reality\|augmented-reality]] for military applications. Japanese firms can contribute advanced materials and manufacturing, while benefiting from US software and systems integration expertise.
 
 ### Europe-Japan Green Tech Initiatives
 
-There is strong potential for joint R&D and commercialization of [[biodegradable-plastics\|biodegradable-plastics]] and [[biomimicry\|biomimicry]] solutions with European partners, leveraging shared sustainability goals and complementary strengths.
+There is strong potential for joint R&D and commercialization of [[descriptions/biodegradable-plastics\|biodegradable-plastics]] and [[descriptions/biomimicry\|biomimicry]] solutions with European partners, leveraging shared sustainability goals and complementary strengths.
 
 ### Export of Edge AI and AR Solutions
 
-Companies like [[edgecortix\|EdgeCortix]] and [[mawari\|Mawari]] are well positioned to export AI and AR platforms to emerging markets in Southeast Asia, the Middle East, and Africa, where demand for smart infrastructure and training solutions is growing.
+Companies like [[organisations/edgecortix\|EdgeCortix]] and [[organisations/mawari\|Mawari]] are well positioned to export AI and AR platforms to emerging markets in Southeast Asia, the Middle East, and Africa, where demand for smart infrastructure and training solutions is growing.
 
 ### Academic and Industrial Consortia
 
-Japan’s universities and research institutes can expand international consortia for [[biomimicry\|biomimicry]] and advanced materials, attracting global talent and funding, and accelerating technology transfer.
+Japan’s universities and research institutes can expand international consortia for [[descriptions/biomimicry\|biomimicry]] and advanced materials, attracting global talent and funding, and accelerating technology transfer.
 
 ---
 
@@ -159,7 +159,7 @@ Slow regulatory adaptation can impede innovation and deployment. Japan should st
 
 ### Aging Infrastructure
 
-To avoid obsolescence, Japan must invest in upgrading manufacturing and R&D infrastructure, particularly for [[3d-printing\|3d-printing]] and [[edge-computing\|edge-computing]]. Public-private partnerships and targeted subsidies can accelerate modernization.
+To avoid obsolescence, Japan must invest in upgrading manufacturing and R&D infrastructure, particularly for [[descriptions/3d-printing\|3d-printing]] and [[descriptions/edge-computing\|edge-computing]]. Public-private partnerships and targeted subsidies can accelerate modernization.
 
 ---
 
@@ -167,15 +167,15 @@ To avoid obsolescence, Japan must invest in upgrading manufacturing and R&D infr
 
 ### Consolidation of Leadership in Materials and Manufacturing
 
-Japan is expected to maintain and consolidate its leadership in [[biodegradable-plastics\|biodegradable-plastics]], [[biomimicry\|biomimicry]], and high-precision [[3d-printing\|3d-printing]], driven by continued investment in materials science and sustainable technologies. The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] will remain central to these efforts, with increasing commercialization through partnerships with firms like [[ricoh\|Ricoh]] and [[AZUL Energy Inc.\|AZUL Energy Inc.]].
+Japan is expected to maintain and consolidate its leadership in [[descriptions/biodegradable-plastics\|biodegradable-plastics]], [[descriptions/biomimicry\|biomimicry]], and high-precision [[descriptions/3d-printing\|3d-printing]], driven by continued investment in materials science and sustainable technologies. The [[RIKEN Center for Emergent Matter Science and University of Tokyo\|RIKEN Center for Emergent Matter Science and University of Tokyo]] will remain central to these efforts, with increasing commercialization through partnerships with firms like [[organisations/ricoh\|Ricoh]] and [[AZUL Energy Inc.\|AZUL Energy Inc.]].
 
 ### Acceleration in Edge Computing and AI Integration
 
-With the maturation of AI accelerators and real-time inference platforms from [[edgecortix\|EdgeCortix]], Japan will play a growing role in the global [[edge-computing\|edge-computing]] market. Adoption will expand in defense, smart infrastructure, and autonomous systems, supported by government procurement and export opportunities.
+With the maturation of AI accelerators and real-time inference platforms from [[organisations/edgecortix\|EdgeCortix]], Japan will play a growing role in the global [[descriptions/edge-computing\|edge-computing]] market. Adoption will expand in defense, smart infrastructure, and autonomous systems, supported by government procurement and export opportunities.
 
 ### Expansion in Augmented Reality and Automated Design
 
-The next five years will see broader deployment of [[augmented-reality\|augmented-reality]] and [[automated-design-software\|automated-design-software]] in both civilian and defense sectors. [[mawari\|Mawari]] and [[autify\|Autify]] are poised for significant growth, particularly as demand for remote training, simulation, and automated quality assurance increases.
+The next five years will see broader deployment of [[descriptions/augmented-reality\|augmented-reality]] and [[descriptions/automated-design-software\|automated-design-software]] in both civilian and defense sectors. [[organisations/mawari\|Mawari]] and [[organisations/autify\|Autify]] are poised for significant growth, particularly as demand for remote training, simulation, and automated quality assurance increases.
 
 ### Enhanced International Collaboration
 

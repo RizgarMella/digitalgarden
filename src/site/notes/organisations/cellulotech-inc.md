@@ -5,5 +5,5 @@
 
 Imparts superhydrophobic properties to paper via green chemistry.
 
-related_to:: [[biomimicry\|biomimicry]]
-related_to:: [[canada\|Canada]]
+related_to:: [[descriptions/biomimicry\|biomimicry]]
+related_to:: [[digests/canada\|Canada]]

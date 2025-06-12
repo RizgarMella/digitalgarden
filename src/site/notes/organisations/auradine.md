@@ -5,5 +5,5 @@
 
 Secured $80 million in April 2024 for blockchain infrastructure solutions.
 
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[digests/united-states\|United-States]]

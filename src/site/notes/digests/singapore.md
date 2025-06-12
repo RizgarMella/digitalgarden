@@ -5,7 +5,7 @@
 
 ## Executive Summary
 
-This report provides a comprehensive assessment of Singapore’s current performance and future trajectory in two key dual-use technologies: [[blockchain-technology\|blockchain-technology]] and [[digital-twins\|digital-twins]], as of June 2025. The analysis focuses on the roles of leading local organisations, namely [[datamesh\|DataMesh]] and the [[National University of Singapore\|National University of Singapore]], in advancing these technologies for both civilian and defence applications. Singapore’s innovation ecosystem, strong regulatory frameworks, and strategic investments have positioned it as a regional leader in digital transformation. However, challenges remain in scaling deployments and maintaining technological sovereignty. The report concludes with a five-year outlook, identifying opportunities, risks, and recommendations for sustaining Singapore’s competitive edge.
+This report provides a comprehensive assessment of Singapore’s current performance and future trajectory in two key dual-use technologies: [[descriptions/blockchain-technology\|blockchain-technology]] and [[descriptions/digital-twins\|digital-twins]], as of June 2025. The analysis focuses on the roles of leading local organisations, namely [[organisations/datamesh\|DataMesh]] and the [[National University of Singapore\|National University of Singapore]], in advancing these technologies for both civilian and defence applications. Singapore’s innovation ecosystem, strong regulatory frameworks, and strategic investments have positioned it as a regional leader in digital transformation. However, challenges remain in scaling deployments and maintaining technological sovereignty. The report concludes with a five-year outlook, identifying opportunities, risks, and recommendations for sustaining Singapore’s competitive edge.
 
 ---
 
@@ -13,7 +13,7 @@ This report provides a comprehensive assessment of Singapore’s current perform
 
 ### Strategic National Vision and Policy Support
 
-Singapore’s government has consistently prioritised digital innovation as a core pillar of national development. The Smart Nation initiative, now in its second decade, provides a robust policy backbone for the adoption of [[blockchain-technology\|blockchain-technology]] and [[digital-twins\|digital-twins]]. Regulatory sandboxes, grants, and public-private partnerships have created a fertile environment for experimentation and scaling.
+Singapore’s government has consistently prioritised digital innovation as a core pillar of national development. The Smart Nation initiative, now in its second decade, provides a robust policy backbone for the adoption of [[descriptions/blockchain-technology\|blockchain-technology]] and [[descriptions/digital-twins\|digital-twins]]. Regulatory sandboxes, grants, and public-private partnerships have created a fertile environment for experimentation and scaling.
 
 ### Research and Talent Ecosystem
 
@@ -21,7 +21,7 @@ The presence of world-class institutions, notably the [[National University of S
 
 ### Industry Champions and Startups
 
-Singapore’s vibrant startup ecosystem includes key players like [[datamesh\|DataMesh]], which has emerged as a regional leader in digital twin solutions for manufacturing, logistics, and urban planning. The city-state’s status as a financial hub has also attracted global blockchain firms, while local startups have pioneered applications in supply chain, fintech, and defence logistics.
+Singapore’s vibrant startup ecosystem includes key players like [[organisations/datamesh\|DataMesh]], which has emerged as a regional leader in digital twin solutions for manufacturing, logistics, and urban planning. The city-state’s status as a financial hub has also attracted global blockchain firms, while local startups have pioneered applications in supply chain, fintech, and defence logistics.
 
 ### Defence Innovation and Dual-Use Mindset
 
@@ -58,7 +58,7 @@ The rapid evolution of both technologies has led to a fragmented standards lands
 
 ### DataMesh
 
-- **Industrial Digital Twin Platforms**: [[datamesh\|DataMesh]] provides turnkey digital twin solutions for manufacturing, logistics, and defence clients. Its platforms integrate real-time IoT data, 3D modelling, and predictive analytics to optimise asset management and operational efficiency.
+- **Industrial Digital Twin Platforms**: [[organisations/datamesh\|DataMesh]] provides turnkey digital twin solutions for manufacturing, logistics, and defence clients. Its platforms integrate real-time IoT data, 3D modelling, and predictive analytics to optimise asset management and operational efficiency.
 - **Cross-Sector Pilots**: DataMesh has partnered with Changi Airport Group and PSA International to deploy digital twins for predictive maintenance and logistics optimisation, demonstrating dual-use potential for both civilian and defence logistics.
 
 ### Government Initiatives
@@ -116,7 +116,7 @@ Singapore’s model of public-private consortia (e.g., Project Ubin, DataMesh pi
 
 ### Cybersecurity and Data Privacy
 
-Both [[blockchain-technology\|blockchain-technology]] and [[digital-twins\|digital-twins]] introduce new attack surfaces. Smart contract vulnerabilities, blockchain consensus attacks, and digital twin data breaches could compromise critical infrastructure or defence operations.
+Both [[descriptions/blockchain-technology\|blockchain-technology]] and [[descriptions/digital-twins\|digital-twins]] introduce new attack surfaces. Smart contract vulnerabilities, blockchain consensus attacks, and digital twin data breaches could compromise critical infrastructure or defence operations.
 
 **Mitigation:**  
 - Continued investment in cybersecurity R&D (e.g., NUS’s Centre for Cybersecurity).
@@ -156,7 +156,7 @@ Global competition for skilled professionals could erode Singapore’s talent ba
 
 ### Technology Trajectory
 
-Over the next five years, Singapore is poised to consolidate its leadership in the secure, scalable deployment of [[blockchain-technology\|blockchain-technology]] and [[digital-twins\|digital-twins]] for both civilian and defence applications. Key trends include:
+Over the next five years, Singapore is poised to consolidate its leadership in the secure, scalable deployment of [[descriptions/blockchain-technology\|blockchain-technology]] and [[descriptions/digital-twins\|digital-twins]] for both civilian and defence applications. Key trends include:
 
 - **Mainstream Adoption**: Widespread integration of blockchain-based digital identities, trade documentation, and asset tokenisation across government and industry.
 - **City-Scale Digital Twins**: Expansion of urban digital twins to cover all major infrastructure, enabling real-time monitoring, predictive maintenance, and scenario planning for resilience.
@@ -178,4 +178,4 @@ Over the next five years, Singapore is poised to consolidate its leadership in t
 
 ### Conclusion
 
-Singapore’s proactive approach, anchored by institutions like [[datamesh\|DataMesh]] and the [[National University of Singapore\|National University of Singapore]], has established a strong foundation in [[blockchain-technology\|blockchain-technology]] and [[digital-twins\|digital-twins]]. With sustained investment, strategic partnerships, and a focus on sovereign capabilities, Singapore is well-positioned to remain a regional leader and trusted exporter of dual-use digital technologies over the next five years. However, success will depend on the city-state’s ability to scale, secure, and continually innovate in an increasingly competitive and complex global landscape.
+Singapore’s proactive approach, anchored by institutions like [[organisations/datamesh\|DataMesh]] and the [[National University of Singapore\|National University of Singapore]], has established a strong foundation in [[descriptions/blockchain-technology\|blockchain-technology]] and [[descriptions/digital-twins\|digital-twins]]. With sustained investment, strategic partnerships, and a focus on sovereign capabilities, Singapore is well-positioned to remain a regional leader and trusted exporter of dual-use digital technologies over the next five years. However, success will depend on the city-state’s ability to scale, secure, and continually innovate in an increasingly competitive and complex global landscape.

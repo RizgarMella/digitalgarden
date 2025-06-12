@@ -5,5 +5,5 @@
 
 Recognized for research in composite materials and structures.
 
-related_to:: [[composite-materials\|composite-materials]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/composite-materials\|composite-materials]]
+related_to:: [[digests/united-states\|United-States]]

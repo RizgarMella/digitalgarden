@@ -5,5 +5,5 @@
 
 Developing fully biodegradable plastic straw with $719,000 award from Temasek Foundation.
 
-related_to:: [[biodegradable-plastics\|biodegradable-plastics]]
-related_to:: [[usa\|USA]]
+related_to:: [[descriptions/biodegradable-plastics\|biodegradable-plastics]]
+related_to:: [[digests/usa\|USA]]

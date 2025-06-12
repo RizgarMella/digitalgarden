@@ -5,6 +5,6 @@
 
 Established in April 2025, focusing on digital science and AR technologies.
 
-related_to:: [[augmented-reality\|augmented-reality]]
-related_to:: [[germany\|Germany]]
-related_to:: [[cloud-computing\|cloud-computing]]
+related_to:: [[descriptions/augmented-reality\|augmented-reality]]
+related_to:: [[digests/germany\|Germany]]
+related_to:: [[descriptions/cloud-computing\|cloud-computing]]

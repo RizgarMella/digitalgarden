@@ -5,5 +5,5 @@
 
 Raised $3M in October 2023 for decentralized biometric identification solutions.
 
-related_to:: [[biometric-authentication\|biometric-authentication]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/biometric-authentication\|biometric-authentication]]
+related_to:: [[digests/united-states\|United-States]]

@@ -5,11 +5,11 @@
 
 ## Executive Summary
 
-Sweden has emerged as a significant player in the development and deployment of [[wearable-health-tech\|wearable-health-tech]], leveraging its robust healthcare infrastructure, innovative technology sector, and supportive government policies. The intersection of dual-use technologies—those with both civilian and military applications—has become increasingly relevant as the Swedish government seeks to modernize its defense capabilities while maintaining its leadership in public health and digital innovation. 
+Sweden has emerged as a significant player in the development and deployment of [[descriptions/wearable-health-tech\|wearable-health-tech]], leveraging its robust healthcare infrastructure, innovative technology sector, and supportive government policies. The intersection of dual-use technologies—those with both civilian and military applications—has become increasingly relevant as the Swedish government seeks to modernize its defense capabilities while maintaining its leadership in public health and digital innovation. 
 
 A key contributor to this ecosystem is [[Neko Health\|Neko Health]], a Swedish company at the forefront of non-invasive health monitoring solutions. Their advancements in sensor technology, data analytics, and user-centric design have positioned Sweden as a leader in wearable health technologies with potential applications across both civilian and defense sectors.
 
-This report assesses Sweden’s current performance and trajectory in [[wearable-health-tech\|wearable-health-tech]], focusing on strengths, weaknesses, notable programmes and investments, competitive comparisons, opportunities for collaboration/export, risks, and a five-year outlook.
+This report assesses Sweden’s current performance and trajectory in [[descriptions/wearable-health-tech\|wearable-health-tech]], focusing on strengths, weaknesses, notable programmes and investments, competitive comparisons, opportunities for collaboration/export, risks, and a five-year outlook.
 
 ---
 
@@ -17,7 +17,7 @@ This report assesses Sweden’s current performance and trajectory in [[wearable
 
 ### Advanced Healthcare System and Digital Infrastructure
 
-Sweden’s universal healthcare system and widespread adoption of digital health records provide a strong foundation for integrating [[wearable-health-tech\|wearable-health-tech]] into both clinical and non-clinical settings. The country’s high degree of digital literacy and trust in public institutions facilitate large-scale data collection and analysis, essential for the effectiveness of wearable health solutions.
+Sweden’s universal healthcare system and widespread adoption of digital health records provide a strong foundation for integrating [[descriptions/wearable-health-tech\|wearable-health-tech]] into both clinical and non-clinical settings. The country’s high degree of digital literacy and trust in public institutions facilitate large-scale data collection and analysis, essential for the effectiveness of wearable health solutions.
 
 ### Innovation Ecosystem
 
@@ -25,7 +25,7 @@ Sweden boasts a vibrant innovation ecosystem, underpinned by significant public 
 
 ### Focus on Preventive and Predictive Health
 
-Swedish health policy emphasizes preventive care, aligning well with the capabilities of [[wearable-health-tech\|wearable-health-tech]]. Continuous monitoring and early detection of health issues not only improve civilian health outcomes but also enhance force readiness and resilience within the Swedish Armed Forces.
+Swedish health policy emphasizes preventive care, aligning well with the capabilities of [[descriptions/wearable-health-tech\|wearable-health-tech]]. Continuous monitoring and early detection of health issues not only improve civilian health outcomes but also enhance force readiness and resilience within the Swedish Armed Forces.
 
 ### Data Privacy and Security Standards
 
@@ -41,11 +41,11 @@ Sweden’s rigorous data privacy regulations, in line with the EU’s General Da
 
 ### Limited Domestic Scale
 
-Despite its strengths, Sweden’s relatively small population (approx. 10.5 million) limits the domestic market size for [[wearable-health-tech\|wearable-health-tech]]. This can constrain the speed and scale at which new technologies are adopted and iterated upon, potentially impacting economies of scale compared to larger markets.
+Despite its strengths, Sweden’s relatively small population (approx. 10.5 million) limits the domestic market size for [[descriptions/wearable-health-tech\|wearable-health-tech]]. This can constrain the speed and scale at which new technologies are adopted and iterated upon, potentially impacting economies of scale compared to larger markets.
 
 ### Fragmented Procurement Processes
 
-The Swedish defense procurement system, while transparent, can be slow and fragmented. Integrating civilian-developed [[wearable-health-tech\|wearable-health-tech]] into military contexts often requires lengthy certification and adaptation processes, which can delay deployment and reduce agility in responding to emerging threats.
+The Swedish defense procurement system, while transparent, can be slow and fragmented. Integrating civilian-developed [[descriptions/wearable-health-tech\|wearable-health-tech]] into military contexts often requires lengthy certification and adaptation processes, which can delay deployment and reduce agility in responding to emerging threats.
 
 ### Talent Competition
 
@@ -57,7 +57,7 @@ Although Sweden’s data privacy laws are robust, navigating the intersection of
 
 ### Export Controls
 
-As dual-use technologies, advanced [[wearable-health-tech\|wearable-health-tech]] solutions may be subject to export controls under Swedish and EU law. This can complicate international collaboration and limit market access, particularly in regions with heightened security sensitivities.
+As dual-use technologies, advanced [[descriptions/wearable-health-tech\|wearable-health-tech]] solutions may be subject to export controls under Swedish and EU law. This can complicate international collaboration and limit market access, particularly in regions with heightened security sensitivities.
 
 ---
 
@@ -73,7 +73,7 @@ Sweden’s innovation agency, Vinnova, has allocated dedicated funding streams f
 
 ### FOI Research Initiatives
 
-The Swedish Defence Research Agency (FOI) has initiated research programs focused on the integration of [[wearable-health-tech\|wearable-health-tech]] into defense operations. These include studies on physiological monitoring for soldiers in extreme environments and the use of aggregated health data for predictive analytics in force health management.
+The Swedish Defence Research Agency (FOI) has initiated research programs focused on the integration of [[descriptions/wearable-health-tech\|wearable-health-tech]] into defense operations. These include studies on physiological monitoring for soldiers in extreme environments and the use of aggregated health data for predictive analytics in force health management.
 
 ### Public-Private Partnerships
 
@@ -89,7 +89,7 @@ Swedish organizations, including [[Neko Health\|Neko Health]], participate in EU
 
 ### United States
 
-The US remains the global leader in [[wearable-health-tech\|wearable-health-tech]], driven by massive R&D budgets, a large domestic market, and close ties between the tech industry and the Department of Defense (DoD). Companies like Apple, Google, and Garmin have developed advanced wearables, and the US military has piloted multiple health-monitoring programs. However, the US faces challenges around data privacy and interoperability.
+The US remains the global leader in [[descriptions/wearable-health-tech\|wearable-health-tech]], driven by massive R&D budgets, a large domestic market, and close ties between the tech industry and the Department of Defense (DoD). Companies like Apple, Google, and Garmin have developed advanced wearables, and the US military has piloted multiple health-monitoring programs. However, the US faces challenges around data privacy and interoperability.
 
 ### United Kingdom
 
@@ -97,7 +97,7 @@ The UK has made significant investments in digital health and defense innovation
 
 ### Germany
 
-Germany’s focus is on medical-grade [[wearable-health-tech\|wearable-health-tech]] for both civilian and military applications. German companies emphasize compliance with stringent medical device regulations and have pioneered solutions for remote patient monitoring and field medicine. However, bureaucratic hurdles can slow innovation cycles.
+Germany’s focus is on medical-grade [[descriptions/wearable-health-tech\|wearable-health-tech]] for both civilian and military applications. German companies emphasize compliance with stringent medical device regulations and have pioneered solutions for remote patient monitoring and field medicine. However, bureaucratic hurdles can slow innovation cycles.
 
 ### Israel
 
@@ -113,7 +113,7 @@ Sweden, led by innovators like [[Neko Health\|Neko Health]], is highly competiti
 
 ### NATO and EU Defense Initiatives
 
-Sweden’s recent NATO accession (2024) opens new avenues for collaboration on health monitoring and force protection. Swedish [[wearable-health-tech\|wearable-health-tech]] providers, including [[Neko Health\|Neko Health]], can contribute to NATO’s Allied Health System Modernization and joint exercises.
+Sweden’s recent NATO accession (2024) opens new avenues for collaboration on health monitoring and force protection. Swedish [[descriptions/wearable-health-tech\|wearable-health-tech]] providers, including [[Neko Health\|Neko Health]], can contribute to NATO’s Allied Health System Modernization and joint exercises.
 
 ### Scandinavian and Baltic Partnerships
 
@@ -121,7 +121,7 @@ Regional collaboration with Norway, Finland, and the Baltic states offers opport
 
 ### Civil-Military Crisis Response
 
-Sweden’s expertise in integrating civilian and military crisis response (e.g., pandemic response, disaster relief) creates export opportunities for dual-use [[wearable-health-tech\|wearable-health-tech]] platforms that can be rapidly deployed in emergencies.
+Sweden’s expertise in integrating civilian and military crisis response (e.g., pandemic response, disaster relief) creates export opportunities for dual-use [[descriptions/wearable-health-tech\|wearable-health-tech]] platforms that can be rapidly deployed in emergencies.
 
 ### Export to Asia-Pacific
 
@@ -143,7 +143,7 @@ Participation in EU-wide digital health projects, such as the European Health Da
 
 ### Export Control and Geopolitical Tensions
 
-**Risk:** Dual-use classification of advanced [[wearable-health-tech\|wearable-health-tech]] may trigger export restrictions, especially to countries with ambiguous security relationships.
+**Risk:** Dual-use classification of advanced [[descriptions/wearable-health-tech\|wearable-health-tech]] may trigger export restrictions, especially to countries with ambiguous security relationships.
 
 **Mitigation:** Proactive engagement with the Swedish Inspectorate of Strategic Products (ISP) and alignment with EU export control regimes can streamline approvals and clarify compliance requirements.
 
@@ -161,7 +161,7 @@ Participation in EU-wide digital health projects, such as the European Health Da
 
 ### Talent Drain
 
-**Risk:** Global demand for expertise in [[wearable-health-tech\|wearable-health-tech]] could lead to a brain drain from Swedish firms to larger international players.
+**Risk:** Global demand for expertise in [[descriptions/wearable-health-tech\|wearable-health-tech]] could lead to a brain drain from Swedish firms to larger international players.
 
 **Mitigation:** Enhanced government support for R&D, competitive compensation, and incentives for domestic talent retention are recommended.
 
@@ -169,13 +169,13 @@ Participation in EU-wide digital health projects, such as the European Health Da
 
 ## Outlook (5-year)
 
-Over the next five years, Sweden is poised to consolidate its leadership in [[wearable-health-tech\|wearable-health-tech]], with [[Neko Health\|Neko Health]] and similar companies driving innovation at the intersection of health, technology, and defense. Key trends and projections include:
+Over the next five years, Sweden is poised to consolidate its leadership in [[descriptions/wearable-health-tech\|wearable-health-tech]], with [[Neko Health\|Neko Health]] and similar companies driving innovation at the intersection of health, technology, and defense. Key trends and projections include:
 
 - **Integration with Defense Modernization:** Sweden’s NATO membership will accelerate the adoption of dual-use wearable health solutions within the Swedish Armed Forces and allied militaries, particularly for force health protection, resilience, and readiness.
-- **Growth in Civil-Military Interoperability:** Continued investment in interoperable platforms will enable rapid deployment of [[wearable-health-tech\|wearable-health-tech]] in both civilian crisis response and military operations, enhancing national resilience.
+- **Growth in Civil-Military Interoperability:** Continued investment in interoperable platforms will enable rapid deployment of [[descriptions/wearable-health-tech\|wearable-health-tech]] in both civilian crisis response and military operations, enhancing national resilience.
 - **Expansion into Export Markets:** Swedish firms are expected to increase exports to NATO/EU partners and select Asia-Pacific markets, leveraging Sweden’s reputation for privacy, quality, and ethical technology development.
 - **Advances in AI and Predictive Analytics:** The integration of AI-driven analytics will enable more sophisticated health monitoring, early warning, and decision support, with applications in both healthcare and defense.
 - **Ongoing Regulatory and Ethical Leadership:** Sweden will continue to set high standards for data privacy, security, and ethical use of health data, influencing international norms and standards.
 - **Potential Bottlenecks:** Challenges around export controls, talent retention, and regulatory complexity will persist, but are likely to be managed through proactive policy and industry engagement.
 
-In summary, Sweden’s trajectory in [[wearable-health-tech\|wearable-health-tech]] is strongly positive, with a balanced approach that prioritizes innovation, security, and ethical considerations. The country is well positioned to be a key supplier and partner in dual-use health technologies for both domestic and international stakeholders through 2030 and beyond.
+In summary, Sweden’s trajectory in [[descriptions/wearable-health-tech\|wearable-health-tech]] is strongly positive, with a balanced approach that prioritizes innovation, security, and ethical considerations. The country is well positioned to be a key supplier and partner in dual-use health technologies for both domestic and international stakeholders through 2030 and beyond.

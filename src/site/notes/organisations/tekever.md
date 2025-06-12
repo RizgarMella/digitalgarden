@@ -5,5 +5,5 @@
 
 Secured additional funding in 2024; produces AI-enabled surveillance drones used in Ukraine.
 
-related_to:: [[autonomous-drones\|autonomous-drones]]
-related_to:: [[portugal\|Portugal]]
+related_to:: [[descriptions/autonomous-drones\|autonomous-drones]]
+related_to:: [[digests/portugal\|Portugal]]

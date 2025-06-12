@@ -5,5 +5,5 @@
 
 Established in 2019, building opened in April 2024.
 
-related_to:: [[data-analytics\|data-analytics]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/data-analytics\|data-analytics]]
+related_to:: [[digests/united-states\|United-States]]

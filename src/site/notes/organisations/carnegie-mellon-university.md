@@ -5,7 +5,7 @@
 
 Hosts NREC, developing autonomous systems and robotic design technologies.
 
-related_to:: [[automated-design-software\|automated-design-software]]
-related_to:: [[usa\|USA]]
-related_to:: [[robotics\|robotics]]
-related_to:: [[united-states\|United-States]]
+related_to:: [[descriptions/automated-design-software\|automated-design-software]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[descriptions/robotics\|robotics]]
+related_to:: [[digests/united-states\|United-States]]

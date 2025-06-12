@@ -11,9 +11,9 @@ related_to:: [[Superpedestrian\|Superpedestrian]]
 related_to:: [[Bastille Networks\|Bastille Networks]]
 related_to:: [[Arundo Analytics\|Arundo Analytics]]
 
-related_to:: [[augmented-reality\|augmented-reality]]
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[sensors\|sensors]]
+related_to:: [[descriptions/augmented-reality\|augmented-reality]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[descriptions/sensors\|sensors]]
 
 ## Overview
 The Internet of Things (IoT) represents a transformative paradigm in which everyday objects are embedded with sensors, software, and connectivity capabilities, enabling them to collect and exchange data over the internet. This interconnected ecosystem encompasses a wide range of devices, from household appliances to industrial machinery, and even military assets. The proliferation of IoT technology has been fueled by advancements in wireless communication, miniaturization of sensors, and the increasing ubiquity of cloud computing.
@@ -59,18 +59,18 @@ To capitalize on the potential of IoT in defence, a strategic investment plan sh
 4. **Training and Workforce Development:** Invest in training programs to equip military personnel with the skills needed to operate and maintain IoT systems effectively.
 
 5. **Funding for Startups:** Consider funding or acquiring startups focused on IoT innovations to enhance the defence sector's technological capabilities and foster a culture of innovation.
-related_to:: [[armis\|Armis]]
-related_to:: [[israel\|Israel]]
-related_to:: [[artisight\|Artisight]]
-related_to:: [[usa\|USA]]
-related_to:: [[assetwatch\|AssetWatch]]
+related_to:: [[organisations/armis\|Armis]]
+related_to:: [[digests/israel\|Israel]]
+related_to:: [[organisations/artisight\|Artisight]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[organisations/assetwatch\|AssetWatch]]
 related_to:: [[Kontakt.io\|Kontakt.io]]
-related_to:: [[memfault\|Memfault]]
+related_to:: [[organisations/memfault\|Memfault]]
 related_to:: [[Morse Micro\|Morse Micro]]
-related_to:: [[australia\|Australia]]
+related_to:: [[digests/australia\|Australia]]
 related_to:: [[Skylo Technologies\|Skylo Technologies]]
 related_to:: [[TXOne Networks\|TXOne Networks]]
-related_to:: [[taiwan\|Taiwan]]
+related_to:: [[digests/taiwan\|Taiwan]]
 related_to:: [["Artisight"\|"Artisight"]]
 related_to:: [["Kontakt.io"\|"Kontakt.io"]]
 related_to:: [["Memfault"\|"Memfault"]]

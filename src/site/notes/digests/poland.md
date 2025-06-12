@@ -13,7 +13,7 @@ This report provides a comprehensive assessment of Poland’s current performanc
 
 ### Strategic Commitment and Policy Support
 
-Poland’s national security strategy and industrial policy have, since 2022, explicitly prioritized dual-use technologies, including advanced [[sensors\|sensors]], as critical enablers for defense modernization and economic growth. The government’s National Centre for Research and Development (NCBR) and the Ministry of National Defence (MON) have increased R&D funding for sensor technologies, particularly those with applications in surveillance, reconnaissance, border security, and critical infrastructure protection.
+Poland’s national security strategy and industrial policy have, since 2022, explicitly prioritized dual-use technologies, including advanced [[descriptions/sensors\|sensors]], as critical enablers for defense modernization and economic growth. The government’s National Centre for Research and Development (NCBR) and the Ministry of National Defence (MON) have increased R&D funding for sensor technologies, particularly those with applications in surveillance, reconnaissance, border security, and critical infrastructure protection.
 
 ### Academic and Research Excellence
 
@@ -45,7 +45,7 @@ Some advanced sensor components, especially those requiring rare earth elements 
 
 ### Fragmented Innovation Ecosystem
 
-Despite progress, Poland’s innovation ecosystem for dual-use [[sensors\|sensors]] remains fragmented. Collaboration between academia, startups, and large defense primes is often ad hoc, with limited mechanisms for technology transfer, incubation, and scaling. Funding for early-stage ventures, such as [[Quantum Innovations\|Quantum Innovations]], is improving but still falls short of levels seen in Germany, France, or the UK.
+Despite progress, Poland’s innovation ecosystem for dual-use [[descriptions/sensors\|sensors]] remains fragmented. Collaboration between academia, startups, and large defense primes is often ad hoc, with limited mechanisms for technology transfer, incubation, and scaling. Funding for early-stage ventures, such as [[Quantum Innovations\|Quantum Innovations]], is improving but still falls short of levels seen in Germany, France, or the UK.
 
 ---
 
@@ -141,7 +141,7 @@ Polish universities and SMEs are increasingly sought-after partners for collabor
 
 ### Continued Growth and Maturation
 
-Over the next five years, Poland is expected to consolidate its position as a regional leader in dual-use [[sensors\|sensors]], with steady growth in R&D investment, technology maturation, and export activity. The National Sensor Technology Roadmap will drive the deployment of advanced sensor networks for defense, border security, and critical infrastructure, while also catalyzing spillovers into civilian markets.
+Over the next five years, Poland is expected to consolidate its position as a regional leader in dual-use [[descriptions/sensors\|sensors]], with steady growth in R&D investment, technology maturation, and export activity. The National Sensor Technology Roadmap will drive the deployment of advanced sensor networks for defense, border security, and critical infrastructure, while also catalyzing spillovers into civilian markets.
 
 ### Quantum Sensing as a Differentiator
 

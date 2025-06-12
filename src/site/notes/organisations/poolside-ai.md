@@ -5,5 +5,5 @@
 
 Raised $500 million; develops AI for code generation.
 
-related_to:: [[artificial-intelligence\|artificial-intelligence]]
-related_to:: [[france\|France]]
+related_to:: [[descriptions/artificial-intelligence\|artificial-intelligence]]
+related_to:: [[digests/france\|France]]

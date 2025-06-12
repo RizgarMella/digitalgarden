@@ -5,6 +5,6 @@
 
 Secured over $13M in Series A funding for MEMS fabrication IP.
 
-related_to:: [[sensors\|sensors]]
-related_to:: [[usa\|USA]]
-related_to:: [[smart-sensors\|smart-sensors]]
+related_to:: [[descriptions/sensors\|sensors]]
+related_to:: [[digests/usa\|USA]]
+related_to:: [[descriptions/smart-sensors\|smart-sensors]]

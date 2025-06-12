@@ -5,6 +5,6 @@
 
 Secured €120 million in January 2025 for cognitive humanoid robots.
 
-related_to:: [[robotics\|robotics]]
-related_to:: [[germany\|Germany]]
-related_to:: [[smart-sensors\|smart-sensors]]
+related_to:: [[descriptions/robotics\|robotics]]
+related_to:: [[digests/germany\|Germany]]
+related_to:: [[descriptions/smart-sensors\|smart-sensors]]

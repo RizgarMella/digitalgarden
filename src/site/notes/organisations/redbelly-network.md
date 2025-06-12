@@ -5,5 +5,5 @@
 
 Developed from University of Sydney research for compliant asset tokenization.
 
-related_to:: [[blockchain-technology\|blockchain-technology]]
-related_to:: [[australia\|Australia]]
+related_to:: [[descriptions/blockchain-technology\|blockchain-technology]]
+related_to:: [[digests/australia\|Australia]]
