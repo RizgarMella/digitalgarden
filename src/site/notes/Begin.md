@@ -13,7 +13,7 @@
 
 ### Welcome
 
-Welcome to the Defence Innovation Garden, or "the DIG". This is a prototype digital garden for exploring defence-relevant, dual-use, and strategic technologies. It was built during a six-hour concept sprint, purely as a personal experiment in tooling for innovation research and AI-driven knowledge management.
+Welcome to the Defence Insight Garden, or "the DIG". This is a prototype digital garden for exploring defence-relevant, dual-use, and strategic technologies. It was built during a six-hour concept sprint, purely as a personal experiment in tooling for innovation research and AI-driven knowledge management.
 
 A digital garden is a living, evolving knowledge space. Unlike a traditional website, it is not a fixed repository. It supports incomplete thoughts, ongoing revision, and cross-linking. Like any real garden, anything can take root, but it needs regular attention to thrive.
 
